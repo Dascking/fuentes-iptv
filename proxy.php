@@ -82,6 +82,7 @@ if (!empty($powerLink)) {
     // Parsear URL base y headers
     $parts = explode("|", $link, 2);
     $m3u8Url = $parts[0];
+    $m3u8Url = str_replace("&amp;", "&", $m3u8Url);  // fix encoded ampersands
     $headersStr = $parts[1] ?? "";
 
     // Parsear headers tipo clave=valor

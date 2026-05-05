@@ -167,19 +167,23 @@ curl_setopt_array($ch, [
 ]);
 $m3u8Body = curl_exec($ch);
 $m3u8Code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+$finalUrl = curl_getinfo($ch, CURLINFO_EFFECTIVE_URL);
 
 if ($m3u8Code >= 400 || !$m3u8Body) {
     http_response_code(502);
     die("ERROR: M3U8 no accesible (HTTP $m3u8Code)");
 }
 
-// Reescribir paths .ts relativos a absolutos
-$basePath = dirname($m3u8Url) . "/";
+// Reescribir paths .ts relativos a absolutos, incluyendo el token del M3U8
+$basePath = dirname($finalUrl) . "/";
+$queryString = parse_url($finalUrl, PHP_URL_QUERY);
+$queryAppend = $queryString ? "?" . $queryString : "";
+
 $lines = explode("\n", $m3u8Body);
 foreach ($lines as &$line) {
     $line = rtrim($line);
     if (!empty($line) && $line[0] !== "#" && !str_starts_with($line, "http")) {
-        $line = $basePath . $line;
+        $line = $basePath . $line . $queryAppend;
     }
 }
 $m3u8Body = implode("\n", $lines);

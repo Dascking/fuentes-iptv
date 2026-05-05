@@ -129,7 +129,20 @@ if (empty($m3u8Match[1])) {
     die("ERROR: no se encontro M3U8 en pagina embed");
 }
 
-http_response_code(302);
-header("Location: " . $m3u8Match[1]);
+// Fetch M3U8 con browser UA y devolver contenido directo
+curl_setopt_array($ch, [
+    CURLOPT_URL     => $m3u8Match[1],
+    CURLOPT_REFERER => $embedUrl,
+]);
+$m3u8Body = curl_exec($ch);
+$m3u8Code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+
+if ($m3u8Code >= 400 || !$m3u8Body) {
+    http_response_code(502);
+    die("ERROR: M3U8 no accesible (HTTP $m3u8Code)");
+}
+
+header("Content-Type: application/vnd.apple.mpegurl");
 header("Access-Control-Allow-Origin: *");
 header("Cache-Control: no-store, no-cache, must-revalidate");
+echo $m3u8Body;

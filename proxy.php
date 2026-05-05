@@ -82,19 +82,36 @@ if (!empty($tsFile)) {
 
     $ch = curl_init();
     curl_setopt_array($ch, [
-        CURLOPT_URL            => $tsUrl,
         CURLOPT_USERAGENT      => $ua,
         CURLOPT_RETURNTRANSFER => true,
         CURLOPT_FOLLOWLOCATION => true,
         CURLOPT_TIMEOUT        => 15,
         CURLOPT_SSL_VERIFYPEER => false,
-        CURLOPT_COOKIEFILE     => $cookieJar,  // reuse session cookies
+        CURLOPT_COOKIEFILE     => $cookieJar,
         CURLOPT_COOKIEJAR      => $cookieJar,
     ]);
 
-    // Establecer la sesion antes de fetch el segmento
-    ensureSession($channelUrl, $ua, $cookieJar);
+    // Paso 1: fetch pagina del canal
+    curl_setopt($ch, CURLOPT_URL, $channelUrl);
+    $channelHtml = curl_exec($ch);
+    if (curl_getinfo($ch, CURLINFO_HTTP_CODE) >= 400 || !$channelHtml) {
+        http_response_code(502);
+        die("ERROR: canal no accesible");
+    }
 
+    preg_match('/<iframe[^>]+src="(https?:\/\/[^"]+\/embed\/[^"]+)"/i', $channelHtml, $m);
+    if (empty($m[1])) { http_response_code(502); die("ERROR: sin embed"); }
+    $embedUrl = $m[1];
+
+    // Paso 2: fetch embed (establece sesion TLS)
+    $referer = parse_url($channelUrl, PHP_URL_SCHEME) . "://" . parse_url($channelUrl, PHP_URL_HOST) . "/";
+    curl_setopt($ch, CURLOPT_URL, $embedUrl);
+    curl_setopt($ch, CURLOPT_REFERER, $referer);
+    curl_exec($ch); // solo para establecer sesion
+
+    // Paso 3: fetch segmento .ts en la misma sesion
+    curl_setopt($ch, CURLOPT_URL, $tsUrl);
+    curl_setopt($ch, CURLOPT_REFERER, $embedUrl);
     $tsData = curl_exec($ch);
     $tsCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
     $tsType = curl_getinfo($ch, CURLINFO_CONTENT_TYPE);

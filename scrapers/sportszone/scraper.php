@@ -9,7 +9,7 @@ error_reporting(E_ALL ^ E_DEPRECATED);
 set_time_limit(0);
 
 $sourceUrl    = "https://sportsonline.vc/prog.txt";
-$proxyBaseUrl = "http://74.208.207.247/proxy.php";
+$proxyBaseUrl = "http://74.208.207.247/proxy.php/stream.m3u8";
 $outputFile   = __DIR__ . "/../../playlists/sportszone.m3u";
 
 $outputDir = dirname($outputFile);

@@ -16,7 +16,7 @@ set_time_limit(0);
 
 // ===== CONFIGURACION =====
 $sourceUrl    = "http://addonbg.co/loves.php?szone";
-$proxyBaseUrl = "http://TU_VPS_IP/proxy.php";   // ← CAMBIAR por tu VPS
+$proxyBaseUrl = "http://74.208.207.247/proxy.php";   // ← CAMBIAR por tu VPS
 $outputFile   = __DIR__ . "/../../playlists/sportszone.m3u";
 // =========================
 

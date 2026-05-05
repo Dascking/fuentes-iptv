@@ -15,6 +15,7 @@ if (preg_match('#/ts/([A-Za-z0-9_-]+)\.ts#', $path, $tm)) {
     if (!$info) { http_response_code(400); die("ERROR: TS info invalida"); }
 
     $tsUrl = "https://" . $info["host"] . $info["path"] . $info["ts"];
+    $isM3u8 = str_ends_with(strtolower($info["ts"]), ".m3u8");
 
     $ch = curl_init();
     curl_setopt_array($ch, [
@@ -34,7 +35,30 @@ if (preg_match('#/ts/([A-Za-z0-9_-]+)\.ts#', $path, $tm)) {
         die("ERROR: TS segment (HTTP $tsCode)");
     }
 
-    header("Content-Type: video/mp2t");
+    // Si es un M3U8 (variant playlist), reescribir sus segmentos tambien
+    if ($isM3u8) {
+        $cdnHost = $info["host"];
+        $cdnPath = dirname($info["path"]) . "/" . basename($info["path"]) . "/";
+        $lines = explode("\n", $tsData);
+        foreach ($lines as &$line) {
+            $line = rtrim($line);
+            if (!empty($line) && $line[0] !== "#" && !str_starts_with($line, "http")) {
+                $segInfo = base64_encode(json_encode([
+                    "ts"   => basename($line),
+                    "host" => $cdnHost,
+                    "path" => $cdnPath,
+                    "ref"  => $info["ref"],
+                    "ua"   => $info["ua"],
+                ]));
+                $line = "http://74.208.207.247/proxy.php/ts/" . rtrim(strtr($segInfo, '+/', '-_'), '=') . ".ts";
+            }
+        }
+        $tsData = implode("\n", $lines);
+        header("Content-Type: application/vnd.apple.mpegurl");
+    } else {
+        header("Content-Type: video/mp2t");
+    }
+
     header("Access-Control-Allow-Origin: *");
     header("Cache-Control: public, max-age=30");
     echo $tsData;

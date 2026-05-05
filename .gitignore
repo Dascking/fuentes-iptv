@@ -1,0 +1,10 @@
+# M3U Playlist
+
+*.m3u
+
+# Output
+playlists/
+
+# OS
+.DS_Store
+Thumbs.db

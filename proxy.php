@@ -1,0 +1,88 @@
+<?php
+/**
+ * Proxy IPTV - Power
+ * Maneja el formato Kodi: M3U8_URL|header1=val1&header2=val2
+ */
+
+error_reporting(E_ALL ^ E_DEPRECATED);
+
+$ua = "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0";
+
+// ===== POWER SOURCE =====
+$powerLink = $_GET["power"] ?? "";
+
+if (!empty($powerLink)) {
+    // El link viene en formato: URL|header1=val1&header2=val2&...
+    $link = $powerLink;
+
+    // Parsear URL base y headers
+    $parts = explode("|", $link, 2);
+    $m3u8Url = $parts[0];
+    $headersStr = $parts[1] ?? "";
+
+    // Parsear headers tipo clave=valor
+    $headers = [];
+    if (!empty($headersStr)) {
+        // Reemplazar &amp; por &
+        $headersStr = str_replace("&amp;", "&", $headersStr);
+        parse_str($headersStr, $headers);
+    }
+
+    $ch = curl_init();
+    $curlOpts = [
+        CURLOPT_URL            => $m3u8Url,
+        CURLOPT_USERAGENT      => $headers["user-agent"] ?? $ua,
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_FOLLOWLOCATION => true,
+        CURLOPT_TIMEOUT        => 15,
+        CURLOPT_SSL_VERIFYPEER => !(($headers["verifypeer"] ?? "") === "false"),
+        CURLOPT_SSL_VERIFYHOST => ($headers["verifyhost"] ?? "") === "false" ? 0 : 2,
+    ];
+
+    if (!empty($headers["referer"])) {
+        $curlOpts[CURLOPT_REFERER] = $headers["referer"];
+    }
+
+    // Headers adicionales
+    $httpHeaders = [];
+    if (!empty($headers["origin"])) {
+        $httpHeaders[] = "Origin: " . $headers["origin"];
+    }
+    if (!empty($httpHeaders)) {
+        $curlOpts[CURLOPT_HTTPHEADER] = $httpHeaders;
+    }
+
+    curl_setopt_array($ch, $curlOpts);
+    $m3u8Body = curl_exec($ch);
+    $m3u8Code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+    $finalUrl = curl_getinfo($ch, CURLINFO_EFFECTIVE_URL);
+
+    if ($m3u8Code >= 400 || !$m3u8Body) {
+        http_response_code(502);
+        die("ERROR: M3U8 no accesible (HTTP $m3u8Code)");
+    }
+
+    // Reescribir paths relativos a absolutos
+    $basePath = dirname($finalUrl) . "/";
+    $query = parse_url($finalUrl, PHP_URL_QUERY);
+    $queryAppend = $query ? "?" . $query : "";
+
+    $lines = explode("\n", $m3u8Body);
+    foreach ($lines as &$line) {
+        $line = rtrim($line);
+        if (!empty($line) && $line[0] !== "#" && !str_starts_with($line, "http")) {
+            $line = $basePath . $line . $queryAppend;
+        }
+    }
+    $m3u8Body = implode("\n", $lines);
+
+    header("Content-Type: application/vnd.apple.mpegurl");
+    header("Access-Control-Allow-Origin: *");
+    header("Cache-Control: no-store, no-cache, must-revalidate");
+    echo $m3u8Body;
+    exit;
+}
+
+// Sin parametros
+http_response_code(400);
+die("ERROR: use ?power=URL|headers");

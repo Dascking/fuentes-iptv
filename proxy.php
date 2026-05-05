@@ -130,8 +130,9 @@ if (empty($m3u8Match[1])) {
 }
 
 // Fetch M3U8 con browser UA y devolver contenido directo
+$m3u8Url = $m3u8Match[1];
 curl_setopt_array($ch, [
-    CURLOPT_URL     => $m3u8Match[1],
+    CURLOPT_URL     => $m3u8Url,
     CURLOPT_REFERER => $embedUrl,
 ]);
 $m3u8Body = curl_exec($ch);
@@ -141,6 +142,18 @@ if ($m3u8Code >= 400 || !$m3u8Body) {
     http_response_code(502);
     die("ERROR: M3U8 no accesible (HTTP $m3u8Code)");
 }
+
+// Reescribir URLs relativas a absolutas en el M3U8
+$basePath = dirname($m3u8Url) . "/";
+$lines = explode("\n", $m3u8Body);
+foreach ($lines as &$line) {
+    $line = rtrim($line);
+    // Si no es comentario ni tag y no empieza con http, es un segmento relativo
+    if (!empty($line) && $line[0] !== "#" && !str_starts_with($line, "http")) {
+        $line = $basePath . $line;
+    }
+}
+$m3u8Body = implode("\n", $lines);
 
 header("Content-Type: application/vnd.apple.mpegurl");
 header("Access-Control-Allow-Origin: *");

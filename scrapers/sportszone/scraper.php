@@ -105,7 +105,7 @@ foreach ($eventos as $i => $evt) {
             continue;
         }
 
-        preg_match('/<iframe[^>]+src="([^"]+dynmaspect\.net[^"]+)"/i', $channelHtml, $m);
+        preg_match('/<iframe[^>]+src="(https?:\/\/[^"]+\/embed\/[^"]+)"/i', $channelHtml, $m);
         if (empty($m[1])) {
             echo "ERROR (sin iframe)\n";
             continue;

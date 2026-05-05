@@ -61,8 +61,8 @@ foreach ($items[1] as $item) {
     preg_match('/<thumbnail>(.+?)<\/thumbnail>/s', $item, $thumbnailMatch);
     $logo = $thumbnailMatch[1] ?? "";
 
-    // Codificar el link completo (URL + headers) para el proxy
-    $proxyUrl = $proxyBaseUrl . "?power=" . urlencode($link);
+    // Codificar el link completo (URL + headers) como base64 limpio
+    $proxyUrl = $proxyBaseUrl . "/power/" . rtrim(strtr(base64_encode($link), '+/', '-_'), '=') . ".m3u8";
 
     $escaped = str_replace(",", "\ ", $title);
     $m3u .= "#EXTINF:-1 tvg-id=\"\" tvg-name=\"$escaped\" tvg-logo=\"$logo\" group-title=\"Power\",$escaped\n";

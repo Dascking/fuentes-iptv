@@ -11,6 +11,14 @@ $ua = "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0";
 // ===== POWER SOURCE =====
 $powerLink = $_GET["power"] ?? "";
 
+// Also support path format: /proxy.php/power/BASE64.m3u8
+if (empty($powerLink)) {
+    $path = $_SERVER["REQUEST_URI"] ?? $_SERVER["PATH_INFO"] ?? "";
+    if (preg_match('#/power/([A-Za-z0-9_-]+)\.m3u8#', $path, $pm)) {
+        $powerLink = base64_decode(strtr($pm[1], '-_', '+/'));
+    }
+}
+
 if (!empty($powerLink)) {
     // El link viene en formato: URL|header1=val1&header2=val2&...
     $link = $powerLink;

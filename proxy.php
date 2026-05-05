@@ -8,12 +8,44 @@ error_reporting(E_ALL ^ E_DEPRECATED);
 
 $ua = "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0";
 
+// ===== TS SEGMENT PROXY =====
+$path = $_SERVER["REQUEST_URI"] ?? $_SERVER["PATH_INFO"] ?? "";
+if (preg_match('#/ts/([A-Za-z0-9_-]+)\.ts#', $path, $tm)) {
+    $info = json_decode(base64_decode(strtr($tm[1], '-_', '+/')), true);
+    if (!$info) { http_response_code(400); die("ERROR: TS info invalida"); }
+
+    $tsUrl = "https://" . $info["host"] . $info["path"] . $info["ts"];
+
+    $ch = curl_init();
+    curl_setopt_array($ch, [
+        CURLOPT_URL            => $tsUrl,
+        CURLOPT_USERAGENT      => $info["ua"] ?? $ua,
+        CURLOPT_REFERER        => $info["ref"] ?? "",
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_FOLLOWLOCATION => true,
+        CURLOPT_TIMEOUT        => 10,
+        CURLOPT_SSL_VERIFYPEER => false,
+    ]);
+    $tsData = curl_exec($ch);
+    $tsCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+
+    if ($tsCode >= 400 || !$tsData) {
+        http_response_code(502);
+        die("ERROR: TS segment (HTTP $tsCode)");
+    }
+
+    header("Content-Type: video/mp2t");
+    header("Access-Control-Allow-Origin: *");
+    header("Cache-Control: public, max-age=30");
+    echo $tsData;
+    exit;
+}
+
 // ===== POWER SOURCE =====
 $powerLink = $_GET["power"] ?? "";
 
 // Also support path format: /proxy.php/power/BASE64.m3u8
 if (empty($powerLink)) {
-    $path = $_SERVER["REQUEST_URI"] ?? $_SERVER["PATH_INFO"] ?? "";
     if (preg_match('#/power/([A-Za-z0-9_-]+)\.m3u8#', $path, $pm)) {
         $powerLink = base64_decode(strtr($pm[1], '-_', '+/'));
     }
@@ -70,16 +102,24 @@ if (!empty($powerLink)) {
         die("ERROR: M3U8 no accesible (HTTP $m3u8Code)");
     }
 
-    // Reescribir paths relativos a absolutos
-    $basePath = dirname($finalUrl) . "/";
-    $query = parse_url($finalUrl, PHP_URL_QUERY);
-    $queryAppend = $query ? "?" . $query : "";
+    // Reescribir segmentos para que pasen por el proxy (con Referer correcto)
+    $cdnHost = parse_url($finalUrl, PHP_URL_HOST);
+    $cdnPath = dirname(parse_url($finalUrl, PHP_URL_PATH)) . "/";
+    $refEnc = urlencode($headers["referer"] ?? "");
 
     $lines = explode("\n", $m3u8Body);
     foreach ($lines as &$line) {
         $line = rtrim($line);
         if (!empty($line) && $line[0] !== "#" && !str_starts_with($line, "http")) {
-            $line = $basePath . $line . $queryAppend;
+            $tsName = basename($line);
+            $tsInfo = base64_encode(json_encode([
+                "ts"   => $tsName,
+                "host" => $cdnHost,
+                "path" => $cdnPath,
+                "ref"  => $headers["referer"] ?? "",
+                "ua"   => $headers["user-agent"] ?? $ua,
+            ]));
+            $line = "http://74.208.207.247/proxy.php/ts/" . rtrim(strtr($tsInfo, '+/', '-_'), '=') . ".ts";
         }
     }
     $m3u8Body = implode("\n", $lines);

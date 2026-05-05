@@ -7,6 +7,7 @@ Scrapers para extraer M3U8 desde distintas fuentes PHP y generar playlists `.m3u
 ```
 scrapers/          # Scrapers por fuente
   tvtvhd/          # Fuente: tvtvhd.com
+  sportszone/      # Fuente: addonbg.co/loves.php?szone
 playlists/         # M3U generados (cada fuente genera su archivo)
 ```
 
@@ -14,6 +15,7 @@ playlists/         # M3U generados (cada fuente genera su archivo)
 
 ```bash
 php scrapers/tvtvhd/scraper.php
+php scrapers/sportszone/scraper.php
 ```
 
-La playlist se genera en `playlists/tvtvhd.m3u`.
+Las playlists se generan en `playlists/tvtvhd.m3u` y `playlists/sportszone.m3u`.

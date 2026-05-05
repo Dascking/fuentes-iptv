@@ -37,6 +37,7 @@ $m3u  = "#EXTM3U\n";
 $m3u .= "#PLAYLIST: Power\n\n";
 $count = 0;
 
+$entries = [];
 foreach ($items[1] as $item) {
     // Extraer titulo
     preg_match('/<title>(.+?)<\/title>/s', $item, $titleMatch);
@@ -60,6 +61,14 @@ foreach ($items[1] as $item) {
     // Extraer thumbnail
     preg_match('/<thumbnail>(.+?)<\/thumbnail>/s', $item, $thumbnailMatch);
     $logo = $thumbnailMatch[1] ?? "";
+
+    $entries[] = [$title, $link, $logo];
+}
+
+// Orden alfabetico
+usort($entries, function($a, $b) { return strcasecmp($a[0], $b[0]); });
+
+foreach ($entries as [$title, $link, $logo]) {
 
     // Codificar el link completo (URL + headers) como base64 limpio
     $proxyUrl = $proxyBaseUrl . "/power/" . rtrim(strtr(base64_encode($link), '+/', '-_'), '=') . ".m3u8";

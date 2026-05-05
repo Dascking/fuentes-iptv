@@ -127,24 +127,16 @@ if (!empty($powerLink)) {
         die("ERROR: M3U8 no accesible (HTTP $m3u8Code)");
     }
 
-    // Reescribir segmentos para que pasen por el proxy (con Referer correcto)
-    $cdnHost = parse_url($finalUrl, PHP_URL_HOST);
-    $cdnPath = dirname(parse_url($finalUrl, PHP_URL_PATH)) . "/";
-    $refEnc = urlencode($headers["referer"] ?? "");
+    // Reescribir segmentos como URLs absolutas al CDN (no pasan por el proxy = sin carga en VPS)
+    $basePath = dirname($finalUrl) . "/";
+    $query = parse_url($finalUrl, PHP_URL_QUERY);
+    $queryAppend = $query ? "?" . $query : "";
 
     $lines = explode("\n", $m3u8Body);
     foreach ($lines as &$line) {
         $line = rtrim($line);
         if (!empty($line) && $line[0] !== "#" && !str_starts_with($line, "http")) {
-            $tsName = basename($line);
-            $tsInfo = base64_encode(json_encode([
-                "ts"   => $tsName,
-                "host" => $cdnHost,
-                "path" => $cdnPath,
-                "ref"  => $headers["referer"] ?? "",
-                "ua"   => $headers["user-agent"] ?? $ua,
-            ]));
-            $line = "http://74.208.207.247/proxy.php/ts/" . rtrim(strtr($tsInfo, '+/', '-_'), '=') . ".ts";
+            $line = $basePath . $line . $queryAppend;
         }
     }
     $m3u8Body = implode("\n", $lines);

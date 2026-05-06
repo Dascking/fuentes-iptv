@@ -8,6 +8,38 @@ error_reporting(E_ALL ^ E_DEPRECATED);
 
 $ua = "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0";
 
+// ===== SEGMENT PROXY =====
+$segB64 = $_GET["seg"] ?? "";
+if (!empty($segB64)) {
+    $segUrl = base64_decode(strtr($segB64, '-_', '+/'));
+    if (!$segUrl || !str_starts_with($segUrl, "https://")) {
+        http_response_code(400); die("invalid seg");
+    }
+    
+    $ch = curl_init();
+    curl_setopt_array($ch, [
+        CURLOPT_URL            => $segUrl,
+        CURLOPT_USERAGENT      => $ua,
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_FOLLOWLOCATION => true,
+        CURLOPT_TIMEOUT        => 10,
+        CURLOPT_SSL_VERIFYPEER => false,
+    ]);
+    $segData = curl_exec($ch);
+    $segCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+    
+    if ($segCode >= 400 || !$segData) {
+        http_response_code(502); die("seg error");
+    }
+    
+    // Always return as video/mp2t regardless of source content-type
+    header("Content-Type: video/mp2t");
+    header("Access-Control-Allow-Origin: *");
+    header("Cache-Control: public, max-age=30");
+    echo $segData;
+    exit;
+}
+
 // ===== DLSTREAMS SOURCE (via EasyProxy extractor) =====
 $dlstreamsId = $_GET["dlstreams"] ?? "";
 if (!empty($dlstreamsId)) {
@@ -55,16 +87,18 @@ if (!empty($dlstreamsId)) {
         die("ERROR: stream no accesible (HTTP $m3u8Code)");
     }
     
-    // Rewrite segments to absolute CDN URLs
-    $basePath = dirname($finalUrl) . "/";
-    $query = parse_url($finalUrl, PHP_URL_QUERY);
-    $queryAppend = $query ? "?" . $query : "";
-    
+    // Rewrite segments through our proxy with correct headers
+    $cdnHost = parse_url($finalUrl, PHP_URL_HOST);
     $lines = explode("\n", $m3u8Body);
     foreach ($lines as &$line) {
         $line = rtrim($line);
         if (!empty($line) && $line[0] !== "#" && !str_starts_with($line, "http")) {
-            $line = $basePath . $line . $queryAppend;
+            $line = $basePath . $line;
+        }
+        // Rewrite R2/external segments through our proxy for correct Content-Type
+        if (!empty($line) && str_starts_with($line, "https://")) {
+            $segB64 = rtrim(strtr(base64_encode($line), '+/', '-_'), '=');
+            $line = "http://74.208.207.247/proxy.php?seg=" . $segB64;
         }
     }
     $m3u8Body = implode("\n", $lines);

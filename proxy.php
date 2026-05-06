@@ -12,7 +12,7 @@ $ua = "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0";
 $dlstreamsId = $_GET["dlstreams"] ?? "";
 if (!empty($dlstreamsId)) {
     // Llamar al extractor de EasyProxy en el VPS
-    $extractorUrl = "http://127.0.0.1:8080/extractor?url=https://dlstreams.com/watch.php?id=" . intval($dlstreamsId) . "&extractor=daddylivehd";
+    $extractorUrl = "https://dasck-easyproxy.hf.space/extractor?url=https://dlstreams.com/watch.php?id=" . intval($dlstreamsId) . "&extractor=daddylivehd";
     
     $ch = curl_init();
     curl_setopt_array($ch, [

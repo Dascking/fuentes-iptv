@@ -9,7 +9,7 @@ error_reporting(E_ALL ^ E_DEPRECATED);
 set_time_limit(0);
 
 $sourceUrl    = "http://addonbg.co/black/power.php?live";
-$proxyBaseUrl = "http://74.208.207.247/proxy.php";
+$proxyBaseUrl = "http://74.208.207.247/iptv/proxy.php";
 $outputFile   = __DIR__ . "/../../playlists/power.m3u";
 
 $outputDir = dirname($outputFile);

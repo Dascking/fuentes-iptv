@@ -87,18 +87,13 @@ if (!empty($dlstreamsId)) {
         die("ERROR: stream no accesible (HTTP $m3u8Code)");
     }
     
-    // Rewrite segments through our proxy with correct headers
-    $cdnHost = parse_url($finalUrl, PHP_URL_HOST);
+    // Rewrite relative segments to absolute CDN URLs (sin proxy = sin ancho de banda VPS)
+    $basePath = dirname($finalUrl) . "/";
     $lines = explode("\n", $m3u8Body);
     foreach ($lines as &$line) {
         $line = rtrim($line);
         if (!empty($line) && $line[0] !== "#" && !str_starts_with($line, "http")) {
             $line = $basePath . $line;
-        }
-        // Rewrite R2/external segments through our proxy for correct Content-Type
-        if (!empty($line) && str_starts_with($line, "https://")) {
-            $segB64 = rtrim(strtr(base64_encode($line), '+/', '-_'), '=');
-            $line = "http://74.208.207.247/proxy.php?seg=" . $segB64;
         }
     }
     $m3u8Body = implode("\n", $lines);

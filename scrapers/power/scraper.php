@@ -48,6 +48,11 @@ foreach ($items[1] as $item) {
     $title = strip_tags(html_entity_decode($title, ENT_QUOTES));
     $title = trim($title);
 
+    // Eliminar tags/prefijos/sufijos
+    $title = preg_replace('/\[Live Events\]\s*/i', '', $title);
+    $title = preg_replace('/\s*\((?:TVAPP|ROXIE|WEBCAST|TSPRTK|FAWA|WATCHFTY|CDNTV|STRMCNTR)\)/i', '', $title);
+    $title = trim($title);
+
     // Saltar items no-stream (buscar, lista actualizada, etc)
     if (empty($title) || str_contains($title, 'BUSCAR') || str_contains($title, 'Lista Actualizada')) continue;
 

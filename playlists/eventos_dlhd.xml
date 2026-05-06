@@ -1,1022 +1,256 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <eventos>
-  <evento id="521" grupo="DLHD 24/7">#Vamos Spain</evento>
-  <evento id="501" grupo="DLHD 24/7">18+ (Player-01)</evento>
-  <evento id="502" grupo="DLHD 24/7">18+ (Player-02)</evento>
-  <evento id="503" grupo="DLHD 24/7">18+ (Player-03)</evento>
-  <evento id="504" grupo="DLHD 24/7">18+ (Player-04)</evento>
-  <evento id="505" grupo="DLHD 24/7">18+ (Player-05)</evento>
-  <evento id="506" grupo="DLHD 24/7">18+ (Player-06)</evento>
-  <evento id="507" grupo="DLHD 24/7">18+ (Player-07)</evento>
-  <evento id="508" grupo="DLHD 24/7">18+ (Player-08)</evento>
-  <evento id="509" grupo="DLHD 24/7">18+ (Player-09)</evento>
-  <evento id="510" grupo="DLHD 24/7">18+ (Player-10)</evento>
-  <evento id="511" grupo="DLHD 24/7">18+ (Player-11)</evento>
-  <evento id="512" grupo="DLHD 24/7">18+ (Player-12)</evento>
-  <evento id="513" grupo="DLHD 24/7">18+ (Player-13)</evento>
-  <evento id="514" grupo="DLHD 24/7">18+ (Player-14)</evento>
-  <evento id="515" grupo="DLHD 24/7">18+ (Player-15)</evento>
-  <evento id="516" grupo="DLHD 24/7">18+ (Player-16)</evento>
-  <evento id="517" grupo="DLHD 24/7">18+ (Player-17)</evento>
-  <evento id="518" grupo="DLHD 24/7">18+ (Player-18)</evento>
-  <evento id="519" grupo="DLHD 24/7">18+ (Player-19)</evento>
-  <evento id="520" grupo="DLHD 24/7">18+ (Player-20)</evento>
-  <evento id="857" grupo="DLHD 24/7">20 Mediaset Italy</evento>
-  <evento id="726" grupo="DLHD 24/7">3sat DE</evento>
-  <evento id="360" grupo="DLHD 24/7">5 USA</evento>
-  <evento id="800" grupo="DLHD 24/7">6'eren Denmark</evento>
-  <evento id="963" grupo="DLHD 24/7">6ter France</evento>
-  <evento id="868" grupo="DLHD 24/7">8Sky Cinema Suspense Italy</evento>
-  <evento id="1011" grupo="DLHD 24/7">A Spor Turkey</evento>
-  <evento id="269" grupo="DLHD 24/7">A Sport PK</evento>
-  <evento id="302" grupo="DLHD 24/7">A&amp;E USA</evento>
-  <evento id="766" grupo="DLHD 24/7">ABC NY USA</evento>
-  <evento id="51" grupo="DLHD 24/7">ABC USA</evento>
-  <evento id="609" grupo="DLHD 24/7">Abu Dhabi Sports 1 Premium</evento>
-  <evento id="600" grupo="DLHD 24/7">Abu Dhabi Sports 1 UAE</evento>
-  <evento id="610" grupo="DLHD 24/7">Abu Dhabi Sports 2 Premium</evento>
-  <evento id="601" grupo="DLHD 24/7">Abu Dhabi Sports 2 UAE</evento>
-  <evento id="664" grupo="DLHD 24/7">ACC Network USA</evento>
-  <evento id="295" grupo="DLHD 24/7">Adult Swim</evento>
-  <evento id="163" grupo="Live Events">AHL | AHL : Belleville Senators vs Providence Bruins (00:05)</evento>
-  <evento id="162" grupo="Live Events">AHL | AHL : Charlotte Checkers vs Lehigh Valley Phantoms (00:05)</evento>
-  <evento id="168" grupo="Live Events">AHL | AHL : Colorado Eagles vs Bakersfield Condors (03:00)</evento>
-  <evento id="166" grupo="Live Events">AHL | AHL : Grand Rapids Griffins vs Manitoba Moose (01:00)</evento>
-  <evento id="169" grupo="Live Events">AHL | AHL : Ontario Reign vs Coachella Valley Firebirds (03:00)</evento>
-  <evento id="167" grupo="Live Events">AHL | AHL : Texas Stars vs Rockford IceHogs (01:00)</evento>
-  <evento id="165" grupo="Live Events">AHL | AHL : Toronto Marlies vs Springfield Thunderbirds (00:05)</evento>
-  <evento id="164" grupo="Live Events">AHL | AHL : Utica Comets vs Rochester Americans (00:05)</evento>
-  <evento id="161" grupo="Live Events">AHL | AHL : Wilkes-Barre/Scranton vs Hershey Bears (00:00)</evento>
-  <evento id="784" grupo="DLHD 24/7">Alkass Four</evento>
-  <evento id="781" grupo="DLHD 24/7">Alkass One</evento>
-  <evento id="783" grupo="DLHD 24/7">Alkass Three</evento>
-  <evento id="782" grupo="DLHD 24/7">Alkass Two</evento>
-  <evento id="405" grupo="Live Events">Am. Football | College Football All-Star Game : The American Bowl (01:00)</evento>
-  <evento id="304" grupo="DLHD 24/7">Animal Planet</evento>
-  <evento id="531" grupo="DLHD 24/7">Antena 3 Spain</evento>
-  <evento id="283" grupo="DLHD 24/7">Antenna TV USA</evento>
-  <evento id="579" grupo="DLHD 24/7">Arena Sport 1 BiH</evento>
-  <evento id="432" grupo="DLHD 24/7">Arena Sport 1 Croatia</evento>
-  <evento id="134" grupo="DLHD 24/7">Arena Sport 1 Premium</evento>
-  <evento id="429" grupo="DLHD 24/7">Arena Sport 1 Serbia</evento>
-  <evento id="945" grupo="DLHD 24/7">Arena Sport 10 Serbia</evento>
-  <evento id="433" grupo="DLHD 24/7">Arena Sport 2 Croatia</evento>
-  <evento id="135" grupo="DLHD 24/7">Arena Sport 2 Premium</evento>
-  <evento id="430" grupo="DLHD 24/7">Arena Sport 2 Serbia</evento>
-  <evento id="434" grupo="DLHD 24/7">Arena Sport 3 Croatia</evento>
-  <evento id="139" grupo="DLHD 24/7">Arena Sport 3 Premium</evento>
-  <evento id="431" grupo="DLHD 24/7">Arena Sport 3 Serbia</evento>
-  <evento id="580" grupo="DLHD 24/7">Arena Sport 4 Croatia</evento>
-  <evento id="581" grupo="DLHD 24/7">Arena Sport 4 Serbia</evento>
-  <evento id="940" grupo="DLHD 24/7">Arena Sport 5 Serbia</evento>
-  <evento id="941" grupo="DLHD 24/7">Arena Sport 6 Serbia</evento>
-  <evento id="942" grupo="DLHD 24/7">Arena Sport 7 Serbia</evento>
-  <evento id="943" grupo="DLHD 24/7">Arena Sport 8 Serbia</evento>
-  <evento id="944" grupo="DLHD 24/7">Arena Sport 9 Serbia</evento>
-  <evento id="612" grupo="DLHD 24/7">Arena Sports Tenis Serbia</evento>
-  <evento id="725" grupo="DLHD 24/7">Arte DE</evento>
-  <evento id="958" grupo="DLHD 24/7">Arte France</evento>
-  <evento id="370" grupo="DLHD 24/7">Astro Cricket</evento>
-  <evento id="123" grupo="DLHD 24/7">Astro SuperSport 1</evento>
-  <evento id="124" grupo="DLHD 24/7">Astro SuperSport 2</evento>
-  <evento id="125" grupo="DLHD 24/7">Astro SuperSport 3</evento>
-  <evento id="126" grupo="DLHD 24/7">Astro SuperSport 4</evento>
-  <evento id="1000" grupo="DLHD 24/7">ATV Turkey</evento>
-  <evento id="961" grupo="DLHD 24/7">Automoto La chaîne</evento>
-  <evento id="717" grupo="DLHD 24/7">AXN Movies Portugal</evento>
-  <evento id="742" grupo="DLHD 24/7">AXS TV USA</evento>
-  <evento id="844" grupo="DLHD 24/7">Azteca 7 MX</evento>
-  <evento id="934" grupo="DLHD 24/7">Azteca Uno MX</evento>
-  <evento id="275" grupo="DLHD 24/7">Bandsports Brasil</evento>
-  <evento id="522" grupo="DLHD 24/7">Barca TV Spain</evento>
-  <evento id="753" grupo="Live Events">Basketball | NBA G-League : Santa Cruz Warriors vs Sioux Falls Skyforce (03:00)</evento>
-  <evento id="765" grupo="Live Events">Basketball | NBA G-League : Westchester vs Windy City Bulls (00:00)</evento>
-  <evento id="776" grupo="Live Events">Basketball | NBA G-League : Westchester vs Windy City Bulls (00:00)</evento>
-  <evento id="338" grupo="Live Events">Basketball | Unrivaled Basketball Mist Basketball Club vs Rose Basketball Club (00:30)</evento>
-  <evento id="341" grupo="Live Events">Basketball | Unrivaled Basketball Mist Basketball Club vs Rose Basketball Club (00:30)</evento>
-  <evento id="305" grupo="DLHD 24/7">BBC America (BBCA)</evento>
-  <evento id="359" grupo="DLHD 24/7">BBC Four UK</evento>
-  <evento id="349" grupo="DLHD 24/7">BBC News Channel HD</evento>
-  <evento id="356" grupo="DLHD 24/7">BBC One UK</evento>
-  <evento id="358" grupo="DLHD 24/7">BBC Three UK</evento>
-  <evento id="357" grupo="DLHD 24/7">BBC Two UK</evento>
-  <evento id="91" grupo="DLHD 24/7">beIN Sports 1 Arabic</evento>
-  <evento id="116" grupo="DLHD 24/7">beIN SPORTS 1 France</evento>
-  <evento id="62" grupo="DLHD 24/7">beIN SPORTS 1 Turkey</evento>
-  <evento id="92" grupo="DLHD 24/7">beIN Sports 2 Arabic</evento>
-  <evento id="63" grupo="DLHD 24/7">beIN SPORTS 2 Turkey</evento>
-  <evento id="93" grupo="DLHD 24/7">beIN Sports 3 Arabic</evento>
-  <evento id="118" grupo="DLHD 24/7">beIN SPORTS 3 France</evento>
-  <evento id="64" grupo="DLHD 24/7">beIN SPORTS 3 Turkey</evento>
-  <evento id="94" grupo="DLHD 24/7">beIN Sports 4 Arabic</evento>
-  <evento id="67" grupo="DLHD 24/7">beIN SPORTS 4 Turkey</evento>
-  <evento id="95" grupo="DLHD 24/7">beIN Sports 5 Arabic</evento>
-  <evento id="1010" grupo="DLHD 24/7">bein Sports 5 Turkey</evento>
-  <evento id="96" grupo="DLHD 24/7">beIN Sports 6 Arabic</evento>
-  <evento id="97" grupo="DLHD 24/7">beIN Sports 7 Arabic</evento>
-  <evento id="98" grupo="DLHD 24/7">beIN Sports 8 Arabic</evento>
-  <evento id="99" grupo="DLHD 24/7">beIN Sports 9 Arabic</evento>
-  <evento id="493" grupo="DLHD 24/7">beIN SPORTS Australia 3</evento>
-  <evento id="372" grupo="DLHD 24/7">beIN SPORTS en Espa単ol</evento>
-  <evento id="578" grupo="DLHD 24/7">BeIN Sports HD Qatar</evento>
-  <evento id="500" grupo="DLHD 24/7">beIN Sports MAX 10 France</evento>
-  <evento id="495" grupo="DLHD 24/7">beIN Sports MAX 5 France</evento>
-  <evento id="496" grupo="DLHD 24/7">beIN Sports MAX 6 France</evento>
-  <evento id="497" grupo="DLHD 24/7">beIN Sports MAX 7 France</evento>
-  <evento id="498" grupo="DLHD 24/7">beIN Sports MAX 8 France</evento>
-  <evento id="499" grupo="DLHD 24/7">beIN Sports MAX 9 France</evento>
-  <evento id="597" grupo="DLHD 24/7">beIN SPORTS MAX AR</evento>
-  <evento id="61" grupo="DLHD 24/7">beIN Sports MENA English 1</evento>
-  <evento id="90" grupo="DLHD 24/7">beIN Sports MENA English 2</evento>
-  <evento id="425" grupo="DLHD 24/7">BeIN SPORTS USA</evento>
-  <evento id="100" grupo="DLHD 24/7">beIN SPORTS XTRA 1</evento>
-  <evento id="380" grupo="DLHD 24/7">Benfica TV PT</evento>
-  <evento id="306" grupo="DLHD 24/7">BET USA</evento>
-  <evento id="957" grupo="DLHD 24/7">BFM TV France</evento>
-  <evento id="476" grupo="DLHD 24/7">BNT 1 Bulgaria</evento>
-  <evento id="477" grupo="DLHD 24/7">BNT 2 Bulgaria</evento>
-  <evento id="478" grupo="DLHD 24/7">BNT 3 Bulgaria</evento>
-  <evento id="648" grupo="DLHD 24/7">Boomerang</evento>
-  <evento id="55" grupo="Live Events">Boxing | Boxing : Jose Tito Sanchez vs Jesus Ramirez Rubio (00:00)</evento>
-  <evento id="737" grupo="DLHD 24/7">BR Fernsehen DE</evento>
-  <evento id="307" grupo="DLHD 24/7">Bravo USA</evento>
-  <evento id="481" grupo="DLHD 24/7">bTV Action Bulgaria</evento>
-  <evento id="479" grupo="DLHD 24/7">bTV Bulgaria</evento>
-  <evento id="484" grupo="DLHD 24/7">bTV Lady Bulgaria</evento>
-  <evento id="812" grupo="DLHD 24/7">C More First Sweden</evento>
-  <evento id="813" grupo="DLHD 24/7">C More Hits Sweden</evento>
-  <evento id="814" grupo="DLHD 24/7">C More Series Sweden</evento>
-  <evento id="750" grupo="DLHD 24/7">C SPAN 1</evento>
-  <evento id="956" grupo="DLHD 24/7">C8 France</evento>
-  <evento id="540" grupo="DLHD 24/7">Canal 11 Portugal</evento>
-  <evento id="805" grupo="DLHD 24/7">CANAL 9 Denmark</evento>
-  <evento id="983" grupo="DLHD 24/7">Canal+ Extra 1 Poland</evento>
-  <evento id="984" grupo="DLHD 24/7">Canal+ Extra 2 Poland</evento>
-  <evento id="985" grupo="DLHD 24/7">Canal+ Extra 3 Poland</evento>
-  <evento id="986" grupo="DLHD 24/7">Canal+ Extra 4 Poland</evento>
-  <evento id="987" grupo="DLHD 24/7">Canal+ Extra 5 Poland</evento>
-  <evento id="988" grupo="DLHD 24/7">Canal+ Extra 6 Poland</evento>
-  <evento id="989" grupo="DLHD 24/7">Canal+ Extra 7 Poland</evento>
-  <evento id="567" grupo="DLHD 24/7">Canal+ Family Poland</evento>
-  <evento id="463" grupo="DLHD 24/7">Canal+ Foot France</evento>
-  <evento id="273" grupo="DLHD 24/7">Canal+ Formula 1</evento>
-  <evento id="121" grupo="DLHD 24/7">Canal+ France</evento>
-  <evento id="271" grupo="DLHD 24/7">Canal+ MotoGP France</evento>
-  <evento id="566" grupo="DLHD 24/7">Canal+ Premium Poland</evento>
-  <evento id="570" grupo="DLHD 24/7">Canal+ Seriale Poland</evento>
-  <evento id="486" grupo="DLHD 24/7">Canal+ Sport 1 Afrique</evento>
-  <evento id="487" grupo="DLHD 24/7">Canal+ Sport 2 Afrique</evento>
-  <evento id="1043" grupo="DLHD 24/7">Canal+ Sport 2 CZ</evento>
-  <evento id="73" grupo="DLHD 24/7">Canal+ Sport 2 Poland</evento>
-  <evento id="1064" grupo="DLHD 24/7">Canal+ Sport 2 SK</evento>
-  <evento id="488" grupo="DLHD 24/7">Canal+ Sport 3 Afrique</evento>
-  <evento id="1044" grupo="DLHD 24/7">Canal+ Sport 3 CZ</evento>
-  <evento id="259" grupo="DLHD 24/7">Canal+ Sport 3 Poland</evento>
-  <evento id="1065" grupo="DLHD 24/7">Canal+ Sport 3 SK</evento>
-  <evento id="489" grupo="DLHD 24/7">Canal+ Sport 4 Afrique</evento>
-  <evento id="1045" grupo="DLHD 24/7">Canal+ Sport 4 CZ</evento>
-  <evento id="1066" grupo="DLHD 24/7">Canal+ Sport 4 SK</evento>
-  <evento id="490" grupo="DLHD 24/7">Canal+ Sport 5 Afrique</evento>
-  <evento id="1046" grupo="DLHD 24/7">Canal+ Sport 5 CZ</evento>
-  <evento id="75" grupo="DLHD 24/7">Canal+ Sport 5 Poland</evento>
-  <evento id="1047" grupo="DLHD 24/7">Canal+ Sport 6 CZ</evento>
-  <evento id="1048" grupo="DLHD 24/7">Canal+ Sport 7 CZ</evento>
-  <evento id="1049" grupo="DLHD 24/7">Canal+ Sport 8 CZ</evento>
-  <evento id="1020" grupo="DLHD 24/7">Canal+ Sport CZ</evento>
-  <evento id="122" grupo="DLHD 24/7">Canal+ Sport France</evento>
-  <evento id="48" grupo="DLHD 24/7">Canal+ Sport Poland</evento>
-  <evento id="1063" grupo="DLHD 24/7">Canal+ Sport SK</evento>
-  <evento id="464" grupo="DLHD 24/7">Canal+ Sport360</evento>
-  <evento id="936" grupo="DLHD 24/7">Canal5 MX</evento>
-  <evento id="853" grupo="DLHD 24/7">Canale 5 Italy</evento>
-  <evento id="339" grupo="DLHD 24/7">Cartoon Network</evento>
-  <evento id="832" grupo="DLHD 24/7">CBC CA</evento>
-  <evento id="910" grupo="DLHD 24/7">CBS Sports Golazo</evento>
-  <evento id="52" grupo="DLHD 24/7">CBS USA</evento>
-  <evento id="767" grupo="DLHD 24/7">CBSNY USA</evento>
-  <evento id="547" grupo="DLHD 24/7">Channel 10 Israe</evento>
-  <evento id="548" grupo="DLHD 24/7">Channel 11 Israel</evento>
-  <evento id="549" grupo="DLHD 24/7">Channel 12 Israel</evento>
-  <evento id="551" grupo="DLHD 24/7">Channel 13 Israel</evento>
-  <evento id="552" grupo="DLHD 24/7">Channel 14 Israel</evento>
-  <evento id="354" grupo="DLHD 24/7">Channel 4 UK</evento>
-  <evento id="355" grupo="DLHD 24/7">Channel 5 UK</evento>
-  <evento id="546" grupo="DLHD 24/7">Channel 9 Israel</evento>
-  <evento id="374" grupo="DLHD 24/7">Cinemax USA</evento>
-  <evento id="831" grupo="DLHD 24/7">Citytv</evento>
-  <evento id="933" grupo="DLHD 24/7">Claro Sports MX</evento>
-  <evento id="715" grupo="DLHD 24/7">Cleo TV</evento>
-  <evento id="647" grupo="DLHD 24/7">CMT USA</evento>
-  <evento id="790" grupo="DLHD 24/7">CMTV Portugal</evento>
-  <evento id="309" grupo="DLHD 24/7">CNBC USA</evento>
-  <evento id="964" grupo="DLHD 24/7">CNews France</evento>
-  <evento id="345" grupo="DLHD 24/7">CNN USA</evento>
-  <evento id="86" grupo="Live Events">College Wrestling | College Wrestling : Columbia vs Princeton (00:00)</evento>
-  <evento id="76" grupo="Live Events">College Wrestling | College Wrestling : Davidson vs Chattanooga (00:00)</evento>
-  <evento id="77" grupo="Live Events">College Wrestling | College Wrestling : Edinboro vs George Mason (00:00)</evento>
-  <evento id="69" grupo="Live Events">College Wrestling | College Wrestling : Ohio vs Northern Illinois (00:00)</evento>
-  <evento id="397" grupo="Live Events">College Wrestling | Men's College Wrestling : Ohio State vs. Minnesota (00:00)</evento>
-  <evento id="89" grupo="DLHD 24/7">Combate Brasil</evento>
-  <evento id="310" grupo="DLHD 24/7">Comedy Central</evento>
-  <evento id="696" grupo="DLHD 24/7">Comet USA</evento>
-  <evento id="697" grupo="DLHD 24/7">Cooking Channel USA</evento>
-  <evento id="622" grupo="DLHD 24/7">Cosmote Sport 1 HD</evento>
-  <evento id="623" grupo="DLHD 24/7">Cosmote Sport 2 HD</evento>
-  <evento id="624" grupo="DLHD 24/7">Cosmote Sport 3 HD</evento>
-  <evento id="625" grupo="DLHD 24/7">Cosmote Sport 4 HD</evento>
-  <evento id="626" grupo="DLHD 24/7">Cosmote Sport 5 HD</evento>
-  <evento id="627" grupo="DLHD 24/7">Cosmote Sport 6 HD</evento>
-  <evento id="628" grupo="DLHD 24/7">Cosmote Sport 7 HD</evento>
-  <evento id="629" grupo="DLHD 24/7">Cosmote Sport 8 HD</evento>
-  <evento id="630" grupo="DLHD 24/7">Cosmote Sport 9 HD</evento>
-  <evento id="281" grupo="DLHD 24/7">Court TV USA</evento>
-  <evento id="748" grupo="DLHD 24/7">COZI TV USA</evento>
-  <evento id="368" grupo="Live Events">Cricket | Super Smash Women : Central Hinds W vs Otago Sparks W (01:05)</evento>
-  <evento id="669" grupo="DLHD 24/7">Crime+ Investigation USA</evento>
-  <evento id="1033" grupo="DLHD 24/7">CT Sport CZ</evento>
-  <evento id="1035" grupo="DLHD 24/7">CT1 HD CZ</evento>
-  <evento id="1036" grupo="DLHD 24/7">CT2 HD CZ</evento>
-  <evento id="838" grupo="DLHD 24/7">CTV 2 Canada</evento>
-  <evento id="602" grupo="DLHD 24/7">CTV Canada</evento>
-  <evento id="535" grupo="DLHD 24/7">Cuatro Spain</evento>
-  <evento id="866" grupo="DLHD 24/7">CW Philly</evento>
-  <evento id="280" grupo="DLHD 24/7">CW PIX 11 USA</evento>
-  <evento id="300" grupo="DLHD 24/7">CW USA</evento>
-  <evento id="418" grupo="Live Events">Cycling | Tour Down Under | Stage 4 Men | Brighton – Willunga Hill (176km) (00:30)</evento>
-  <evento id="911" grupo="DLHD 24/7">Cytavision Sports 1 Cyprus</evento>
-  <evento id="912" grupo="DLHD 24/7">Cytavision Sports 2 Cyprus</evento>
-  <evento id="913" grupo="DLHD 24/7">Cytavision Sports 3 Cyprus</evento>
-  <evento id="914" grupo="DLHD 24/7">Cytavision Sports 4 Cyprus</evento>
-  <evento id="915" grupo="DLHD 24/7">Cytavision Sports 5 Cyprus</evento>
-  <evento id="916" grupo="DLHD 24/7">Cytavision Sports 6 Cyprus</evento>
-  <evento id="917" grupo="DLHD 24/7">Cytavision Sports 7 Cyprus</evento>
-  <evento id="1051" grupo="DLHD 24/7">Dajto SK</evento>
-  <evento id="348" grupo="DLHD 24/7">Dave</evento>
-  <evento id="426" grupo="DLHD 24/7">DAZN 1 Bar DE</evento>
-  <evento id="445" grupo="DLHD 24/7">DAZN 1 Spain</evento>
-  <evento id="427" grupo="DLHD 24/7">DAZN 2 Bar DE</evento>
-  <evento id="446" grupo="DLHD 24/7">DAZN 2 Spain</evento>
-  <evento id="447" grupo="DLHD 24/7">DAZN 3 Spain</evento>
-  <evento id="448" grupo="DLHD 24/7">DAZN 4 Spain</evento>
-  <evento id="537" grupo="DLHD 24/7">DAZN F1 ES</evento>
-  <evento id="538" grupo="DLHD 24/7">DAZN LaLiga</evento>
-  <evento id="960" grupo="DLHD 24/7">DAZN Ligue 1 France</evento>
-  <evento id="918" grupo="DLHD 24/7">DAZN Portugal FIFA Mundial de Clubes</evento>
-  <evento id="877" grupo="DLHD 24/7">DAZN ZONA Italy</evento>
-  <evento id="651" grupo="DLHD 24/7">Destination America</evento>
-  <evento id="482" grupo="DLHD 24/7">Diema Bulgaria</evento>
-  <evento id="485" grupo="DLHD 24/7">Diema Family Bulgaria</evento>
-  <evento id="466" grupo="DLHD 24/7">Diema Sport 2 Bulgaria</evento>
-  <evento id="467" grupo="DLHD 24/7">Diema Sport 3 Bulgaria</evento>
-  <evento id="465" grupo="DLHD 24/7">Diema Sport Bulgaria</evento>
-  <evento id="400" grupo="DLHD 24/7">Digi Sport 1 Romania</evento>
-  <evento id="402" grupo="DLHD 24/7">Digi Sport 3 Romania</evento>
-  <evento id="403" grupo="DLHD 24/7">Digi Sport 4 Romania</evento>
-  <evento id="313" grupo="DLHD 24/7">Discovery Channel</evento>
-  <evento id="657" grupo="DLHD 24/7">Discovery Family</evento>
-  <evento id="311" grupo="DLHD 24/7">Discovery Life Channel</evento>
-  <evento id="661" grupo="DLHD 24/7">Discovery Turbo</evento>
-  <evento id="285" grupo="DLHD 24/7">Discovery Velocity CA</evento>
-  <evento id="312" grupo="DLHD 24/7">Disney Channel</evento>
-  <evento id="652" grupo="DLHD 24/7">Disney JR</evento>
-  <evento id="314" grupo="DLHD 24/7">Disney XD</evento>
-  <evento id="801" grupo="DLHD 24/7">DR1 Denmark</evento>
-  <evento id="802" grupo="DLHD 24/7">DR2 Denmark</evento>
-  <evento id="828" grupo="DLHD 24/7">DSTV kykNET &amp; kie</evento>
-  <evento id="827" grupo="DLHD 24/7">DSTV M-Net</evento>
-  <evento id="786" grupo="DLHD 24/7">DSTV Mzansi Magic</evento>
-  <evento id="608" grupo="DLHD 24/7">Dubai Racing 2 UAE</evento>
-  <evento id="604" grupo="DLHD 24/7">Dubai Sports 1 UAE</evento>
-  <evento id="605" grupo="DLHD 24/7">Dubai Sports 2 UAE</evento>
-  <evento id="606" grupo="DLHD 24/7">Dubai Sports 3 UAE</evento>
-  <evento id="315" grupo="DLHD 24/7">E! Entertainment Television</evento>
-  <evento id="363" grupo="DLHD 24/7">E4 Channel</evento>
-  <evento id="180" grupo="Live Events">ECHL | ECHL : Adirondack Thunder vs Greensboro Gargoyles (00:00)</evento>
-  <evento id="193" grupo="Live Events">ECHL | ECHL : Allen Americans vs Idaho Steelheads (02:10)</evento>
-  <evento id="186" grupo="Live Events">ECHL | ECHL : Atlanta Gladiators vs South Carolina Stingrays (00:05)</evento>
-  <evento id="190" grupo="Live Events">ECHL | ECHL : Cincinnati Cyclones vs Bloomington Bison (01:00)</evento>
-  <evento id="184" grupo="Live Events">ECHL | ECHL : Florida Everblades vs Greenville Swamp Rabbits (00:05)</evento>
-  <evento id="181" grupo="Live Events">ECHL | ECHL : Fort Wayne Komets vs Indy Fuel (00:00)</evento>
-  <evento id="189" grupo="Live Events">ECHL | ECHL : Kalamazoo Wings vs Toledo Walleye (00:15)</evento>
-  <evento id="187" grupo="Live Events">ECHL | ECHL : Reading Royals vs Wheeling Nailers (00:10)</evento>
-  <evento id="191" grupo="Live Events">ECHL | ECHL : Tahoe Knight Monsters vs Kansas City (01:05)</evento>
-  <evento id="188" grupo="Live Events">ECHL | ECHL : Trois-Rivieres Lions vs Maine Mariners (00:15)</evento>
-  <evento id="192" grupo="Live Events">ECHL | ECHL : Utah Grizzlies vs Rapid City Rush (02:05)</evento>
-  <evento id="185" grupo="Live Events">ECHL | ECHL : Worcester Railers vs Norfolk Admirals (00:05)</evento>
-  <evento id="71" grupo="DLHD 24/7">Eleven Sports 1 Poland</evento>
-  <evento id="455" grupo="DLHD 24/7">Eleven Sports 1 Portugal</evento>
-  <evento id="72" grupo="DLHD 24/7">Eleven Sports 2 Poland</evento>
-  <evento id="456" grupo="DLHD 24/7">Eleven Sports 2 Portugal</evento>
-  <evento id="428" grupo="DLHD 24/7">Eleven Sports 3 Poland</evento>
-  <evento id="457" grupo="DLHD 24/7">Eleven Sports 3 Portugal</evento>
-  <evento id="999" grupo="DLHD 24/7">Eleven Sports 4 Poland</evento>
-  <evento id="458" grupo="DLHD 24/7">Eleven Sports 4 Portugal</evento>
-  <evento id="459" grupo="DLHD 24/7">Eleven Sports 5 Portugal</evento>
-  <evento id="774" grupo="DLHD 24/7">ERT 1 Greece</evento>
-  <evento id="925" grupo="DLHD 24/7">ESPN 1 MX</evento>
-  <evento id="379" grupo="DLHD 24/7">ESPN 1 NL</evento>
-  <evento id="926" grupo="DLHD 24/7">ESPN 2 MX</evento>
-  <evento id="386" grupo="DLHD 24/7">ESPN 2 NL</evento>
-  <evento id="927" grupo="DLHD 24/7">ESPN 3 MX</evento>
-  <evento id="888" grupo="DLHD 24/7">ESPN 3 NL</evento>
-  <evento id="928" grupo="DLHD 24/7">ESPN 4 MX</evento>
-  <evento id="81" grupo="DLHD 24/7">ESPN Brasil</evento>
-  <evento id="150" grupo="DLHD 24/7">ESPN2 Argentina</evento>
-  <evento id="82" grupo="DLHD 24/7">ESPN2 Brasil</evento>
-  <evento id="83" grupo="DLHD 24/7">ESPN3 Brasil</evento>
-  <evento id="85" grupo="DLHD 24/7">ESPN4 Brasil</evento>
-  <evento id="288" grupo="DLHD 24/7">ESPNews</evento>
-  <evento id="773" grupo="DLHD 24/7">Eurosport 2 France</evento>
-  <evento id="42" grupo="DLHD 24/7">EuroSport 2 Greece</evento>
-  <evento id="879" grupo="DLHD 24/7">EuroSport 2 Italy</evento>
-  <evento id="58" grupo="DLHD 24/7">EuroSport 2 Poland</evento>
-  <evento id="525" grupo="DLHD 24/7">EuroSport 2 Spain</evento>
-  <evento id="890" grupo="DLHD 24/7">FanDuel Sports Network Arizona</evento>
-  <evento id="892" grupo="DLHD 24/7">FanDuel Sports Network Florida</evento>
-  <evento id="893" grupo="DLHD 24/7">FanDuel Sports Network Great Lakes</evento>
-  <evento id="897" grupo="DLHD 24/7">FanDuel Sports Network New Orleans</evento>
-  <evento id="898" grupo="DLHD 24/7">FanDuel Sports Network North</evento>
-  <evento id="902" grupo="DLHD 24/7">FanDuel Sports Network SoCal</evento>
-  <evento id="903" grupo="DLHD 24/7">FanDuel Sports Network South</evento>
-  <evento id="904" grupo="DLHD 24/7">FanDuel Sports Network Southeast</evento>
-  <evento id="905" grupo="DLHD 24/7">FanDuel Sports Network Sun</evento>
-  <evento id="906" grupo="DLHD 24/7">FanDuel Sports Network West</evento>
-  <evento id="744" grupo="DLHD 24/7">Fashion TV</evento>
-  <evento id="751" grupo="DLHD 24/7">FETV - Family Entertainment Television</evento>
-  <evento id="757" grupo="DLHD 24/7">Fight Network</evento>
-  <evento id="688" grupo="DLHD 24/7">Film4 UK</evento>
-  <evento id="568" grupo="DLHD 24/7">FilmBox Premium Poland</evento>
-  <evento id="297" grupo="DLHD 24/7">Fox Business</evento>
-  <evento id="369" grupo="DLHD 24/7">Fox Cricket</evento>
-  <evento id="643" grupo="DLHD 24/7">FOX Deportes USA</evento>
-  <evento id="483" grupo="DLHD 24/7">FOX HD Bulgaria</evento>
-  <evento id="347" grupo="DLHD 24/7">Fox News</evento>
-  <evento id="756" grupo="DLHD 24/7">FOX Soccer Plus</evento>
-  <evento id="929" grupo="DLHD 24/7">Fox Sports 1 MX</evento>
-  <evento id="788" grupo="DLHD 24/7">Fox Sports 2 Argentina</evento>
-  <evento id="930" grupo="DLHD 24/7">Fox Sports 2 MX</evento>
-  <evento id="758" grupo="DLHD 24/7">Fox Sports 2 USA</evento>
-  <evento id="789" grupo="DLHD 24/7">Fox Sports 3 Argentina</evento>
-  <evento id="931" grupo="DLHD 24/7">Fox Sports 3 MX</evento>
-  <evento id="820" grupo="DLHD 24/7">FOX Sports 502 AU</evento>
-  <evento id="821" grupo="DLHD 24/7">FOX Sports 503 AU</evento>
-  <evento id="822" grupo="DLHD 24/7">FOX Sports 504 AU</evento>
-  <evento id="823" grupo="DLHD 24/7">FOX Sports 505 AU</evento>
-  <evento id="824" grupo="DLHD 24/7">FOX Sports 506 AU</evento>
-  <evento id="825" grupo="DLHD 24/7">FOX Sports 507 AU</evento>
-  <evento id="787" grupo="DLHD 24/7">Fox Sports Argentina</evento>
-  <evento id="830" grupo="DLHD 24/7">Fox Sports Premium MX</evento>
-  <evento id="775" grupo="DLHD 24/7">Fox Weather Channel</evento>
-  <evento id="950" grupo="DLHD 24/7">France 2</evento>
-  <evento id="951" grupo="DLHD 24/7">France 3</evento>
-  <evento id="952" grupo="DLHD 24/7">France 4</evento>
-  <evento id="953" grupo="DLHD 24/7">France 5</evento>
-  <evento id="301" grupo="DLHD 24/7">Freeform</evento>
-  <evento id="279" grupo="DLHD 24/7">FUSE TV USA</evento>
-  <evento id="381" grupo="DLHD 24/7">FX Movie Channel</evento>
-  <evento id="317" grupo="DLHD 24/7">FX USA</evento>
-  <evento id="298" grupo="DLHD 24/7">FXX USA</evento>
-  <evento id="665" grupo="DLHD 24/7">FYI</evento>
-  <evento id="743" grupo="DLHD 24/7">Galavisi贸n USA</evento>
-  <evento id="319" grupo="DLHD 24/7">Game Show Network</evento>
-  <evento id="836" grupo="DLHD 24/7">Global CA</evento>
-  <evento id="761" grupo="DLHD 24/7">Globo RIO</evento>
-  <evento id="760" grupo="DLHD 24/7">Globo SP</evento>
-  <evento id="530" grupo="DLHD 24/7">GOL PLAY Spain</evento>
-  <evento id="687" grupo="DLHD 24/7">Gold UK</evento>
-  <evento id="318" grupo="Live Events">Golf | PGA Tour Champions Golf Mitsubishi Electric Championship at Hualalai, Second Round (00:00)</evento>
-  <evento id="699" grupo="DLHD 24/7">Great American Family Channel (GAC)</evento>
-  <evento id="752" grupo="DLHD 24/7">Grit Channel</evento>
-  <evento id="157" grupo="Live Events">Gymnastics | Women's College Gymnastics : BYU vs Arizona State (02:00)</evento>
-  <evento id="156" grupo="Live Events">Gymnastics | Women's College Gymnastics : Florida vs Auburn (01:45)</evento>
-  <evento id="151" grupo="Live Events">Gymnastics | Women's College Gymnastics : Georgia vs Oklahoma (00:00)</evento>
-  <evento id="153" grupo="Live Events">Gymnastics | Women's College Gymnastics : Missouri vs Alabama (00:30)</evento>
-  <evento id="152" grupo="Live Events">Gymnastics | Women's College Gymnastics : Pittsburgh vs North Carolina (00:00)</evento>
-  <evento id="155" grupo="Live Events">Gymnastics | Women's College Gymnastics : Southeast Missouri State vs Arkansas (01:30)</evento>
-  <evento id="154" grupo="Live Events">Gymnastics | Women's College Gymnastics : Towson vs Arizona (01:00)</evento>
-  <evento id="158" grupo="Live Events">Gymnastics | Women's College Gymnastics : Washington vs Rutgers (02:30)</evento>
-  <evento id="296" grupo="DLHD 24/7">Hallmark Movies &amp; Mysterie</evento>
-  <evento id="846" grupo="DLHD 24/7">Happy TV Serbia</evento>
-  <evento id="690" grupo="DLHD 24/7">HBO Comedy USA</evento>
-  <evento id="693" grupo="DLHD 24/7">HBO Drama USA</evento>
-  <evento id="691" grupo="DLHD 24/7">HBO Family USA</evento>
-  <evento id="689" grupo="DLHD 24/7">HBO Hits USA</evento>
-  <evento id="692" grupo="DLHD 24/7">HBO Latino USA</evento>
-  <evento id="694" grupo="DLHD 24/7">HBO Movies USA</evento>
-  <evento id="569" grupo="DLHD 24/7">HBO Poland</evento>
-  <evento id="321" grupo="DLHD 24/7">HBO USA</evento>
-  <evento id="323" grupo="DLHD 24/7">Headline News</evento>
-  <evento id="282" grupo="DLHD 24/7">Heroes &amp; Icons (H&amp;I) USA</evento>
-  <evento id="382" grupo="DLHD 24/7">HGTV</evento>
-  <evento id="322" grupo="DLHD 24/7">History USA</evento>
-  <evento id="553" grupo="DLHD 24/7">HOT3 Israel</evento>
-  <evento id="47" grupo="Live Events">Ice Skating | Figure Skating: Four Continents Championships - Beijing 2026 Freestyle dance (04:00)</evento>
-  <evento id="401" grupo="Live Events">Ice Skating | Figure Skating: Four Continents Championships - Beijing 2026 Freestyle dance (04:00)</evento>
-  <evento id="656" grupo="DLHD 24/7">IFC TV USA</evento>
-  <evento id="324" grupo="DLHD 24/7">Investigation Discovery (ID USA)</evento>
-  <evento id="325" grupo="DLHD 24/7">ION USA</evento>
-  <evento id="854" grupo="DLHD 24/7">Italia 1 Italy</evento>
-  <evento id="350" grupo="DLHD 24/7">ITV 1 UK</evento>
-  <evento id="351" grupo="DLHD 24/7">ITV 2 UK</evento>
-  <evento id="352" grupo="DLHD 24/7">ITV 3 UK</evento>
-  <evento id="353" grupo="DLHD 24/7">ITV 4 UK</evento>
-  <evento id="876" grupo="DLHD 24/7">ITV Quiz</evento>
-  <evento id="1050" grupo="DLHD 24/7">JOJ SK</evento>
-  <evento id="1052" grupo="DLHD 24/7">JOJ Šport SK</evento>
-  <evento id="731" grupo="DLHD 24/7">Kabel Eins (Kabel 1) DE</evento>
-  <evento id="803" grupo="DLHD 24/7">Kanal 4 Denmark</evento>
-  <evento id="804" grupo="DLHD 24/7">Kanal 5 Denmark</evento>
-  <evento id="1001" grupo="DLHD 24/7">Kanal D Turkey</evento>
-  <evento id="645" grupo="DLHD 24/7">L'Equipe France</evento>
-  <evento id="534" grupo="DLHD 24/7">La Sexta Spain</evento>
-  <evento id="855" grupo="DLHD 24/7">La7 Italy</evento>
-  <evento id="856" grupo="DLHD 24/7">LA7d HD+ Italy</evento>
-  <evento id="159" grupo="Live Events">Lacross (NLL) | NLL Lacrosse : San Diego Seals vs Philadelphia Wings (00:00)</evento>
-  <evento id="115" grupo="Live Events">Lacross (NLL) | NLL Lacrosse : Vancouver Warriors vs. Ottawa Rebel (00:30)</evento>
-  <evento id="539" grupo="DLHD 24/7">LaLiga SmartBank TV</evento>
-  <evento id="276" grupo="DLHD 24/7">LaLigaTV UK</evento>
-  <evento id="924" grupo="DLHD 24/7">Las Estrellas</evento>
-  <evento id="278" grupo="DLHD 24/7">Law &amp; Crime Network</evento>
-  <evento id="962" grupo="DLHD 24/7">LCI France</evento>
-  <evento id="389" grupo="DLHD 24/7">Lifetime Movies Network</evento>
-  <evento id="326" grupo="DLHD 24/7">Lifetime Network</evento>
-  <evento id="826" grupo="DLHD 24/7">Liverpool TV (LFC TV)</evento>
-  <evento id="849" grupo="DLHD 24/7">Logo TV USA</evento>
-  <evento id="265" grupo="DLHD 24/7">M4 Sports Hungary</evento>
-  <evento id="470" grupo="DLHD 24/7">M6 France</evento>
-  <evento id="299" grupo="DLHD 24/7">Magnolia Network</evento>
-  <evento id="829" grupo="DLHD 24/7">MASN USA</evento>
-  <evento id="136" grupo="DLHD 24/7">Match Football 1 Russia</evento>
-  <evento id="137" grupo="DLHD 24/7">Match Football 2 Russia</evento>
-  <evento id="138" grupo="DLHD 24/7">Match Football 3 Russia</evento>
-  <evento id="573" grupo="DLHD 24/7">Match Premier Russia</evento>
-  <evento id="779" grupo="DLHD 24/7">Max Sport 1 Croatia</evento>
-  <evento id="473" grupo="DLHD 24/7">Max Sport 2 Bulgaria</evento>
-  <evento id="780" grupo="DLHD 24/7">Max Sport 2 Croatia</evento>
-  <evento id="474" grupo="DLHD 24/7">Max Sport 3 Bulgaria</evento>
-  <evento id="475" grupo="DLHD 24/7">Max Sport 4 Bulgaria</evento>
-  <evento id="733" grupo="DLHD 24/7">MDR DE</evento>
-  <evento id="662" grupo="DLHD 24/7">METV USA</evento>
-  <evento id="791" grupo="DLHD 24/7">MGM+ USA / Epix</evento>
-  <evento id="399" grupo="DLHD 24/7">MLB Network USA</evento>
-  <evento id="449" grupo="Live Events">MMA | ONE Friday Fights 139 : Bokang Masunyane vs Ryohei Kurosawa (01:00)</evento>
-  <evento id="395" grupo="Live Events">MMA | ONE Friday Fights 139 : Bokang Masunyane vs Ryohei Kurosawa (01:00)</evento>
-  <evento id="127" grupo="Live Events">MMA | ONE Friday Fights 139 : Bokang Masunyane vs Ryohei Kurosawa (01:00)</evento>
-  <evento id="119" grupo="Live Events">MMA | ONE Friday Fights 139 : Bokang Masunyane vs Ryohei Kurosawa (01:00)</evento>
-  <evento id="74" grupo="Live Events">MMA | ONE Friday Fights 139 : Bokang Masunyane vs Ryohei Kurosawa (01:00)</evento>
-  <evento id="635" grupo="Live Events">MMA | ONE Friday Fights 139 : Bokang Masunyane vs Ryohei Kurosawa (01:00)</evento>
-  <evento id="563" grupo="DLHD 24/7">Motowizja Poland</evento>
-  <evento id="438" grupo="DLHD 24/7">Movistar Deportes 2 Spain</evento>
-  <evento id="526" grupo="DLHD 24/7">Movistar Deportes 3 Spain</evento>
-  <evento id="527" grupo="DLHD 24/7">Movistar Deportes 4 Spain</evento>
-  <evento id="436" grupo="DLHD 24/7">Movistar Deportes Spain</evento>
-  <evento id="528" grupo="DLHD 24/7">Movistar Golf Spain</evento>
-  <evento id="84" grupo="DLHD 24/7">Movistar Laliga</evento>
-  <evento id="435" grupo="DLHD 24/7">Movistar Liga de Campeones</evento>
-  <evento id="437" grupo="DLHD 24/7">Movistar Supercopa de España</evento>
-  <evento id="327" grupo="DLHD 24/7">MSNBC</evento>
-  <evento id="806" grupo="DLHD 24/7">MTV Denmark</evento>
-  <evento id="990" grupo="DLHD 24/7">MTV Poland</evento>
-  <evento id="367" grupo="DLHD 24/7">MTV UK</evento>
-  <evento id="371" grupo="DLHD 24/7">MTV USA</evento>
-  <evento id="749" grupo="DLHD 24/7">Mundotoro TV Spain</evento>
-  <evento id="377" grupo="DLHD 24/7">MUTV UK</evento>
-  <evento id="654" grupo="DLHD 24/7">MY9TV USA</evento>
-  <evento id="745" grupo="DLHD 24/7">Nat Geo Wild USA</evento>
-  <evento id="328" grupo="DLHD 24/7">National Geographic (NGC)</evento>
-  <evento id="172" grupo="Live Events">NBA G-League | NBA G-League : Capital City Go-Go vs Austin Spurs (01:00)</evento>
-  <evento id="171" grupo="Live Events">NBA G-League | NBA G-League : Motor City Cruise vs Grand Rapids Drive (00:00)</evento>
-  <evento id="891" grupo="Live Events">NBA G-League | NBA G-League : Motor City Cruise vs Grand Rapids Drive (00:00)</evento>
-  <evento id="173" grupo="Live Events">NBA G-League | NBA G-League : South Bay Lakers vs Mexico City Capitanes (03:00)</evento>
-  <evento id="404" grupo="DLHD 24/7">NBA TV USA</evento>
-  <evento id="3" grupo="Live Events">NBA | NBA : Atlanta Hawks vs Phoenix Suns (00:30)</evento>
-  <evento id="899" grupo="Live Events">NBA | NBA : Atlanta Hawks vs Phoenix Suns (00:30)</evento>
-  <evento id="4" grupo="Live Events">NBA | NBA : Brooklyn Nets vs Boston Celtics (00:30)</evento>
-  <evento id="754" grupo="Live Events">NBA | NBA : Brooklyn Nets vs Boston Celtics (00:30)</evento>
-  <evento id="763" grupo="Live Events">NBA | NBA : Brooklyn Nets vs Boston Celtics (00:30)</evento>
-  <evento id="147" grupo="Live Events">NBA | NBA : Brooklyn Nets vs Boston Celtics (00:30)</evento>
-  <evento id="5" grupo="Live Events">NBA | NBA : Cleveland Cavaliers vs Sacramento Kings (00:30)</evento>
-  <evento id="755" grupo="Live Events">NBA | NBA : Cleveland Cavaliers vs Sacramento Kings (00:30)</evento>
-  <evento id="2" grupo="Live Events">NBA | NBA : Detroit Pistons vs Houston Rockets (00:00)</evento>
-  <evento id="921" grupo="Live Events">NBA | NBA : Detroit Pistons vs Houston Rockets (00:00)</evento>
-  <evento id="6" grupo="Live Events">NBA | NBA : Memphis Grizzlies vs New Orleans Pelicans (01:00)</evento>
-  <evento id="8" grupo="Live Events">NBA | NBA : Milwaukee Bucks vs Denver Nuggets (02:30)</evento>
-  <evento id="907" grupo="Live Events">NBA | NBA : Milwaukee Bucks vs Denver Nuggets (02:30)</evento>
-  <evento id="7" grupo="Live Events">NBA | NBA : Oklahoma City Thunder vs Indiana Pacers (01:00)</evento>
-  <evento id="894" grupo="Live Events">NBA | NBA : Oklahoma City Thunder vs Indiana Pacers (01:00)</evento>
-  <evento id="900" grupo="Live Events">NBA | NBA : Oklahoma City Thunder vs Indiana Pacers (01:00)</evento>
-  <evento id="9" grupo="Live Events">NBA | NBA : Portland Trail Blazers vs Toronto Raptors (03:00)</evento>
-  <evento id="111" grupo="Live Events">NBA | NBA : Portland Trail Blazers vs Toronto Raptors (03:00)</evento>
-  <evento id="114" grupo="Live Events">NBA | NBA : Portland Trail Blazers vs Toronto Raptors (03:00)</evento>
-  <evento id="840" grupo="Live Events">NBA | NBA : Portland Trail Blazers vs Toronto Raptors (03:00)</evento>
-  <evento id="144" grupo="Live Events">NBA | NBA : Portland Trail Blazers vs Toronto Raptors (03:00)</evento>
-  <evento id="845" grupo="DLHD 24/7">NBC Universo</evento>
-  <evento id="53" grupo="DLHD 24/7">NBC USA</evento>
-  <evento id="277" grupo="DLHD 24/7">NBC10 Philadelphia</evento>
-  <evento id="769" grupo="DLHD 24/7">NBCNY USA</evento>
-  <evento id="759" grupo="Live Events">NCAA Ice Hockey | College Hockey : Connecticut at Yale (00:30)</evento>
-  <evento id="922" grupo="Live Events">NCAA Ice Hockey | College Hockey : Holy Cross vs Robert Morris (00:00)</evento>
-  <evento id="176" grupo="Live Events">NCAA Ice Hockey | College Ice Hockey : Dartmouth vs Cornell (00:00)</evento>
-  <evento id="175" grupo="Live Events">NCAA Ice Hockey | College Ice Hockey : Harvard vs Colgate (00:00)</evento>
-  <evento id="178" grupo="Live Events">NCAA Ice Hockey | College Ice Hockey : Maine vs UMass Lowell (00:00)</evento>
-  <evento id="762" grupo="Live Events">NCAA Ice Hockey | College Ice Hockey : Maine vs UMass Lowell (00:00)</evento>
-  <evento id="177" grupo="Live Events">NCAA Ice Hockey | College Ice Hockey : Northeastern vs Merrimack (00:00)</evento>
-  <evento id="174" grupo="Live Events">NCAA Ice Hockey | College Ice Hockey : St. Lawrence vs Clarkson (00:00)</evento>
-  <evento id="230" grupo="Live Events">NCAA Volleyball | College Volleyball : Bay Area Dimes vs Menlo (02:00)</evento>
-  <evento id="225" grupo="Live Events">NCAA Volleyball | College Volleyball : Charleston (WV) vs Ball State (00:00)</evento>
-  <evento id="224" grupo="Live Events">NCAA Volleyball | College Volleyball : Lincoln Memorial vs Ohio State (00:00)</evento>
-  <evento id="226" grupo="Live Events">NCAA Volleyball | College Volleyball : Roosevelt vs Sacred Heart (00:00)</evento>
-  <evento id="227" grupo="Live Events">NCAA Volleyball | College Volleyball : Simpson University vs UC Merced (01:00)</evento>
-  <evento id="233" grupo="Live Events">NCAA Volleyball | College Volleyball : St. Xavier vs Vanguard (03:00)</evento>
-  <evento id="228" grupo="Live Events">NCAA Volleyball | College Volleyball : UC Irvine vs BYU (02:00)</evento>
-  <evento id="229" grupo="Live Events">NCAA Volleyball | College Volleyball : UC Santa Barbara vs Stanford (02:00)</evento>
-  <evento id="232" grupo="Live Events">NCAA Volleyball | College Volleyball : UCLA vs UC San Diego (03:00)</evento>
-  <evento id="308" grupo="Live Events">NCAA/NCAAW Basketball | NCAA : Buffalo vs Massachusetts (00:00)</evento>
-  <evento id="39" grupo="Live Events">NCAA/NCAAW Basketball | NCAA : Butler vs Marquette (01:00)</evento>
-  <evento id="54" grupo="Live Events">NCAA/NCAAW Basketball | NCAA : Michigan vs Ohio State (01:00)</evento>
-  <evento id="768" grupo="Live Events">NCAA/NCAAW Basketball | NCAA : Michigan vs Ohio State (01:00)</evento>
-  <evento id="316" grupo="Live Events">NCAA/NCAAW Basketball | NCAA : Ohio vs Akron (01:00)</evento>
-  <evento id="107" grupo="Live Events">NCAA/NCAAW Basketball | NCAAW : Evansville vs Drake (00:00)</evento>
-  <evento id="108" grupo="Live Events">NCAA/NCAAW Basketball | NCAAW : Liberty vs Middle Tennessee (00:30)</evento>
-  <evento id="109" grupo="Live Events">NCAA/NCAAW Basketball | NCAAW : Miami (OH) vs Ball State (04:00)</evento>
-  <evento id="106" grupo="Live Events">NCAA/NCAAW Basketball | NCAAW : Murray State vs Northern Iowa (00:00)</evento>
-  <evento id="105" grupo="Live Events">NCAA/NCAAW Basketball | NCAAW : Valparaiso vs Bradley (00:00)</evento>
-  <evento id="736" grupo="DLHD 24/7">NDR DE</evento>
-  <evento id="613" grupo="DLHD 24/7">Newsmax USA</evento>
-  <evento id="292" grupo="DLHD 24/7">NewsNation USA</evento>
-  <evento id="667" grupo="DLHD 24/7">NFL RedZone</evento>
-  <evento id="663" grupo="DLHD 24/7">NHL Network USA</evento>
-  <evento id="17" grupo="Live Events">NHL | NHL : Anaheim Ducks vs Seattle Kraken (03:00)</evento>
-  <evento id="15" grupo="Live Events">NHL | NHL : New Jersey Devils vs Vancouver Canucks (03:00)</evento>
-  <evento id="556" grupo="Live Events">NHL | NHL : New Jersey Devils vs Vancouver Canucks (03:00)</evento>
-  <evento id="557" grupo="Live Events">NHL | NHL : New Jersey Devils vs Vancouver Canucks (03:00)</evento>
-  <evento id="16" grupo="Live Events">NHL | NHL : New York Rangers vs San Jose Sharks (03:00)</evento>
-  <evento id="13" grupo="Live Events">NHL | NHL : Philadelphia Flyers vs Colorado Avalanche (02:00)</evento>
-  <evento id="923" grupo="Live Events">NHL | NHL : Philadelphia Flyers vs Colorado Avalanche (02:00)</evento>
-  <evento id="777" grupo="Live Events">NHL | NHL : Philadelphia Flyers vs Colorado Avalanche (02:00)</evento>
-  <evento id="454" grupo="Live Events">NHL | NHL : Philadelphia Flyers vs Colorado Avalanche (02:00)</evento>
-  <evento id="12" grupo="Live Events">NHL | NHL : St. Louis Blues vs Dallas Stars (01:00)</evento>
-  <evento id="895" grupo="Live Events">NHL | NHL : St. Louis Blues vs Dallas Stars (01:00)</evento>
-  <evento id="896" grupo="Live Events">NHL | NHL : St. Louis Blues vs Dallas Stars (01:00)</evento>
-  <evento id="11" grupo="Live Events">NHL | NHL : Tampa Bay Lightning vs Chicago Blackhawks (00:00)</evento>
-  <evento id="44" grupo="Live Events">NHL | NHL : Tampa Bay Lightning vs Chicago Blackhawks (00:00)</evento>
-  <evento id="809" grupo="Live Events">NHL | NHL : Tampa Bay Lightning vs Chicago Blackhawks (00:00)</evento>
-  <evento id="19" grupo="Live Events">NHL | NHL : Tampa Bay Lightning vs Chicago Blackhawks (00:00)</evento>
-  <evento id="10" grupo="Live Events">NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)</evento>
-  <evento id="451" grupo="Live Events">NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)</evento>
-  <evento id="833" grupo="Live Events">NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)</evento>
-  <evento id="408" grupo="Live Events">NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)</evento>
-  <evento id="406" grupo="Live Events">NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)</evento>
-  <evento id="407" grupo="Live Events">NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)</evento>
-  <evento id="18" grupo="Live Events">NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)</evento>
-  <evento id="494" grupo="Live Events">NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)</evento>
-  <evento id="146" grupo="Live Events">NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)</evento>
-  <evento id="14" grupo="Live Events">NHL | NHL : Washington Capitals vs Calgary Flames (02:00)</evento>
-  <evento id="778" grupo="Live Events">NHL | NHL : Washington Capitals vs Calgary Flames (02:00)</evento>
-  <evento id="411" grupo="Live Events">NHL | NHL : Washington Capitals vs Calgary Flames (02:00)</evento>
-  <evento id="330" grupo="DLHD 24/7">NICK</evento>
-  <evento id="329" grupo="DLHD 24/7">NICK JR</evento>
-  <evento id="666" grupo="DLHD 24/7">Nick Music</evento>
-  <evento id="649" grupo="DLHD 24/7">Nicktoons</evento>
-  <evento id="835" grupo="DLHD 24/7">Noovo CA</evento>
-  <evento id="1034" grupo="DLHD 24/7">Nova HD CZ</evento>
-  <evento id="847" grupo="DLHD 24/7">Nova S Serbia</evento>
-  <evento id="1021" grupo="DLHD 24/7">Nova Sport 1 CZ</evento>
-  <evento id="1022" grupo="DLHD 24/7">Nova Sport 2 CZ</evento>
-  <evento id="1023" grupo="DLHD 24/7">Nova Sport 3 CZ</evento>
-  <evento id="1060" grupo="DLHD 24/7">Nova Sport 3 SK</evento>
-  <evento id="1024" grupo="DLHD 24/7">Nova Sport 4 CZ</evento>
-  <evento id="1061" grupo="DLHD 24/7">Nova Sport 4 SK</evento>
-  <evento id="1025" grupo="DLHD 24/7">Nova Sport 5 CZ</evento>
-  <evento id="1062" grupo="DLHD 24/7">Nova Sport 5 SK</evento>
-  <evento id="1026" grupo="DLHD 24/7">Nova Sport 6 CZ</evento>
-  <evento id="468" grupo="DLHD 24/7">Nova Sport Bulgaria</evento>
-  <evento id="582" grupo="DLHD 24/7">Nova Sport Serbia</evento>
-  <evento id="631" grupo="DLHD 24/7">Nova Sports 1 Greece</evento>
-  <evento id="632" grupo="DLHD 24/7">Nova Sports 2 Greece</evento>
-  <evento id="633" grupo="DLHD 24/7">Nova Sports 3 Greece</evento>
-  <evento id="634" grupo="DLHD 24/7">Nova Sports 4 Greece</evento>
-  <evento id="636" grupo="DLHD 24/7">Nova Sports 6 Greece</evento>
-  <evento id="639" grupo="DLHD 24/7">Nova Sports News Greece</evento>
-  <evento id="599" grupo="DLHD 24/7">Nova Sports Premier League Greece</evento>
-  <evento id="638" grupo="DLHD 24/7">Nova Sports Prime Greece</evento>
-  <evento id="637" grupo="DLHD 24/7">Nova Sports Start Greece</evento>
-  <evento id="480" grupo="DLHD 24/7">Nova TV Bulgaria</evento>
-  <evento id="1003" grupo="DLHD 24/7">NOW TV Turkey</evento>
-  <evento id="197" grupo="Live Events">OHL | OHL : Brantford Bulldogs vs Sudbury Wolves (00:05)</evento>
-  <evento id="199" grupo="Live Events">OHL | OHL : Erie Otters vs Guelph Storm (00:07)</evento>
-  <evento id="198" grupo="Live Events">OHL | OHL : Flint Firebirds vs Windsor Spitfires (00:05)</evento>
-  <evento id="194" grupo="Live Events">OHL | OHL : Owen Sound Attack vs Kitchener Rangers (00:00)</evento>
-  <evento id="196" grupo="Live Events">OHL | OHL : Saginaw Spirit vs Kingston Frontenacs (00:05)</evento>
-  <evento id="195" grupo="Live Events">OHL | OHL : Sarnia Sting vs London Knights (00:00)</evento>
-  <evento id="541" grupo="DLHD 24/7">ONE 1 HD Israel</evento>
-  <evento id="542" grupo="DLHD 24/7">ONE 2 HD Israel</evento>
-  <evento id="1039" grupo="DLHD 24/7">OnePlay MD2 CZ</evento>
-  <evento id="1040" grupo="DLHD 24/7">OnePlay MD3 CZ</evento>
-  <evento id="1041" grupo="DLHD 24/7">OnePlay MD4 CZ</evento>
-  <evento id="1027" grupo="DLHD 24/7">Oneplay Sport 1 CZ</evento>
-  <evento id="1028" grupo="DLHD 24/7">Oneplay Sport 2 CZ</evento>
-  <evento id="1029" grupo="DLHD 24/7">Oneplay Sport 3 CZ</evento>
-  <evento id="1038" grupo="DLHD 24/7">OnePlay Sport 4 CZ</evento>
-  <evento id="611" grupo="DLHD 24/7">OnTime Sports</evento>
-  <evento id="331" grupo="DLHD 24/7">Oprah Winfrey Network (OWN)</evento>
-  <evento id="439" grupo="DLHD 24/7">Orange Sport 1 Romania</evento>
-  <evento id="440" grupo="DLHD 24/7">Orange Sport 2 Romania</evento>
-  <evento id="441" grupo="DLHD 24/7">Orange Sport 3 Romania</evento>
-  <evento id="442" grupo="DLHD 24/7">Orange Sport 4 Romania</evento>
-  <evento id="848" grupo="DLHD 24/7">Outdoor Channel USA</evento>
-  <evento id="332" grupo="DLHD 24/7">Oxygen True Crime</evento>
-  <evento id="287" grupo="DLHD 24/7">Pac-12 Network USA</evento>
-  <evento id="334" grupo="DLHD 24/7">Paramount Network</evento>
-  <evento id="43" grupo="DLHD 24/7">PDC TV</evento>
-  <evento id="564" grupo="DLHD 24/7">Polsat Film Poland</evento>
-  <evento id="443" grupo="DLHD 24/7">Polsat News Poland</evento>
-  <evento id="562" grupo="DLHD 24/7">Polsat Poland</evento>
-  <evento id="50" grupo="DLHD 24/7">Polsat Sport 2 Poland</evento>
-  <evento id="129" grupo="DLHD 24/7">Polsat Sport 3 Poland</evento>
-  <evento id="993" grupo="DLHD 24/7">Polsat Sport Extra 1 HD Poland</evento>
-  <evento id="994" grupo="DLHD 24/7">Polsat Sport Extra 2 HD Poland</evento>
-  <evento id="995" grupo="DLHD 24/7">Polsat Sport Extra 3 HD Poland</evento>
-  <evento id="996" grupo="DLHD 24/7">Polsat Sport Extra 4 HD Poland</evento>
-  <evento id="997" grupo="DLHD 24/7">Polsat Sport Fight HD Poland</evento>
-  <evento id="998" grupo="DLHD 24/7">Polsat Sport NEWS HD Poland</evento>
-  <evento id="991" grupo="DLHD 24/7">Polsat Sport Premium 1 Super HD PL</evento>
-  <evento id="992" grupo="DLHD 24/7">Polsat Sport Premium 2 Super HD PL</evento>
-  <evento id="653" grupo="DLHD 24/7">POP TV USA</evento>
-  <evento id="718" grupo="DLHD 24/7">Porto Canal Portugal</evento>
-  <evento id="88" grupo="DLHD 24/7">Premier Brasil</evento>
-  <evento id="1030" grupo="DLHD 24/7">Premier Sport 1 CZ</evento>
-  <evento id="1031" grupo="DLHD 24/7">Premier Sport 2 CZ</evento>
-  <evento id="1032" grupo="DLHD 24/7">Premier Sport 3 CZ</evento>
-  <evento id="771" grupo="DLHD 24/7">Premier Sports Ireland 1</evento>
-  <evento id="799" grupo="DLHD 24/7">Premier Sports Ireland 2</evento>
-  <evento id="583" grupo="DLHD 24/7">Prima Sport 1</evento>
-  <evento id="584" grupo="DLHD 24/7">Prima Sport 2</evento>
-  <evento id="585" grupo="DLHD 24/7">Prima Sport 3</evento>
-  <evento id="586" grupo="DLHD 24/7">Prima Sport 4</evento>
-  <evento id="843" grupo="DLHD 24/7">Prima TV RO</evento>
-  <evento id="730" grupo="DLHD 24/7">ProSieben (PRO7) DE</evento>
-  <evento id="450" grupo="DLHD 24/7">PTV Sports</evento>
-  <evento id="202" grupo="Live Events">QMJHL | QMJHL : Blainville-Boisbriand Armada vs Quebec Remparts (00:00)</evento>
-  <evento id="204" grupo="Live Events">QMJHL | QMJHL : Rouyn-Noranda Huskies vs Gatineau Olympiques (00:00)</evento>
-  <evento id="205" grupo="Live Events">QMJHL | QMJHL : Shawinigan Cataractes vs Victoriaville Tigres (00:00)</evento>
-  <evento id="203" grupo="Live Events">QMJHL | QMJHL : Val-D'Or Foreurs vs Chicoutimi Sagueneens (00:00)</evento>
-  <evento id="182" grupo="Live Events">QMWHL | QMWHL : Moncton Wildcats vs Baie-Comeau Drakkar (00:00)</evento>
-  <evento id="183" grupo="Live Events">QMWHL | QMWHL : Rouyn-Noranda Huskies vs Blainville-Boisbriand Armada (00:00)</evento>
-  <evento id="646" grupo="DLHD 24/7">Racer TV USA</evento>
-  <evento id="555" grupo="DLHD 24/7">Racing Tv UK</evento>
-  <evento id="850" grupo="DLHD 24/7">Rai 1 Italy</evento>
-  <evento id="851" grupo="DLHD 24/7">Rai 2 Italy</evento>
-  <evento id="852" grupo="DLHD 24/7">Rai 3 Italy</evento>
-  <evento id="858" grupo="DLHD 24/7">Rai Premium Italy</evento>
-  <evento id="882" grupo="DLHD 24/7">Rai Sport Italy</evento>
-  <evento id="607" grupo="DLHD 24/7">Rally Tv</evento>
-  <evento id="839" grupo="DLHD 24/7">RDS CA</evento>
-  <evento id="841" grupo="DLHD 24/7">RDS Info CA</evento>
-  <evento id="523" grupo="DLHD 24/7">Real Madrid TV Spain</evento>
-  <evento id="293" grupo="DLHD 24/7">Reelz Channel</evento>
-  <evento id="471" grupo="DLHD 24/7">Ring Bulgaria</evento>
-  <evento id="120" grupo="DLHD 24/7">RMC Sport 2 France</evento>
-  <evento id="954" grupo="DLHD 24/7">RMC Story France</evento>
-  <evento id="920" grupo="DLHD 24/7">Root Sports Northwest</evento>
-  <evento id="364" grupo="DLHD 24/7">RTE 1</evento>
-  <evento id="365" grupo="DLHD 24/7">RTE 2</evento>
-  <evento id="740" grupo="DLHD 24/7">RTL DE</evento>
-  <evento id="390" grupo="DLHD 24/7">RTL7 Netherland</evento>
-  <evento id="719" grupo="DLHD 24/7">RTP 1 Portugal</evento>
-  <evento id="720" grupo="DLHD 24/7">RTP 2 Portugal</evento>
-  <evento id="721" grupo="DLHD 24/7">RTP 3 Portugal</evento>
-  <evento id="670" grupo="DLHD 24/7">S4C UK</evento>
-  <evento id="729" grupo="DLHD 24/7">SAT.1 DE</evento>
-  <evento id="883" grupo="DLHD 24/7">SBS6 NL</evento>
-  <evento id="294" grupo="DLHD 24/7">Science Channel</evento>
-  <evento id="385" grupo="DLHD 24/7">SEC Network USA</evento>
-  <evento id="811" grupo="DLHD 24/7">SEE Denmark</evento>
-  <evento id="1002" grupo="DLHD 24/7">Show TV Turkey</evento>
-  <evento id="792" grupo="DLHD 24/7">Showtime 2 USA (SHO2) USA</evento>
-  <evento id="794" grupo="DLHD 24/7">Showtime Extreme USA</evento>
-  <evento id="795" grupo="DLHD 24/7">Showtime Family Zone (SHO Family Zone) USA</evento>
-  <evento id="796" grupo="DLHD 24/7">Showtime Next (SHO Next) USA</evento>
-  <evento id="793" grupo="DLHD 24/7">Showtime Showcase USA</evento>
-  <evento id="695" grupo="DLHD 24/7">Showtime SHOxBET USA</evento>
-  <evento id="333" grupo="DLHD 24/7">Showtime USA</evento>
-  <evento id="797" grupo="DLHD 24/7">Showtime Women USA</evento>
-  <evento id="722" grupo="DLHD 24/7">SIC Portugal</evento>
-  <evento id="732" grupo="DLHD 24/7">Sixx DE</evento>
-  <evento id="683" grupo="DLHD 24/7">Sky Arts UK</evento>
-  <evento id="362" grupo="DLHD 24/7">Sky Atlantic</evento>
-  <evento id="871" grupo="DLHD 24/7">Sky Calcio 1 (251) Italy</evento>
-  <evento id="872" grupo="DLHD 24/7">Sky Calcio 2 (252) Italy</evento>
-  <evento id="873" grupo="DLHD 24/7">Sky Calcio 3 (253) Italy</evento>
-  <evento id="874" grupo="DLHD 24/7">Sky Calcio 4 (254) Italy</evento>
-  <evento id="861" grupo="DLHD 24/7">Sky Cinema Action Italy</evento>
-  <evento id="677" grupo="DLHD 24/7">Sky Cinema Action UK</evento>
-  <evento id="675" grupo="DLHD 24/7">Sky Cinema Animation UK</evento>
-  <evento id="859" grupo="DLHD 24/7">Sky Cinema Collection Italy</evento>
-  <evento id="862" grupo="DLHD 24/7">Sky Cinema Comedy Italy</evento>
-  <evento id="678" grupo="DLHD 24/7">Sky Cinema Comedy UK</evento>
-  <evento id="867" grupo="DLHD 24/7">Sky Cinema Drama Italy</evento>
-  <evento id="680" grupo="DLHD 24/7">Sky Cinema Drama UK</evento>
-  <evento id="865" grupo="DLHD 24/7">Sky Cinema Family Italy</evento>
-  <evento id="676" grupo="DLHD 24/7">Sky Cinema Family UK</evento>
-  <evento id="674" grupo="DLHD 24/7">Sky Cinema Greats UK</evento>
-  <evento id="673" grupo="DLHD 24/7">Sky Cinema Hits UK</evento>
-  <evento id="671" grupo="DLHD 24/7">Sky Cinema Premiere UK</evento>
-  <evento id="864" grupo="DLHD 24/7">Sky Cinema Romance Italy</evento>
-  <evento id="681" grupo="DLHD 24/7">Sky Cinema Sci-Fi Horror UK</evento>
-  <evento id="672" grupo="DLHD 24/7">Sky Cinema Select UK</evento>
-  <evento id="679" grupo="DLHD 24/7">Sky Cinema Thriller UK</evento>
-  <evento id="863" grupo="DLHD 24/7">Sky Cinema Uno +24 Italy</evento>
-  <evento id="860" grupo="DLHD 24/7">Sky Cinema Uno Italy</evento>
-  <evento id="684" grupo="DLHD 24/7">Sky Comedy UK</evento>
-  <evento id="685" grupo="DLHD 24/7">Sky Crime</evento>
-  <evento id="686" grupo="DLHD 24/7">Sky History</evento>
-  <evento id="708" grupo="DLHD 24/7">Sky MAX UK</evento>
-  <evento id="880" grupo="DLHD 24/7">Sky Serie Italy</evento>
-  <evento id="682" grupo="DLHD 24/7">Sky Showcase UK</evento>
-  <evento id="589" grupo="DLHD 24/7">Sky Sport 2 NZ</evento>
-  <evento id="869" grupo="DLHD 24/7">Sky Sport 24 Italy</evento>
-  <evento id="595" grupo="DLHD 24/7">Sky Sport 8 NZ</evento>
-  <evento id="596" grupo="DLHD 24/7">Sky Sport 9 NZ</evento>
-  <evento id="462" grupo="DLHD 24/7">Sky Sport Arena Italy</evento>
-  <evento id="559" grupo="DLHD 24/7">Sky Sport Austria 1 HD</evento>
-  <evento id="875" grupo="DLHD 24/7">Sky Sport Basket Italy</evento>
-  <evento id="558" grupo="DLHD 24/7">Sky Sport Bundesliga 1 HD</evento>
-  <evento id="946" grupo="DLHD 24/7">Sky Sport Bundesliga 2</evento>
-  <evento id="947" grupo="DLHD 24/7">Sky Sport Bundesliga 3</evento>
-  <evento id="948" grupo="DLHD 24/7">Sky Sport Bundesliga 4</evento>
-  <evento id="949" grupo="DLHD 24/7">Sky Sport Bundesliga 5</evento>
-  <evento id="870" grupo="DLHD 24/7">Sky Sport Calcio Italy</evento>
-  <evento id="577" grupo="DLHD 24/7">Sky Sport F1 Italy</evento>
-  <evento id="460" grupo="DLHD 24/7">Sky Sport MAX Italy</evento>
-  <evento id="575" grupo="DLHD 24/7">Sky Sport MotoGP Italy</evento>
-  <evento id="587" grupo="DLHD 24/7">Sky Sport Select NZ</evento>
-  <evento id="461" grupo="DLHD 24/7">Sky Sport UNO Italy</evento>
-  <evento id="240" grupo="DLHD 24/7">Sky Sports 1 DE</evento>
-  <evento id="241" grupo="DLHD 24/7">Sky Sports 2 DE</evento>
-  <evento id="37" grupo="DLHD 24/7">Sky Sports Action UK</evento>
-  <evento id="65" grupo="DLHD 24/7">Sky Sports Cricket</evento>
-  <evento id="274" grupo="DLHD 24/7">Sky Sports F1 DE</evento>
-  <evento id="60" grupo="DLHD 24/7">Sky Sports F1 UK</evento>
-  <evento id="35" grupo="DLHD 24/7">Sky Sports Football UK</evento>
-  <evento id="785" grupo="DLHD 24/7">Sky Sports Golf DE</evento>
-  <evento id="574" grupo="DLHD 24/7">Sky Sports Golf Italy</evento>
-  <evento id="70" grupo="DLHD 24/7">Sky Sports Golf UK</evento>
-  <evento id="38" grupo="DLHD 24/7">Sky Sports Main Event</evento>
-  <evento id="366" grupo="DLHD 24/7">Sky Sports News UK</evento>
-  <evento id="130" grupo="DLHD 24/7">Sky sports Premier League</evento>
-  <evento id="554" grupo="DLHD 24/7">Sky Sports Racing UK</evento>
-  <evento id="881" grupo="DLHD 24/7">Sky UNO Italy</evento>
-  <evento id="361" grupo="DLHD 24/7">Sky Witness HD</evento>
-  <evento id="603" grupo="DLHD 24/7">Smithsonian Channel</evento>
-  <evento id="388" grupo="Live Events">Soccer | Argentina - Primera División : Independiente Rivadavia vs Atlético Tucumán (01:15)</evento>
-  <evento id="149" grupo="Live Events">Soccer | Argentina - Primera División : Talleres Córdoba vs Newell's Old Boys (01:15)</evento>
-  <evento id="387" grupo="Live Events">Soccer | Argentina - Primera División : Talleres Córdoba vs Newell's Old Boys (01:15)</evento>
-  <evento id="32" grupo="Live Events">Soccer | Australia - A-League : Auckland vs Central Coast Mariners (04:00)</evento>
-  <evento id="590" grupo="Live Events">Soccer | Australia - A-League : Auckland vs Central Coast Mariners (04:00)</evento>
-  <evento id="392" grupo="Live Events">Soccer | Colombia - Primera A : Deportes Tolima vs Alianza (01:30)</evento>
-  <evento id="885" grupo="DLHD 24/7">SONY TEN 1</evento>
-  <evento id="886" grupo="DLHD 24/7">SONY TEN 2</evento>
-  <evento id="887" grupo="DLHD 24/7">SONY TEN 3</evento>
-  <evento id="764" grupo="DLHD 24/7">Spectrum Sportsnet LA</evento>
-  <evento id="982" grupo="DLHD 24/7">Spectrum SportsNet USA</evento>
-  <evento id="1042" grupo="DLHD 24/7">Sport 1 CZ</evento>
-  <evento id="140" grupo="DLHD 24/7">Sport 1 Israel</evento>
-  <evento id="141" grupo="DLHD 24/7">Sport 2 Israel</evento>
-  <evento id="142" grupo="DLHD 24/7">Sport 3 Israel</evento>
-  <evento id="143" grupo="DLHD 24/7">Sport 4 Israel</evento>
-  <evento id="148" grupo="DLHD 24/7">Sport 5 Gold Israel</evento>
-  <evento id="965" grupo="DLHD 24/7">Sport en France</evento>
-  <evento id="101" grupo="DLHD 24/7">Sport Klub 1 Croatia</evento>
-  <evento id="103" grupo="DLHD 24/7">Sport Klub 3 Croatia</evento>
-  <evento id="104" grupo="DLHD 24/7">Sport Klub 4 Croatia</evento>
-  <evento id="710" grupo="DLHD 24/7">Sport KLUB Golf Croatia</evento>
-  <evento id="49" grupo="DLHD 24/7">Sport TV1 Portugal</evento>
-  <evento id="289" grupo="DLHD 24/7">Sport TV4 Portugal</evento>
-  <evento id="290" grupo="DLHD 24/7">Sport TV5 Portugal</evento>
-  <evento id="291" grupo="DLHD 24/7">Sport TV6 Portugal</evento>
-  <evento id="641" grupo="DLHD 24/7">Sport1 Germany</evento>
-  <evento id="571" grupo="DLHD 24/7">SportDigital Fussball</evento>
-  <evento id="640" grupo="DLHD 24/7">Sportdigital1+ Germany</evento>
-  <evento id="716" grupo="DLHD 24/7">Sporting TV Portugal</evento>
-  <evento id="410" grupo="DLHD 24/7">Sportsnet World</evento>
-  <evento id="78" grupo="DLHD 24/7">SporTV Brasil</evento>
-  <evento id="80" grupo="DLHD 24/7">SporTV3 Brasil</evento>
-  <evento id="739" grupo="DLHD 24/7">SR Fernsehen DE</evento>
-  <evento id="614" grupo="DLHD 24/7">SSC Sport 1</evento>
-  <evento id="615" grupo="DLHD 24/7">SSC Sport 2</evento>
-  <evento id="616" grupo="DLHD 24/7">SSC Sport 3</evento>
-  <evento id="617" grupo="DLHD 24/7">SSC Sport 4</evento>
-  <evento id="618" grupo="DLHD 24/7">SSC Sport 5</evento>
-  <evento id="619" grupo="DLHD 24/7">SSC Sport Extra 1</evento>
-  <evento id="620" grupo="DLHD 24/7">SSC Sport Extra 2</evento>
-  <evento id="621" grupo="DLHD 24/7">SSC Sport Extra 3</evento>
-  <evento id="267" grupo="DLHD 24/7">Star Sports 1 IN</evento>
-  <evento id="268" grupo="DLHD 24/7">Star Sports Hindi IN</evento>
-  <evento id="1004" grupo="DLHD 24/7">Star TV Turkey</evento>
-  <evento id="335" grupo="DLHD 24/7">Starz</evento>
-  <evento id="970" grupo="DLHD 24/7">Starz Cinema</evento>
-  <evento id="971" grupo="DLHD 24/7">Starz Comedy</evento>
-  <evento id="972" grupo="DLHD 24/7">Starz Edge</evento>
-  <evento id="975" grupo="DLHD 24/7">Starz Encore</evento>
-  <evento id="976" grupo="DLHD 24/7">Starz Encore Action</evento>
-  <evento id="977" grupo="DLHD 24/7">Starz Encore Black</evento>
-  <evento id="978" grupo="DLHD 24/7">Starz Encore Classic</evento>
-  <evento id="979" grupo="DLHD 24/7">Starz Encore Family</evento>
-  <evento id="980" grupo="DLHD 24/7">Starz Encore Suspense</evento>
-  <evento id="981" grupo="DLHD 24/7">Starz Encore Westerns</evento>
-  <evento id="973" grupo="DLHD 24/7">Starz In Black</evento>
-  <evento id="974" grupo="DLHD 24/7">Starz Kids &amp; Family</evento>
-  <evento id="284" grupo="DLHD 24/7">StarzPlay CricLife 1 HD</evento>
-  <evento id="658" grupo="DLHD 24/7">Sundance TV</evento>
-  <evento id="738" grupo="DLHD 24/7">SUPER RTL DE</evento>
-  <evento id="420" grupo="DLHD 24/7">SuperSport Action</evento>
-  <evento id="56" grupo="DLHD 24/7">Supersport Football</evento>
-  <evento id="422" grupo="DLHD 24/7">SuperSport Golf</evento>
-  <evento id="412" grupo="DLHD 24/7">SuperSport Grandstand</evento>
-  <evento id="415" grupo="DLHD 24/7">SuperSport LaLiga</evento>
-  <evento id="572" grupo="DLHD 24/7">SuperSport MaXimo 1</evento>
-  <evento id="424" grupo="DLHD 24/7">SuperSport Motorsport</evento>
-  <evento id="414" grupo="DLHD 24/7">SuperSport Premier league</evento>
-  <evento id="413" grupo="DLHD 24/7">SuperSport PSL</evento>
-  <evento id="421" grupo="DLHD 24/7">SuperSport Rugby</evento>
-  <evento id="423" grupo="DLHD 24/7">SuperSport Tennis</evento>
-  <evento id="416" grupo="DLHD 24/7">SuperSport Variety 1</evento>
-  <evento id="417" grupo="DLHD 24/7">SuperSport Variety 2</evento>
-  <evento id="419" grupo="DLHD 24/7">SuperSport Variety 4</evento>
-  <evento id="234" grupo="Live Events">Swimming | College Swimming : Indiana vs Purdue (03:00)</evento>
-  <evento id="735" grupo="DLHD 24/7">SWR DE</evento>
-  <evento id="373" grupo="DLHD 24/7">SYFY USA</evento>
-  <evento id="270" grupo="DLHD 24/7">T Sports BD</evento>
-  <evento id="336" grupo="DLHD 24/7">TBS USA</evento>
-  <evento id="644" grupo="DLHD 24/7">TCM USA</evento>
-  <evento id="650" grupo="DLHD 24/7">TeenNick</evento>
-  <evento id="532" grupo="DLHD 24/7">Telecinco Spain</evento>
-  <evento id="529" grupo="DLHD 24/7">Teledeporte Spain (TDP)</evento>
-  <evento id="131" grupo="DLHD 24/7">Telemundo</evento>
-  <evento id="741" grupo="DLHD 24/7">Ten Sports PK</evento>
-  <evento id="1506" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Baez S. vs Darderi L. (00:00)</evento>
-  <evento id="1526" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Baez S. vs Darderi L. (00:00)</evento>
-  <evento id="1504" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Hijikata R. vs Vacherot V. (00:00)</evento>
-  <evento id="1524" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Hijikata R. vs Vacherot V. (00:00)</evento>
-  <evento id="1518" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Hurkacz H. vs Quinn E. (01:30)</evento>
-  <evento id="1538" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Hurkacz H. vs Quinn E. (01:30)</evento>
-  <evento id="1519" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Khachanov K. vs Basavareddy N. (00:00)</evento>
-  <evento id="1539" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Khachanov K. vs Basavareddy N. (00:00)</evento>
-  <evento id="1501" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Maestrelli F. vs Djokovic N. (02:30)</evento>
-  <evento id="1521" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Maestrelli F. vs Djokovic N. (02:30)</evento>
-  <evento id="1513" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Mensik J. vs Jodar R. (00:00)</evento>
-  <evento id="1533" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Mensik J. vs Jodar R. (00:00)</evento>
-  <evento id="1502" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Musetti L. vs Sonego L. (00:30)</evento>
-  <evento id="1522" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Musetti L. vs Sonego L. (00:30)</evento>
-  <evento id="1503" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Shelton B. vs Sweeny D. (01:30)</evento>
-  <evento id="1523" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Shelton B. vs Sweeny D. (01:30)</evento>
-  <evento id="1507" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Van De Zandschulp B. vs Shang J. (03:00)</evento>
-  <evento id="1527" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Van De Zandschulp B. vs Shang J. (03:00)</evento>
-  <evento id="1511" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Arevalo M./Pavic M. vs Brkic T./Dzumhur D. (01:30)</evento>
-  <evento id="1531" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Arevalo M./Pavic M. vs Brkic T./Dzumhur D. (01:30)</evento>
-  <evento id="1512" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Doumbia S./Reboul F. vs Arends S./Arneodo R. (01:30)</evento>
-  <evento id="1532" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Doumbia S./Reboul F. vs Arends S./Arneodo R. (01:30)</evento>
-  <evento id="1508" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Hidalgo D./Trhac P. vs Heliovaara H./Patten H. (01:30)</evento>
-  <evento id="1528" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Hidalgo D./Trhac P. vs Heliovaara H./Patten H. (01:30)</evento>
-  <evento id="1505" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Ho R./Jebens H. vs Bolelli S./Vavassori A. (00:00)</evento>
-  <evento id="1525" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Ho R./Jebens H. vs Bolelli S./Vavassori A. (00:00)</evento>
-  <evento id="1515" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Kirkov V./Stevens B. vs Escobar G./Reyes-Varela M. A. (00:00)</evento>
-  <evento id="1535" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Kirkov V./Stevens B. vs Escobar G./Reyes-Varela M. A. (00:00)</evento>
-  <evento id="1514" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Chan H-C./Jiang X. vs Blinkova A./Rakhimova K. (00:00)</evento>
-  <evento id="1534" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Chan H-C./Jiang X. vs Blinkova A./Rakhimova K. (00:00)</evento>
-  <evento id="40" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="31" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="112" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="113" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="33" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="34" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="45" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="375" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="588" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="591" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="592" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="593" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="594" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="57" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="524" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="772" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="231" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="878" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="41" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="36" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="117" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="46" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="884" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="576" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="701" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="102" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="472" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="919" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="393" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="160" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="798" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="491" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="492" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="396" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="453" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="713" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="712" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="714" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
-  <evento id="709" grupo="DLHD 24/7">Tennis+ 10</evento>
-  <evento id="711" grupo="DLHD 24/7">Tennis+ 12</evento>
-  <evento id="469" grupo="DLHD 24/7">TF1 France</evento>
-  <evento id="384" grupo="DLHD 24/7">The Food Network</evento>
-  <evento id="320" grupo="DLHD 24/7">The Hallmark Channel</evento>
-  <evento id="394" grupo="DLHD 24/7">The Weather Channel</evento>
-  <evento id="337" grupo="DLHD 24/7">TLC</evento>
-  <evento id="698" grupo="DLHD 24/7">TMC Channel USA</evento>
-  <evento id="955" grupo="DLHD 24/7">TMC France</evento>
-  <evento id="1037" grupo="DLHD 24/7">TN Live CZ</evento>
-  <evento id="87" grupo="DLHD 24/7">TNT Brasil</evento>
-  <evento id="642" grupo="DLHD 24/7">TNT Sports HD Chile</evento>
-  <evento id="340" grupo="DLHD 24/7">Travel Channel</evento>
-  <evento id="889" grupo="DLHD 24/7">TRT Spor TR</evento>
-  <evento id="935" grupo="DLHD 24/7">TUDN MX</evento>
-  <evento id="66" grupo="DLHD 24/7">TUDN USA</evento>
-  <evento id="660" grupo="DLHD 24/7">TV ONE USA</evento>
-  <evento id="807" grupo="DLHD 24/7">TV2 Bornholm Denmark</evento>
-  <evento id="817" grupo="DLHD 24/7">TV2 Denmark</evento>
-  <evento id="810" grupo="DLHD 24/7">TV2 Sport Denmark</evento>
-  <evento id="808" grupo="DLHD 24/7">TV2 Sport X Denmark</evento>
-  <evento id="818" grupo="DLHD 24/7">TV2 Zulu</evento>
-  <evento id="223" grupo="DLHD 24/7">TV3 Max Denmark</evento>
-  <evento id="819" grupo="DLHD 24/7">TV3+ Denmark</evento>
-  <evento id="747" grupo="DLHD 24/7">TV4 Football Sweden</evento>
-  <evento id="700" grupo="DLHD 24/7">TV4 Hockey</evento>
-  <evento id="702" grupo="DLHD 24/7">TV4 Motor</evento>
-  <evento id="703" grupo="DLHD 24/7">TV4 Sport Live 1</evento>
-  <evento id="704" grupo="DLHD 24/7">TV4 Sport Live 2</evento>
-  <evento id="705" grupo="DLHD 24/7">TV4 Sport Live 3</evento>
-  <evento id="706" grupo="DLHD 24/7">TV4 Sport Live 4</evento>
-  <evento id="707" grupo="DLHD 24/7">TV4 Sportkanalen</evento>
-  <evento id="1005" grupo="DLHD 24/7">TV8 Turkey</evento>
-  <evento id="834" grupo="DLHD 24/7">TVA Sports 2</evento>
-  <evento id="932" grupo="DLHD 24/7">TVC Deportes MX</evento>
-  <evento id="533" grupo="DLHD 24/7">TVE La 1 Spain</evento>
-  <evento id="536" grupo="DLHD 24/7">TVE La 2 Spain</evento>
-  <evento id="723" grupo="DLHD 24/7">TVI Portugal</evento>
-  <evento id="724" grupo="DLHD 24/7">TVI Reality Portugal</evento>
-  <evento id="342" grupo="DLHD 24/7">TVLAND</evento>
-  <evento id="565" grupo="DLHD 24/7">TVN HD Poland</evento>
-  <evento id="444" grupo="DLHD 24/7">TVN24 Poland</evento>
-  <evento id="842" grupo="DLHD 24/7">TVO CA</evento>
-  <evento id="452" grupo="DLHD 24/7">TVP INFO</evento>
-  <evento id="128" grupo="DLHD 24/7">TVP Sport Poland</evento>
-  <evento id="560" grupo="DLHD 24/7">TVP1 Poland</evento>
-  <evento id="561" grupo="DLHD 24/7">TVP2 Poland</evento>
-  <evento id="746" grupo="DLHD 24/7">TYC Sports Argentina</evento>
-  <evento id="133" grupo="DLHD 24/7">Unimas</evento>
-  <evento id="668" grupo="DLHD 24/7">Universal Kids USA</evento>
-  <evento id="132" grupo="DLHD 24/7">Univision</evento>
-  <evento id="211" grupo="Live Events">USHL | USHL : Chicago Steel vs Madison Capitols (01:05)</evento>
-  <evento id="212" grupo="Live Events">USHL | USHL : Lincoln Stars vs Sioux City (01:05)</evento>
-  <evento id="210" grupo="Live Events">USHL | USHL : Muskegon Lumberjacks vs Green Bay Gamblers (01:05)</evento>
-  <evento id="209" grupo="Live Events">USHL | USHL : Sioux Falls Stampede vs Dubuque Fighting Saints (01:05)</evento>
-  <evento id="207" grupo="Live Events">USHL | USHL : Tri-City Storm vs Waterloo Black Hawks (00:35)</evento>
-  <evento id="208" grupo="Live Events">USHL | USHL : USA U18 vs Cedar Rapids (01:05)</evento>
-  <evento id="206" grupo="Live Events">USHL | USHL : USA U18 vs Youngstown Phantoms (00:05)</evento>
-  <evento id="816" grupo="DLHD 24/7">V Film Family</evento>
-  <evento id="815" grupo="DLHD 24/7">V Film Premiere</evento>
-  <evento id="272" grupo="DLHD 24/7">V Sport Motor Sweden</evento>
-  <evento id="378" grupo="DLHD 24/7">Veronica NL Netherland</evento>
-  <evento id="344" grupo="DLHD 24/7">VH1 USA</evento>
-  <evento id="550" grupo="DLHD 24/7">Viaplay Sports 2 UK</evento>
-  <evento id="659" grupo="DLHD 24/7">VICE TV</evento>
-  <evento id="260" grupo="DLHD 24/7">Vodafone Sport</evento>
-  <evento id="79" grupo="Live Events">Volleyball | Brazil Copa Brasil, Women : Osasco São Cristóvão Saúde vs Fluminense (00:00)</evento>
-  <evento id="770" grupo="Live Events">Volleyball | Men's College Volleyball : Pepperdine vs. Loyola-Chicago (00:00)</evento>
-  <evento id="1053" grupo="DLHD 24/7">Voyo Special 1 SK</evento>
-  <evento id="1054" grupo="DLHD 24/7">Voyo Special 2 SK</evento>
-  <evento id="1055" grupo="DLHD 24/7">Voyo Special 3 SK</evento>
-  <evento id="1056" grupo="DLHD 24/7">Voyo Special 4 SK</evento>
-  <evento id="1057" grupo="DLHD 24/7">Voyo Special 7 SK</evento>
-  <evento id="1058" grupo="DLHD 24/7">Voyo Special 8 SK</evento>
-  <evento id="1059" grupo="DLHD 24/7">Voyo Special 9 SK</evento>
-  <evento id="391" grupo="DLHD 24/7">VTV+ Uruguay</evento>
-  <evento id="959" grupo="DLHD 24/7">W9 France</evento>
-  <evento id="734" grupo="DLHD 24/7">WDR DE</evento>
-  <evento id="655" grupo="DLHD 24/7">WETV USA</evento>
-  <evento id="598" grupo="DLHD 24/7">Willow 2 Cricket</evento>
-  <evento id="346" grupo="DLHD 24/7">Willow Cricket</evento>
-  <evento id="343" grupo="Live Events">WWE (SmackDown) | WWE Friday Night SmackDown (01:00)</evento>
-  <evento id="145" grupo="Live Events">WWE (SmackDown) | WWE Friday Night SmackDown (01:00)</evento>
-  <evento id="303" grupo="Live Events">WWE (TNA) | TNA iMPACT! (02:00)</evento>
-  <evento id="409" grupo="Live Events">WWE (TNA) | TNA iMPACT! (02:00)</evento>
-  <evento id="376" grupo="DLHD 24/7">WWE Network</evento>
-  <evento id="543" grupo="DLHD 24/7">Yes Movies Action Israel</evento>
-  <evento id="545" grupo="DLHD 24/7">Yes Movies Comedy Israel</evento>
-  <evento id="544" grupo="DLHD 24/7">Yes Movies Kids Israel</evento>
-  <evento id="837" grupo="DLHD 24/7">Yes TV CA</evento>
-  <evento id="286" grupo="DLHD 24/7">YTV CA</evento>
-  <evento id="727" grupo="DLHD 24/7">ZDF DE</evento>
-  <evento id="728" grupo="DLHD 24/7">ZDF Info DE</evento>
-  <evento id="398" grupo="DLHD 24/7">Ziggo Sport 2 NL</evento>
-  <evento id="383" grupo="DLHD 24/7">Ziggo Sport 5 NL</evento>
-  <evento id="901" grupo="DLHD 24/7">Ziggo Sport 6 NL</evento>
+  <evento id="32" hora="00:00" grupo="Live Events">Soccer | Australia - A-League : Auckland vs Central Coast Mariners (04:00)</evento>
+  <evento id="590" hora="00:00" grupo="Live Events">Soccer | Australia - A-League : Auckland vs Central Coast Mariners (04:00)</evento>
+  <evento id="401" hora="00:00" grupo="Live Events">Ice Skating | Figure Skating: Four Continents Championships - Beijing 2026 Freestyle dance (04:00)</evento>
+  <evento id="1513" hora="00:00" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN | ATP DOUBLES AO : Harrison C./Skupski N. vs Martinez P./Munar J. (04:00)</evento>
+  <evento id="1533" hora="00:00" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN | ATP DOUBLES AO : Harrison C./Skupski N. vs Martinez P./Munar J. (04:00)</evento>
+  <evento id="1506" hora="20:00" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Baez S. vs Darderi L. (00:00)</evento>
+  <evento id="1526" hora="20:00" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Baez S. vs Darderi L. (00:00)</evento>
+  <evento id="1504" hora="20:00" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Hijikata R. vs Vacherot V. (00:00)</evento>
+  <evento id="1524" hora="20:00" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Hijikata R. vs Vacherot V. (00:00)</evento>
+  <evento id="1519" hora="20:00" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Khachanov K. vs Basavareddy N. (00:00)</evento>
+  <evento id="1539" hora="20:00" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Khachanov K. vs Basavareddy N. (00:00)</evento>
+  <evento id="1513" hora="20:00" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Mensik J. vs Jodar R. (00:00)</evento>
+  <evento id="1533" hora="20:00" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Mensik J. vs Jodar R. (00:00)</evento>
+  <evento id="1503" hora="20:00" grupo="Live Events">Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Krueger A. vs Keys M. (00:00)</evento>
+  <evento id="1523" hora="20:00" grupo="Live Events">Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Krueger A. vs Keys M. (00:00)</evento>
+  <evento id="1518" hora="20:00" grupo="Live Events">Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Selekhmeteva O. vs Badosa P. (00:00)</evento>
+  <evento id="1538" hora="20:00" grupo="Live Events">Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Selekhmeteva O. vs Badosa P. (00:00)</evento>
+  <evento id="1505" hora="20:00" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Ho R./Jebens H. vs Bolelli S./Vavassori A. (00:00)</evento>
+  <evento id="1525" hora="20:00" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Ho R./Jebens H. vs Bolelli S./Vavassori A. (00:00)</evento>
+  <evento id="1515" hora="20:00" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Kirkov V./Stevens B. vs Escobar G./Reyes-Varela M. A. (00:00)</evento>
+  <evento id="1535" hora="20:00" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Kirkov V./Stevens B. vs Escobar G./Reyes-Varela M. A. (00:00)</evento>
+  <evento id="1507" hora="20:00" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Paul J./Willis M. vs King E./Peers J. (00:00)</evento>
+  <evento id="1527" hora="20:00" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Paul J./Willis M. vs King E./Peers J. (00:00)</evento>
+  <evento id="1508" hora="20:00" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Birrell K./Gibson T. vs Kobori M./Shimizu A. (00:00)</evento>
+  <evento id="1528" hora="20:00" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Birrell K./Gibson T. vs Kobori M./Shimizu A. (00:00)</evento>
+  <evento id="1514" hora="20:00" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Chan H-C./Jiang X. vs Blinkova A./Rakhimova K. (00:00)</evento>
+  <evento id="1534" hora="20:00" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Chan H-C./Jiang X. vs Blinkova A./Rakhimova K. (00:00)</evento>
+  <evento id="1512" hora="20:00" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Gleason Q./Pridankina E. vs Danilina A./Krunic A. (00:00)</evento>
+  <evento id="1532" hora="20:00" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Gleason Q./Pridankina E. vs Danilina A./Krunic A. (00:00)</evento>
+  <evento id="1511" hora="20:00" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Shibahara E./Zvonareva V. vs Samsonova L./Shnaider D. (00:00)</evento>
+  <evento id="1531" hora="20:00" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Shibahara E./Zvonareva V. vs Samsonova L./Shnaider D. (00:00)</evento>
+  <evento id="112" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="113" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="375" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="588" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="591" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="592" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="593" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="594" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="524" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="772" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="231" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="878" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="117" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="884" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="576" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="701" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="472" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="919" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="393" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="160" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="798" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="491" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="492" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="396" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="453" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="713" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="712" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="714" hora="20:00" grupo="Live Events">Tennis | Australian Open Round 3 | Day 7 (00:00)</evento>
+  <evento id="318" hora="20:00" grupo="Live Events">Golf | PGA Tour Champions Golf Mitsubishi Electric Championship at Hualalai, Second Round (00:00)</evento>
+  <evento id="765" hora="20:00" grupo="Live Events">Basketball | NBA G-League : Westchester vs Windy City Bulls (00:00)</evento>
+  <evento id="776" hora="20:00" grupo="Live Events">Basketball | NBA G-League : Westchester vs Windy City Bulls (00:00)</evento>
+  <evento id="171" hora="20:00" grupo="Live Events">NBA G-League | NBA G-League : Motor City Cruise vs Grand Rapids Drive (00:00)</evento>
+  <evento id="891" hora="20:00" grupo="Live Events">NBA G-League | NBA G-League : Motor City Cruise vs Grand Rapids Drive (00:00)</evento>
+  <evento id="308" hora="20:00" grupo="Live Events">NCAA/NCAAW Basketball | NCAA : Buffalo vs Massachusetts (00:00)</evento>
+  <evento id="409" hora="20:00" grupo="Live Events">NBA | NBA : Detroit Pistons vs Houston Rockets (00:00)</evento>
+  <evento id="921" hora="20:00" grupo="Live Events">NBA | NBA : Detroit Pistons vs Houston Rockets (00:00)</evento>
+  <evento id="182" hora="20:00" grupo="Live Events">QMWHL | QMWHL : Moncton Wildcats vs Baie-Comeau Drakkar (00:00)</evento>
+  <evento id="183" hora="20:00" grupo="Live Events">QMWHL | QMWHL : Rouyn-Noranda Huskies vs Blainville-Boisbriand Armada (00:00)</evento>
+  <evento id="451" hora="20:00" grupo="Live Events">NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)</evento>
+  <evento id="833" hora="20:00" grupo="Live Events">NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)</evento>
+  <evento id="408" hora="20:00" grupo="Live Events">NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)</evento>
+  <evento id="406" hora="20:00" grupo="Live Events">NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)</evento>
+  <evento id="407" hora="20:00" grupo="Live Events">NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)</evento>
+  <evento id="494" hora="20:00" grupo="Live Events">NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)</evento>
+  <evento id="809" hora="20:00" grupo="Live Events">NHL | NHL : Tampa Bay Lightning vs Chicago Blackhawks (00:00)</evento>
+  <evento id="770" hora="20:00" grupo="Live Events">Volleyball | Men's College Volleyball : Pepperdine vs. Loyola-Chicago (00:00)</evento>
+  <evento id="224" hora="20:00" grupo="Live Events">NCAA Volleyball | College Volleyball : Lincoln Memorial vs Ohio State (00:00)</evento>
+  <evento id="225" hora="20:00" grupo="Live Events">NCAA Volleyball | College Volleyball : Charleston (WV) vs Ball State (00:00)</evento>
+  <evento id="226" hora="20:00" grupo="Live Events">NCAA Volleyball | College Volleyball : Roosevelt vs Sacred Heart (00:00)</evento>
+  <evento id="1504" hora="20:00" grupo="Live Events">Tennis ATP - AUSTRALIAN | ATP - AO : Tien L. vs Borges N. (00:00)</evento>
+  <evento id="1524" hora="20:00" grupo="Live Events">Tennis ATP - AUSTRALIAN | ATP - AO : Tien L. vs Borges N. (00:00)</evento>
+  <evento id="1503" hora="20:00" grupo="Live Events">Tennis WTA - AUSTRALIAN | WTA - AO : Mboko V. vs Tauson C. (00:00)</evento>
+  <evento id="1523" hora="20:00" grupo="Live Events">Tennis WTA - AUSTRALIAN | WTA - AO : Mboko V. vs Tauson C. (00:00)</evento>
+  <evento id="1519" hora="20:00" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN | ATP DOUBLES AO : Cash J./Glasspool L. vs McCabe J./Tu L. (00:00)</evento>
+  <evento id="1539" hora="20:00" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN | ATP DOUBLES AO : Cash J./Glasspool L. vs McCabe J./Tu L. (00:00)</evento>
+  <evento id="1518" hora="20:00" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN | ATP DOUBLES AO : Cash R./Tracy J. vs Demoliner M./Rojer J. (00:00)</evento>
+  <evento id="1538" hora="20:00" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN | ATP DOUBLES AO : Cash R./Tracy J. vs Demoliner M./Rojer J. (00:00)</evento>
+  <evento id="1513" hora="20:00" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN | ATP DOUBLES AO : Krawietz K./Puetz T. vs Luz 0./Matos R. (00:00)</evento>
+  <evento id="1533" hora="20:00" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN | ATP DOUBLES AO : Krawietz K./Puetz T. vs Luz 0./Matos R. (00:00)</evento>
+  <evento id="1507" hora="20:00" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN | WTA DOUBLES AO : Arango E./Jacquemot E. vs Dabrowski G./Stefani L. (00:00)</evento>
+  <evento id="1527" hora="20:00" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN | WTA DOUBLES AO : Arango E./Jacquemot E. vs Dabrowski G./Stefani L. (00:00)</evento>
+  <evento id="1506" hora="20:00" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN | WTA DOUBLES AO : Bucsa C./Melichar-Martinez N. vs Olmos G./Sutjiadi A. (00:00)</evento>
+  <evento id="1526" hora="20:00" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN | WTA DOUBLES AO : Bucsa C./Melichar-Martinez N. vs Olmos G./Sutjiadi A. (00:00)</evento>
+  <evento id="1508" hora="20:00" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN | WTA DOUBLES AO : Maleckova J./Skoch M. vs Kato M./Stollar F. (00:00)</evento>
+  <evento id="1528" hora="20:00" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN | WTA DOUBLES AO : Maleckova J./Skoch M. vs Kato M./Stollar F. (00:00)</evento>
+  <evento id="397" hora="20:00" grupo="Live Events">College Wrestling | Men's College Wrestling : Ohio State vs. Minnesota (00:00)</evento>
+  <evento id="762" hora="20:00" grupo="Live Events">NCAA Ice Hockey | College Ice Hockey : Maine vs UMass Lowell (00:00)</evento>
+  <evento id="922" hora="20:00" grupo="Live Events">NCAA Ice Hockey | College Hockey : Holy Cross vs Robert Morris (00:00)</evento>
+  <evento id="1502" hora="20:30" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Musetti L. vs Sonego L. (00:30)</evento>
+  <evento id="1522" hora="20:30" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Musetti L. vs Sonego L. (00:30)</evento>
+  <evento id="1501" hora="20:30" grupo="Live Events">Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Pegula J. vs Kessler M. (00:30)</evento>
+  <evento id="1521" hora="20:30" grupo="Live Events">Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Pegula J. vs Kessler M. (00:30)</evento>
+  <evento id="338" hora="20:30" grupo="Live Events">Basketball | Unrivaled Basketball Mist Basketball Club vs Rose Basketball Club (00:30)</evento>
+  <evento id="341" hora="20:30" grupo="Live Events">Basketball | Unrivaled Basketball Mist Basketball Club vs Rose Basketball Club (00:30)</evento>
+  <evento id="591" hora="20:30" grupo="Live Events">Basketball | Unrivaled Basketball Mist Basketball Club vs Rose Basketball Club (00:30)</evento>
+  <evento id="899" hora="20:30" grupo="Live Events">NBA | NBA : Atlanta Hawks vs Phoenix Suns (00:30)</evento>
+  <evento id="754" hora="20:30" grupo="Live Events">NBA | NBA : Brooklyn Nets vs Boston Celtics (00:30)</evento>
+  <evento id="763" hora="20:30" grupo="Live Events">NBA | NBA : Brooklyn Nets vs Boston Celtics (00:30)</evento>
+  <evento id="755" hora="20:30" grupo="Live Events">NBA | NBA : Cleveland Cavaliers vs Sacramento Kings (00:30)</evento>
+  <evento id="899" hora="20:30" grupo="Live Events">NBA | NBA : Cleveland Cavaliers vs Sacramento Kings (00:30)</evento>
+  <evento id="418" hora="20:30" grupo="Live Events">Cycling | Tour Down Under | Stage 4 Men | Brighton – Willunga Hill (176km) (00:30)</evento>
+  <evento id="1502" hora="20:30" grupo="Live Events">Tennis ATP - AUSTRALIAN | ATP - AO : Medvedev D. vs Marozsan F. (00:30)</evento>
+  <evento id="1522" hora="20:30" grupo="Live Events">Tennis ATP - AUSTRALIAN | ATP - AO : Medvedev D. vs Marozsan F. (00:30)</evento>
+  <evento id="1501" hora="20:30" grupo="Live Events">Tennis WTA - AUSTRALIAN | WTA - AO : Sabalenka A. vs Potapova A. (00:30)</evento>
+  <evento id="1521" hora="20:30" grupo="Live Events">Tennis WTA - AUSTRALIAN | WTA - AO : Sabalenka A. vs Potapova A. (00:30)</evento>
+  <evento id="759" hora="20:30" grupo="Live Events">NCAA Ice Hockey | College Hockey : Connecticut at Yale (00:30)</evento>
+  <evento id="449" hora="21:00" grupo="Live Events">MMA | ONE Friday Fights 139 : Bokang Masunyane vs Ryohei Kurosawa (01:00)</evento>
+  <evento id="395" hora="21:00" grupo="Live Events">MMA | ONE Friday Fights 139 : Bokang Masunyane vs Ryohei Kurosawa (01:00)</evento>
+  <evento id="127" hora="21:00" grupo="Live Events">MMA | ONE Friday Fights 139 : Bokang Masunyane vs Ryohei Kurosawa (01:00)</evento>
+  <evento id="635" hora="21:00" grupo="Live Events">MMA | ONE Friday Fights 139 : Bokang Masunyane vs Ryohei Kurosawa (01:00)</evento>
+  <evento id="405" hora="21:00" grupo="Live Events">Am. Football | College Football All-Star Game : The American Bowl (01:00)</evento>
+  <evento id="172" hora="21:00" grupo="Live Events">NBA G-League | NBA G-League : Capital City Go-Go vs Austin Spurs (01:00)</evento>
+  <evento id="316" hora="21:00" grupo="Live Events">NCAA/NCAAW Basketball | NCAA : Ohio vs Akron (01:00)</evento>
+  <evento id="768" hora="21:00" grupo="Live Events">NCAA/NCAAW Basketball | NCAA : Michigan vs Ohio State (01:00)</evento>
+  <evento id="894" hora="21:00" grupo="Live Events">NBA | NBA : Oklahoma City Thunder vs Indiana Pacers (01:00)</evento>
+  <evento id="900" hora="21:00" grupo="Live Events">NBA | NBA : Oklahoma City Thunder vs Indiana Pacers (01:00)</evento>
+  <evento id="895" hora="21:00" grupo="Live Events">NHL | NHL : St. Louis Blues vs Dallas Stars (01:00)</evento>
+  <evento id="896" hora="21:00" grupo="Live Events">NHL | NHL : St. Louis Blues vs Dallas Stars (01:00)</evento>
+  <evento id="227" hora="21:00" grupo="Live Events">NCAA Volleyball | College Volleyball : Simpson University vs UC Merced (01:00)</evento>
+  <evento id="343" hora="21:00" grupo="Live Events">WWE (SmackDown) | WWE Friday Night SmackDown (01:00)</evento>
+  <evento id="368" hora="21:05" grupo="Live Events">Cricket | Super Smash Women : Central Hinds W vs Otago Sparks W (01:05)</evento>
+  <evento id="149" hora="21:15" grupo="Live Events">Soccer | Argentina - Primera División : Talleres Córdoba vs Newell's Old Boys (01:15)</evento>
+  <evento id="387" hora="21:15" grupo="Live Events">Soccer | Argentina - Primera División : Talleres Córdoba vs Newell's Old Boys (01:15)</evento>
+  <evento id="388" hora="21:15" grupo="Live Events">Soccer | Argentina - Primera División : Independiente Rivadavia vs Atlético Tucumán (01:15)</evento>
+  <evento id="392" hora="21:30" grupo="Live Events">Soccer | Colombia - Primera A : Deportes Tolima vs Alianza (01:30)</evento>
+  <evento id="1518" hora="21:30" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Hurkacz H. vs Quinn E. (01:30)</evento>
+  <evento id="1538" hora="21:30" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Hurkacz H. vs Quinn E. (01:30)</evento>
+  <evento id="1503" hora="21:30" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Shelton B. vs Sweeny D. (01:30)</evento>
+  <evento id="1523" hora="21:30" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Shelton B. vs Sweeny D. (01:30)</evento>
+  <evento id="1504" hora="21:30" grupo="Live Events">Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Stearns P. vs Marcinko P. (01:30)</evento>
+  <evento id="1524" hora="21:30" grupo="Live Events">Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Stearns P. vs Marcinko P. (01:30)</evento>
+  <evento id="1507" hora="21:30" grupo="Live Events">Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Tjen J. vs Pliskova Ka. (01:30)</evento>
+  <evento id="1527" hora="21:30" grupo="Live Events">Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Tjen J. vs Pliskova Ka. (01:30)</evento>
+  <evento id="1511" hora="21:30" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Arevalo M./Pavic M. vs Brkic T./Dzumhur D. (01:30)</evento>
+  <evento id="1531" hora="21:30" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Arevalo M./Pavic M. vs Brkic T./Dzumhur D. (01:30)</evento>
+  <evento id="1512" hora="21:30" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Doumbia S./Reboul F. vs Arends S./Arneodo R. (01:30)</evento>
+  <evento id="1532" hora="21:30" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Doumbia S./Reboul F. vs Arends S./Arneodo R. (01:30)</evento>
+  <evento id="1515" hora="21:30" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Gonzalez S./Pel D. vs Melo M./Romboli F. (01:30)</evento>
+  <evento id="1535" hora="21:30" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Gonzalez S./Pel D. vs Melo M./Romboli F. (01:30)</evento>
+  <evento id="1508" hora="21:30" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Hidalgo D./Trhac P. vs Heliovaara H./Patten H. (01:30)</evento>
+  <evento id="1528" hora="21:30" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Hidalgo D./Trhac P. vs Heliovaara H./Patten H. (01:30)</evento>
+  <evento id="1505" hora="21:30" grupo="Live Events">Tennis MIXED DOUBLES - AUSTRALIAN OPEN | MIXED DOUBLES - AO : Zhang S./Puetz T. vs Melichar-Martinez N./Bhambri Y. (01:30)</evento>
+  <evento id="1525" hora="21:30" grupo="Live Events">Tennis MIXED DOUBLES - AUSTRALIAN OPEN | MIXED DOUBLES - AO : Zhang S./Puetz T. vs Melichar-Martinez N./Bhambri Y. (01:30)</evento>
+  <evento id="1503" hora="21:30" grupo="Live Events">Tennis ATP - AUSTRALIAN | ATP - AO : Paul T. vs Davidovich Fokina A. (01:30)</evento>
+  <evento id="1523" hora="21:30" grupo="Live Events">Tennis ATP - AUSTRALIAN | ATP - AO : Paul T. vs Davidovich Fokina A. (01:30)</evento>
+  <evento id="1519" hora="21:30" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN | ATP DOUBLES AO : Cabral F./Miedler L vs Pavlasek A./Smith J. P. (01:30)</evento>
+  <evento id="1539" hora="21:30" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN | ATP DOUBLES AO : Cabral F./Miedler L vs Pavlasek A./Smith J. P. (01:30)</evento>
+  <evento id="1508" hora="21:30" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN | ATP DOUBLES AO : Gonzalez M./Molteni A. vs Nouza P./Rikl P. (01:30)</evento>
+  <evento id="1528" hora="21:30" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN | ATP DOUBLES AO : Gonzalez M./Molteni A. vs Nouza P./Rikl P. (01:30)</evento>
+  <evento id="1518" hora="21:30" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN | WTA DOUBLES AO : Cabrera L./Preston T. vs Shibahara E./Zvonareva V. (01:30)</evento>
+  <evento id="1538" hora="21:30" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN | WTA DOUBLES AO : Cabrera L./Preston T. vs Shibahara E./Zvonareva V. (01:30)</evento>
+  <evento id="1513" hora="21:30" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN | WTA DOUBLES AO : Kozyreva M./Santamaria S. vs Hozumi E./Wu F. (01:30)</evento>
+  <evento id="1533" hora="21:30" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN | WTA DOUBLES AO : Kozyreva M./Santamaria S. vs Hozumi E./Wu F. (01:30)</evento>
+  <evento id="1507" hora="21:30" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN | WTA DOUBLES AO : Perez E./Schuurs D. vs Kichenok N./Ninomiya M. (01:30)</evento>
+  <evento id="1527" hora="21:30" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN | WTA DOUBLES AO : Perez E./Schuurs D. vs Kichenok N./Ninomiya M. (01:30)</evento>
+  <evento id="1506" hora="21:30" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN | WTA DOUBLES AO : Siniakova K./Townsend T. vs Xu Y./Yang Z. (01:30)</evento>
+  <evento id="1526" hora="21:30" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN | WTA DOUBLES AO : Siniakova K./Townsend T. vs Xu Y./Yang Z. (01:30)</evento>
+  <evento id="338" hora="21:45" grupo="Live Events">Basketball | Unrivaled Basketball : Phantom Basketball Club vs Vinyl Basketball Club (01:45)</evento>
+  <evento id="341" hora="21:45" grupo="Live Events">Basketball | Unrivaled Basketball : Phantom Basketball Club vs Vinyl Basketball Club (01:45)</evento>
+  <evento id="591" hora="21:45" grupo="Live Events">Basketball | Unrivaled Basketball : Phantom Basketball Club vs Vinyl Basketball Club (01:45)</evento>
+  <evento id="1519" hora="22:00" grupo="Live Events">Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Inglis M. vs Siegemund L. (02:00)</evento>
+  <evento id="1539" hora="22:00" grupo="Live Events">Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Inglis M. vs Siegemund L. (02:00)</evento>
+  <evento id="1513" hora="22:00" grupo="Live Events">Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Kalinskaya A. vs Grabher J. (02:00)</evento>
+  <evento id="1533" hora="22:00" grupo="Live Events">Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Kalinskaya A. vs Grabher J. (02:00)</evento>
+  <evento id="1504" hora="22:00" grupo="Live Events">Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Noskova L. vs Preston T. (02:00)</evento>
+  <evento id="1524" hora="22:00" grupo="Live Events">Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Noskova L. vs Preston T. (02:00)</evento>
+  <evento id="1506" hora="22:00" grupo="Live Events">Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Wang Xin. vs Ostapenko J. (02:00)</evento>
+  <evento id="1526" hora="22:00" grupo="Live Events">Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Wang Xin. vs Ostapenko J. (02:00)</evento>
+  <evento id="303" hora="22:00" grupo="Live Events">WWE (TNA) | TNA iMPACT! (02:00)</evento>
+  <evento id="409" hora="22:00" grupo="Live Events">WWE (TNA) | TNA iMPACT! (02:00)</evento>
+  <evento id="923" hora="22:00" grupo="Live Events">NHL | NHL : Philadelphia Flyers vs Colorado Avalanche (02:00)</evento>
+  <evento id="777" hora="22:00" grupo="Live Events">NHL | NHL : Philadelphia Flyers vs Colorado Avalanche (02:00)</evento>
+  <evento id="454" hora="22:00" grupo="Live Events">NHL | NHL : Philadelphia Flyers vs Colorado Avalanche (02:00)</evento>
+  <evento id="778" hora="22:00" grupo="Live Events">NHL | NHL : Washington Capitals vs Calgary Flames (02:00)</evento>
+  <evento id="411" hora="22:00" grupo="Live Events">NHL | NHL : Washington Capitals vs Calgary Flames (02:00)</evento>
+  <evento id="406" hora="22:00" grupo="Live Events">NHL | NHL : Washington Capitals vs Calgary Flames (02:00)</evento>
+  <evento id="407" hora="22:00" grupo="Live Events">NHL | NHL : Washington Capitals vs Calgary Flames (02:00)</evento>
+  <evento id="228" hora="22:00" grupo="Live Events">NCAA Volleyball | College Volleyball : UC Irvine vs BYU (02:00)</evento>
+  <evento id="229" hora="22:00" grupo="Live Events">NCAA Volleyball | College Volleyball : UC Santa Barbara vs Stanford (02:00)</evento>
+  <evento id="230" hora="22:00" grupo="Live Events">NCAA Volleyball | College Volleyball : Bay Area Dimes vs Menlo (02:00)</evento>
+  <evento id="1504" hora="22:00" grupo="Live Events">Tennis WTA - AUSTRALIAN | WTA - AO : Sonmez Z. vs Putintseva Y. (02:00)</evento>
+  <evento id="1524" hora="22:00" grupo="Live Events">Tennis WTA - AUSTRALIAN | WTA - AO : Sonmez Z. vs Putintseva Y. (02:00)</evento>
+  <evento id="397" hora="22:00" grupo="Live Events">College Wrestling | Men's College Wrestling : Iowa vs. Nebraska (02:00)</evento>
+  <evento id="1501" hora="22:30" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Maestrelli F. vs Djokovic N. (02:30)</evento>
+  <evento id="1521" hora="22:30" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Maestrelli F. vs Djokovic N. (02:30)</evento>
+  <evento id="1502" hora="22:30" grupo="Live Events">Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Siniakova K. vs Anisimova A. (02:30)</evento>
+  <evento id="1522" hora="22:30" grupo="Live Events">Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Siniakova K. vs Anisimova A. (02:30)</evento>
+  <evento id="409" hora="22:30" grupo="Live Events">NBA | NBA : Milwaukee Bucks vs Denver Nuggets (02:30)</evento>
+  <evento id="907" hora="22:30" grupo="Live Events">NBA | NBA : Milwaukee Bucks vs Denver Nuggets (02:30)</evento>
+  <evento id="1501" hora="22:30" grupo="Live Events">Tennis ATP - AUSTRALIAN | ATP - AO : Alcaraz C. vs Moutet C. (02:30)</evento>
+  <evento id="1521" hora="22:30" grupo="Live Events">Tennis ATP - AUSTRALIAN | ATP - AO : Alcaraz C. vs Moutet C. (02:30)</evento>
+  <evento id="1507" hora="23:00" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Van De Zandschulp B. vs Shang J. (03:00)</evento>
+  <evento id="1527" hora="23:00" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Van De Zandschulp B. vs Shang J. (03:00)</evento>
+  <evento id="1511" hora="23:00" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Etcheverry/Ugo Carabelli vs Cerundolo F./Cerundolo J. M. (03:00)</evento>
+  <evento id="1531" hora="23:00" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Etcheverry/Ugo Carabelli vs Cerundolo F./Cerundolo J. M. (03:00)</evento>
+  <evento id="1505" hora="23:00" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Romios M. C./Seggerman R. vs Erler A./Galloway R. (03:00)</evento>
+  <evento id="1525" hora="23:00" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Romios M. C./Seggerman R. vs Erler A./Galloway R. (03:00)</evento>
+  <evento id="1512" hora="23:00" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Golubic V./Li A. vs Kato M./Stollar F. (03:00)</evento>
+  <evento id="1532" hora="23:00" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Golubic V./Li A. vs Kato M./Stollar F. (03:00)</evento>
+  <evento id="1508" hora="23:00" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Guo H./Mladenovic K. vs Parks A./Yastremska D. (03:00)</evento>
+  <evento id="1528" hora="23:00" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Guo H./Mladenovic K. vs Parks A./Yastremska D. (03:00)</evento>
+  <evento id="1514" hora="23:00" grupo="Live Events">Tennis MIXED DOUBLES - AUSTRALIAN OPEN | MIXED DOUBLES - AO : Birrell K./Smith J. P. vs Schuurs D./Cash J. (03:00)</evento>
+  <evento id="1534" hora="23:00" grupo="Live Events">Tennis MIXED DOUBLES - AUSTRALIAN OPEN | MIXED DOUBLES - AO : Birrell K./Smith J. P. vs Schuurs D./Cash J. (03:00)</evento>
+  <evento id="1515" hora="23:00" grupo="Live Events">Tennis MIXED DOUBLES - AUSTRALIAN OPEN | MIXED DOUBLES - AO : Gadecki O./Peers J. vs Zvonareva V./Miedler L. (03:00)</evento>
+  <evento id="1535" hora="23:00" grupo="Live Events">Tennis MIXED DOUBLES - AUSTRALIAN OPEN | MIXED DOUBLES - AO : Gadecki O./Peers J. vs Zvonareva V./Miedler L. (03:00)</evento>
+  <evento id="753" hora="23:00" grupo="Live Events">Basketball | NBA G-League : Santa Cruz Warriors vs Sioux Falls Skyforce (03:00)</evento>
+  <evento id="173" hora="23:00" grupo="Live Events">NBA G-League | NBA G-League : South Bay Lakers vs Mexico City Capitanes (03:00)</evento>
+  <evento id="840" hora="23:00" grupo="Live Events">NBA | NBA : Portland Trail Blazers vs Toronto Raptors (03:00)</evento>
+  <evento id="556" hora="23:00" grupo="Live Events">NHL | NHL : New Jersey Devils vs Vancouver Canucks (03:00)</evento>
+  <evento id="557" hora="23:00" grupo="Live Events">NHL | NHL : New Jersey Devils vs Vancouver Canucks (03:00)</evento>
+  <evento id="755" hora="23:00" grupo="Live Events">NHL | NHL : New York Rangers vs San Jose Sharks (03:00)</evento>
+  <evento id="833" hora="23:00" grupo="Live Events">NHL | NHL : New York Rangers vs San Jose Sharks (03:00)</evento>
+  <evento id="408" hora="23:00" grupo="Live Events">NHL | NHL : New York Rangers vs San Jose Sharks (03:00)</evento>
+  <evento id="765" hora="23:00" grupo="Live Events">NHL | NHL : New York Rangers vs San Jose Sharks (03:00)</evento>
+  <evento id="755" hora="23:00" grupo="Live Events">NHL | NHL : New York Rangers vs San Jose Sharks (03:00)</evento>
+  <evento id="231" hora="23:00" grupo="Live Events">NCAA Volleyball | College Volleyball : Fort Valley State vs Long Beach State (03:00)</evento>
+  <evento id="232" hora="23:00" grupo="Live Events">NCAA Volleyball | College Volleyball : UCLA vs UC San Diego (03:00)</evento>
+  <evento id="233" hora="23:00" grupo="Live Events">NCAA Volleyball | College Volleyball : St. Xavier vs Vanguard (03:00)</evento>
+  <evento id="1502" hora="23:00" grupo="Live Events">Tennis WTA - AUSTRALIAN | WTA - AO : Gauff C. vs Baptiste H. (03:00)</evento>
+  <evento id="1522" hora="23:00" grupo="Live Events">Tennis WTA - AUSTRALIAN | WTA - AO : Gauff C. vs Baptiste H. (03:00)</evento>
+  <evento id="1518" hora="23:00" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN | ATP DOUBLES AO : Ebden M./Ram R. vs Griekspoor T./Van De Zandschulp B. (03:00)</evento>
+  <evento id="1538" hora="23:00" grupo="Live Events">Tennis ATP DOUBLES - AUSTRALIAN | ATP DOUBLES AO : Ebden M./Ram R. vs Griekspoor T./Van De Zandschulp B. (03:00)</evento>
+  <evento id="1507" hora="23:00" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN | WTA DOUBLES AO : Bouzkova M./Klepac A. vs Lamens S./Lys E. (03:00)</evento>
+  <evento id="1527" hora="23:00" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN | WTA DOUBLES AO : Bouzkova M./Klepac A. vs Lamens S./Lys E. (03:00)</evento>
+  <evento id="1506" hora="23:00" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN | WTA DOUBLES AO : Kasatkina D./Rodionova Ar. vs Danilina A./Krunic A. (03:00)</evento>
+  <evento id="1526" hora="23:00" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN | WTA DOUBLES AO : Kasatkina D./Rodionova Ar. vs Danilina A./Krunic A. (03:00)</evento>
+  <evento id="1519" hora="23:00" grupo="Live Events">Tennis MIXED DOUBLES - AUSTRALIAN | MIXED DOUBLES - AO : Inglis M./Kubler J. vs Mihalikova T./Glasspool L. (03:00)</evento>
+  <evento id="1539" hora="23:00" grupo="Live Events">Tennis MIXED DOUBLES - AUSTRALIAN | MIXED DOUBLES - AO : Inglis M./Kubler J. vs Mihalikova T./Glasspool L. (03:00)</evento>
+  <evento id="1504" hora="23:30" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Gea A. vs Wawrinka S. (03:30)</evento>
+  <evento id="1524" hora="23:30" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Gea A. vs Wawrinka S. (03:30)</evento>
+  <evento id="1519" hora="23:30" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Machac T. vs Tsitsipas S. (03:30)</evento>
+  <evento id="1539" hora="23:30" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Machac T. vs Tsitsipas S. (03:30)</evento>
+  <evento id="1513" hora="23:30" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Spizzirri E. vs Wu Y. (03:30)</evento>
+  <evento id="1533" hora="23:30" grupo="Live Events">Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Spizzirri E. vs Wu Y. (03:30)</evento>
+  <evento id="1518" hora="23:30" grupo="Live Events">Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Mertens E. vs Uchijima M. (03:30)</evento>
+  <evento id="1538" hora="23:30" grupo="Live Events">Tennis WTA - AUSTRALIAN OPEN | WTA - AO : Mertens E. vs Uchijima M. (03:30)</evento>
+  <evento id="1506" hora="23:30" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Kichenok N./Ninomiya M. vs Jones E./Sharma A. (03:30)</evento>
+  <evento id="1526" hora="23:30" grupo="Live Events">Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Kichenok N./Ninomiya M. vs Jones E./Sharma A. (03:30)</evento>
+  <evento id="1504" hora="23:30" grupo="Live Events">Tennis WTA - AUSTRALIAN | WTA - AO : Muchova K. vs Linette M. (03:30)</evento>
+  <evento id="1524" hora="23:30" grupo="Live Events">Tennis WTA - AUSTRALIAN | WTA - AO : Muchova K. vs Linette M. (03:30)</evento>
+  <evento id="1508" hora="23:30" grupo="Live Events">Tennis MIXED DOUBLES - AUSTRALIAN | MIXED DOUBLES - AO : Errani S./Vavassori A. vs Siegemund L./Roger-Vasselin (03:30)</evento>
+  <evento id="1528" hora="23:30" grupo="Live Events">Tennis MIXED DOUBLES - AUSTRALIAN | MIXED DOUBLES - AO : Errani S./Vavassori A. vs Siegemund L./Roger-Vasselin (03:30)</evento>
 </eventos>

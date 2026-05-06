@@ -8,38 +8,6 @@ error_reporting(E_ALL ^ E_DEPRECATED);
 
 $ua = "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0";
 
-// ===== SEGMENT PROXY =====
-$segB64 = $_GET["seg"] ?? "";
-if (!empty($segB64)) {
-    $segUrl = base64_decode(strtr($segB64, '-_', '+/'));
-    if (!$segUrl || !str_starts_with($segUrl, "https://")) {
-        http_response_code(400); die("invalid seg");
-    }
-    
-    $ch = curl_init();
-    curl_setopt_array($ch, [
-        CURLOPT_URL            => $segUrl,
-        CURLOPT_USERAGENT      => $ua,
-        CURLOPT_RETURNTRANSFER => true,
-        CURLOPT_FOLLOWLOCATION => true,
-        CURLOPT_TIMEOUT        => 10,
-        CURLOPT_SSL_VERIFYPEER => false,
-    ]);
-    $segData = curl_exec($ch);
-    $segCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-    
-    if ($segCode >= 400 || !$segData) {
-        http_response_code(502); die("seg error");
-    }
-    
-    // Always return as video/mp2t regardless of source content-type
-    header("Content-Type: video/mp2t");
-    header("Access-Control-Allow-Origin: *");
-    header("Cache-Control: public, max-age=30");
-    echo $segData;
-    exit;
-}
-
 // ===== DLSTREAMS SOURCE (via EasyProxy extractor) =====
 $dlstreamsId = $_GET["dlstreams"] ?? "";
 if (!empty($dlstreamsId)) {
@@ -87,17 +55,13 @@ if (!empty($dlstreamsId)) {
         die("ERROR: stream no accesible (HTTP $m3u8Code)");
     }
     
-    // Rewrite segments through our proxy (fixes VLC TLS + Content-Type issues)
+    // Rewrite relative segments to absolute CDN URLs (direct, sin pasar por VPS)
     $basePath = dirname($finalUrl) . "/";
     $lines = explode("\n", $m3u8Body);
     foreach ($lines as &$line) {
         $line = rtrim($line);
         if (!empty($line) && $line[0] !== "#" && !str_starts_with($line, "http")) {
             $line = $basePath . $line;
-        }
-        if (!empty($line) && str_starts_with($line, "https://")) {
-            $segB64 = rtrim(strtr(base64_encode($line), '+/', '-_'), '=');
-            $line = "http://74.208.207.247/proxy.php?seg=" . $segB64;
         }
     }
     $m3u8Body = implode("\n", $lines);
@@ -109,68 +73,12 @@ if (!empty($dlstreamsId)) {
     exit;
 }
 
-// ===== TS SEGMENT PROXY =====
-$path = $_SERVER["REQUEST_URI"] ?? $_SERVER["PATH_INFO"] ?? "";
-if (preg_match('#/ts/([A-Za-z0-9_-]+)\.ts#', $path, $tm)) {
-    $info = json_decode(base64_decode(strtr($tm[1], '-_', '+/')), true);
-    if (!$info) { http_response_code(400); die("ERROR: TS info invalida"); }
-
-    $tsUrl = "https://" . $info["host"] . $info["path"] . $info["ts"];
-    $isM3u8 = str_ends_with(strtolower($info["ts"]), ".m3u8");
-
-    $ch = curl_init();
-    curl_setopt_array($ch, [
-        CURLOPT_URL            => $tsUrl,
-        CURLOPT_USERAGENT      => $info["ua"] ?? $ua,
-        CURLOPT_REFERER        => $info["ref"] ?? "",
-        CURLOPT_RETURNTRANSFER => true,
-        CURLOPT_FOLLOWLOCATION => true,
-        CURLOPT_TIMEOUT        => 10,
-        CURLOPT_SSL_VERIFYPEER => false,
-    ]);
-    $tsData = curl_exec($ch);
-    $tsCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-
-    if ($tsCode >= 400 || !$tsData) {
-        http_response_code(502);
-        die("ERROR: TS segment (HTTP $tsCode)");
-    }
-
-    // Si es un M3U8 (variant playlist), reescribir sus segmentos tambien
-    if ($isM3u8) {
-        $cdnHost = $info["host"];
-        $cdnPath = dirname($info["path"]) . "/" . basename($info["path"]) . "/";
-        $lines = explode("\n", $tsData);
-        foreach ($lines as &$line) {
-            $line = rtrim($line);
-            if (!empty($line) && $line[0] !== "#" && !str_starts_with($line, "http")) {
-                $segInfo = base64_encode(json_encode([
-                    "ts"   => basename($line),
-                    "host" => $cdnHost,
-                    "path" => $cdnPath,
-                    "ref"  => $info["ref"],
-                    "ua"   => $info["ua"],
-                ]));
-                $line = "http://74.208.207.247/proxy.php/ts/" . rtrim(strtr($segInfo, '+/', '-_'), '=') . ".ts";
-            }
-        }
-        $tsData = implode("\n", $lines);
-        header("Content-Type: application/vnd.apple.mpegurl");
-    } else {
-        header("Content-Type: video/mp2t");
-    }
-
-    header("Access-Control-Allow-Origin: *");
-    header("Cache-Control: public, max-age=30");
-    echo $tsData;
-    exit;
-}
-
 // ===== POWER SOURCE =====
 $powerLink = $_GET["power"] ?? "";
 
 // Also support path format: /proxy.php/power/BASE64.m3u8
 if (empty($powerLink)) {
+    $path = $_SERVER["REQUEST_URI"] ?? $_SERVER["PATH_INFO"] ?? "";
     if (preg_match('#/power/([A-Za-z0-9_-]+)\.m3u8#', $path, $pm)) {
         $powerLink = base64_decode(strtr($pm[1], '-_', '+/'));
     }

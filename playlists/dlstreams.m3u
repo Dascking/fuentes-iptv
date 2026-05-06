@@ -1,870 +1,705 @@
 #EXTM3U
 #PLAYLIST: DaddyLive
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Tennis Channel" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Tennis Channel
-http://74.208.207.247/proxy.php?dlstreams=40
+#EXTINF:-1 tvg-id="" tvg-name="[00:00] Soccer | Australia - A-League : Auckland vs Central Coast Mariners (04:00)" tvg-logo="" group-title="Live Events",[00:00] Soccer | Australia - A-League : Auckland vs Central Coast Mariners (04:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=32
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round TSN2" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round TSN2
-http://74.208.207.247/proxy.php?dlstreams=112
+#EXTINF:-1 tvg-id="" tvg-name="[00:00] Soccer | Australia - A-League : Auckland vs Central Coast Mariners (04:00)" tvg-logo="" group-title="Live Events",[00:00] Soccer | Australia - A-League : Auckland vs Central Coast Mariners (04:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=590
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round TSN3" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round TSN3
-http://74.208.207.247/proxy.php?dlstreams=113
+#EXTINF:-1 tvg-id="" tvg-name="[00:00] NCAA/NCAAW Basketball | NCAAW : Miami (OH) vs Ball State (04:00)" tvg-logo="" group-title="Live Events",[00:00] NCAA/NCAAW Basketball | NCAAW : Miami (OH) vs Ball State (04:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=109
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round TSN4" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round TSN4
-http://74.208.207.247/proxy.php?dlstreams=114
+#EXTINF:-1 tvg-id="" tvg-name="[00:00] Ice Skating | Figure Skating: Four Continents Championships - Beijing 2026 Freestyle dance (04:00)" tvg-logo="" group-title="Live Events",[00:00] Ice Skating | Figure Skating: Four Continents Championships - Beijing 2026 Freestyle dance (04:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=47
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round RDS CA" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round RDS CA
-http://74.208.207.247/proxy.php?dlstreams=839
+#EXTINF:-1 tvg-id="" tvg-name="[00:00] Ice Skating | Figure Skating: Four Continents Championships - Beijing 2026 Freestyle dance (04:00)" tvg-logo="" group-title="Live Events",[00:00] Ice Skating | Figure Skating: Four Continents Championships - Beijing 2026 Freestyle dance (04:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=401
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round RDS 2 CA" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round RDS 2 CA
-http://74.208.207.247/proxy.php?dlstreams=840
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Baez S. vs Darderi L. (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Baez S. vs Darderi L. (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1506
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Sky Sports+" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Sky Sports+
-http://74.208.207.247/proxy.php?dlstreams=36
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Baez S. vs Darderi L. (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Baez S. vs Darderi L. (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1526
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Sky Sport Uno IT" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Sky Sport Uno IT
-http://74.208.207.247/proxy.php?dlstreams=461
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Hijikata R. vs Vacherot V. (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Hijikata R. vs Vacherot V. (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1504
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round beIN Sports 3 France" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round beIN Sports 3 France
-http://74.208.207.247/proxy.php?dlstreams=118
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Hijikata R. vs Vacherot V. (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Hijikata R. vs Vacherot V. (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1524
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Sky Sports Tennis UK" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Sky Sports Tennis UK
-http://74.208.207.247/proxy.php?dlstreams=46
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Khachanov K. vs Basavareddy N. (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Khachanov K. vs Basavareddy N. (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1519
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Sky Sports Tennis DE" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Sky Sports Tennis DE
-http://74.208.207.247/proxy.php?dlstreams=884
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Khachanov K. vs Basavareddy N. (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Khachanov K. vs Basavareddy N. (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1539
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round TV4 Tennis" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round TV4 Tennis
-http://74.208.207.247/proxy.php?dlstreams=701
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Mensik J. vs Jodar R. (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Mensik J. vs Jodar R. (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1513
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Canal+ Sport 2 Poland" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Canal+ Sport 2 Poland
-http://74.208.207.247/proxy.php?dlstreams=73
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Mensik J. vs Jodar R. (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Mensik J. vs Jodar R. (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1533
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Arena Sport 1x2 Serbia" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Arena Sport 1x2 Serbia
-http://74.208.207.247/proxy.php?dlstreams=612
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Ho R./Jebens H. vs Bolelli S./Vavassori A. (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Ho R./Jebens H. vs Bolelli S./Vavassori A. (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1505
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Sport Klub 2 Croatia" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Sport Klub 2 Croatia
-http://74.208.207.247/proxy.php?dlstreams=102
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Ho R./Jebens H. vs Bolelli S./Vavassori A. (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Ho R./Jebens H. vs Bolelli S./Vavassori A. (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1525
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round MAX Sport 1 Bulgaria" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round MAX Sport 1 Bulgaria
-http://74.208.207.247/proxy.php?dlstreams=472
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Kirkov V./Stevens B. vs Escobar G./Reyes-Varela M. A. (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Kirkov V./Stevens B. vs Escobar G./Reyes-Varela M. A. (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1515
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Ziggo Sport 4 NL" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Ziggo Sport 4 NL
-http://74.208.207.247/proxy.php?dlstreams=396
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Kirkov V./Stevens B. vs Escobar G./Reyes-Varela M. A. (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Kirkov V./Stevens B. vs Escobar G./Reyes-Varela M. A. (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1535
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Movistar Deportes Spain" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Movistar Deportes Spain
-http://74.208.207.247/proxy.php?dlstreams=436
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Chan H-C./Jiang X. vs Blinkova A./Rakhimova K. (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Chan H-C./Jiang X. vs Blinkova A./Rakhimova K. (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1514
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Movistar Deportes 2 Spain" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Movistar Deportes 2 Spain
-http://74.208.207.247/proxy.php?dlstreams=438
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Chan H-C./Jiang X. vs Blinkova A./Rakhimova K. (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis WTA DOUBLES - AUSTRALIAN OPEN | WTA DOUBLES AO : Chan H-C./Jiang X. vs Blinkova A./Rakhimova K. (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1534
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Movistar Deportes 3 Spain" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Movistar Deportes 3 Spain
-http://74.208.207.247/proxy.php?dlstreams=526
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=40
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Movistar Deportes 4 Spain" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Movistar Deportes 4 Spain
-http://74.208.207.247/proxy.php?dlstreams=527
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=31
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Ziggo Sport 5 NL" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Ziggo Sport 5 NL
-http://74.208.207.247/proxy.php?dlstreams=383
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=112
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round MAX Sport 2 Bulgaria" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round MAX Sport 2 Bulgaria
-http://74.208.207.247/proxy.php?dlstreams=473
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=113
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Digi Sport 2 Romania" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Digi Sport 2 Romania
-http://74.208.207.247/proxy.php?dlstreams=401
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=33
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Digi Sport 4 Romania" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Digi Sport 4 Romania
-http://74.208.207.247/proxy.php?dlstreams=403
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=34
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round beIN SPORTS Australia 1" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round beIN SPORTS Australia 1
-http://74.208.207.247/proxy.php?dlstreams=491
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=45
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round beIN SPORTS Australia 2" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round beIN SPORTS Australia 2
-http://74.208.207.247/proxy.php?dlstreams=492
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=375
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round beIN Sports 2 Malaysia" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round beIN Sports 2 Malaysia
-http://74.208.207.247/proxy.php?dlstreams=713
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=588
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Sportklub 4 Croatia" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Sportklub 4 Croatia
-http://74.208.207.247/proxy.php?dlstreams=104
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=591
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Sportklub 5 Croatia" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Sportklub 5 Croatia
-http://74.208.207.247/proxy.php?dlstreams=24
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=592
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Sportklub 8 Croatia" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Sportklub 8 Croatia
-http://74.208.207.247/proxy.php?dlstreams=20
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=593
 
-#EXTINF:-1 tvg-id="" tvg-name="[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Sportklub 9 Croatia" tvg-logo="" group-title="Live Events",[05:00] 2026 BNL Italian International Tennis Tournament WTA First Round Sportklub 9 Croatia
-http://74.208.207.247/proxy.php?dlstreams=21
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=594
 
-#EXTINF:-1 tvg-id="" tvg-name="[07:35] China Super League : Beijing Guoan vs Dalian Young Boy GOL Play Spain" tvg-logo="" group-title="Live Events",[07:35] China Super League : Beijing Guoan vs Dalian Young Boy GOL Play Spain
-http://74.208.207.247/proxy.php?dlstreams=530
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=57
 
-#EXTINF:-1 tvg-id="" tvg-name="[08:00] Live racing from around the UK Sky Sports Racing UK" tvg-logo="" group-title="Live Events",[08:00] Live racing from around the UK Sky Sports Racing UK
-http://74.208.207.247/proxy.php?dlstreams=554
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=524
 
-#EXTINF:-1 tvg-id="" tvg-name="[08:00] Live racing from Chester ITV 4 UK" tvg-logo="" group-title="Live Events",[08:00] Live racing from Chester ITV 4 UK
-http://74.208.207.247/proxy.php?dlstreams=353
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=772
 
-#EXTINF:-1 tvg-id="" tvg-name="[08:00] Live racing from Pontefract\  Musselburgh and Punchestown Racing Tv UK" tvg-logo="" group-title="Live Events",[08:00] Live racing from Pontefract\  Musselburgh and Punchestown Racing Tv UK
-http://74.208.207.247/proxy.php?dlstreams=555
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=231
 
-#EXTINF:-1 tvg-id="" tvg-name="[09:30] The Women&#039;s Tour | Stage 4 Monforte de Lemos - Antas de Ulla (115km) EuroSport 1 Spain" tvg-logo="" group-title="Live Events",[09:30] The Women&#039;s Tour | Stage 4 Monforte de Lemos - Antas de Ulla (115km) EuroSport 1 Spain
-http://74.208.207.247/proxy.php?dlstreams=524
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=878
 
-#EXTINF:-1 tvg-id="" tvg-name="[09:30] The Women&#039;s Tour | Stage 4 Monforte de Lemos - Antas de Ulla (115km) Eurosport 1 SE" tvg-logo="" group-title="Live Events",[09:30] The Women&#039;s Tour | Stage 4 Monforte de Lemos - Antas de Ulla (115km) Eurosport 1 SE
-http://74.208.207.247/proxy.php?dlstreams=231
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=41
 
-#EXTINF:-1 tvg-id="" tvg-name="[09:30] The Women&#039;s Tour | Stage 4 Monforte de Lemos - Antas de Ulla (115km) EuroSport 1 Greece" tvg-logo="" group-title="Live Events",[09:30] The Women&#039;s Tour | Stage 4 Monforte de Lemos - Antas de Ulla (115km) EuroSport 1 Greece
-http://74.208.207.247/proxy.php?dlstreams=41
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=36
 
-#EXTINF:-1 tvg-id="" tvg-name="[10:00] India - Indian Super League : RoundGlass Punjab vs Chennaiyin SONY TEN 2 HD" tvg-logo="" group-title="Live Events",[10:00] India - Indian Super League : RoundGlass Punjab vs Chennaiyin SONY TEN 2 HD
-http://74.208.207.247/proxy.php?dlstreams=886
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=117
 
-#EXTINF:-1 tvg-id="" tvg-name="[10:00] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab Willow Cricket" tvg-logo="" group-title="Live Events",[10:00] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab Willow Cricket
-http://74.208.207.247/proxy.php?dlstreams=346
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=46
 
-#EXTINF:-1 tvg-id="" tvg-name="[10:00] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab Willow 2 Cricket" tvg-logo="" group-title="Live Events",[10:00] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab Willow 2 Cricket
-http://74.208.207.247/proxy.php?dlstreams=598
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=884
 
-#EXTINF:-1 tvg-id="" tvg-name="[10:00] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab Sky Sports Cricket UK" tvg-logo="" group-title="Live Events",[10:00] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab Sky Sports Cricket UK
-http://74.208.207.247/proxy.php?dlstreams=65
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=576
 
-#EXTINF:-1 tvg-id="" tvg-name="[10:00] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab Fox Cricket" tvg-logo="" group-title="Live Events",[10:00] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab Fox Cricket
-http://74.208.207.247/proxy.php?dlstreams=369
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=701
 
-#EXTINF:-1 tvg-id="" tvg-name="[10:00] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab Sky Sport 1 NZ" tvg-logo="" group-title="Live Events",[10:00] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab Sky Sport 1 NZ
-http://74.208.207.247/proxy.php?dlstreams=588
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=102
 
-#EXTINF:-1 tvg-id="" tvg-name="[10:00] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab Star Sports 1 IN" tvg-logo="" group-title="Live Events",[10:00] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab Star Sports 1 IN
-http://74.208.207.247/proxy.php?dlstreams=267
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=472
 
-#EXTINF:-1 tvg-id="" tvg-name="[10:00] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab Star Sports Hindi IN" tvg-logo="" group-title="Live Events",[10:00] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab Star Sports Hindi IN
-http://74.208.207.247/proxy.php?dlstreams=268
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=919
 
-#EXTINF:-1 tvg-id="" tvg-name="[10:00] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab Astro Cricket" tvg-logo="" group-title="Live Events",[10:00] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab Astro Cricket
-http://74.208.207.247/proxy.php?dlstreams=370
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=393
 
-#EXTINF:-1 tvg-id="" tvg-name="[10:00] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab SuperSport Cricket" tvg-logo="" group-title="Live Events",[10:00] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab SuperSport Cricket
-http://74.208.207.247/proxy.php?dlstreams=368
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=160
 
-#EXTINF:-1 tvg-id="" tvg-name="[10:00] Indian Premier League : Kings XI Punjab vs Rajasthan Royals Extra Stream" tvg-logo="" group-title="Live Events",[10:00] Indian Premier League : Kings XI Punjab vs Rajasthan Royals Extra Stream
-http://74.208.207.247/proxy.php?dlstreams=16
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=798
 
-#EXTINF:-1 tvg-id="" tvg-name="[10:00] College Softball : Tulsa vs UAB ESPN+ USA" tvg-logo="" group-title="Live Events",[10:00] College Softball : Tulsa vs UAB ESPN+ USA
-http://74.208.207.247/proxy.php?dlstreams=69
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=491
 
-#EXTINF:-1 tvg-id="" tvg-name="[10:00] College Softball : Iona vs Siena ESPN+ USA" tvg-logo="" group-title="Live Events",[10:00] College Softball : Iona vs Siena ESPN+ USA
-http://74.208.207.247/proxy.php?dlstreams=76
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=492
 
-#EXTINF:-1 tvg-id="" tvg-name="[10:00] College Softball : Chattanooga vs Furman ESPN+ USA" tvg-logo="" group-title="Live Events",[10:00] College Softball : Chattanooga vs Furman ESPN+ USA
-http://74.208.207.247/proxy.php?dlstreams=77
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=396
 
-#EXTINF:-1 tvg-id="" tvg-name="[10:05] United Arab Emirates - UAE Pro League : Al Wahda vs Al Wasl Abu Dhabi Sports 1" tvg-logo="" group-title="Live Events",[10:05] United Arab Emirates - UAE Pro League : Al Wahda vs Al Wasl Abu Dhabi Sports 1
-http://74.208.207.247/proxy.php?dlstreams=600
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=453
 
-#EXTINF:-1 tvg-id="" tvg-name="[10:30] Bulgaria - Parva Liga : Slavia Sofia vs Septemvri Sofia Diema Sport Bulgaria" tvg-logo="" group-title="Live Events",[10:30] Bulgaria - Parva Liga : Slavia Sofia vs Septemvri Sofia Diema Sport Bulgaria
-http://74.208.207.247/proxy.php?dlstreams=465
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=713
 
-#EXTINF:-1 tvg-id="" tvg-name="[10:30] Bulgaria - Parva Liga : Slavia Sofia vs Septemvri Sofia Sportklub 1 Croatia" tvg-logo="" group-title="Live Events",[10:30] Bulgaria - Parva Liga : Slavia Sofia vs Septemvri Sofia Sportklub 1 Croatia
-http://74.208.207.247/proxy.php?dlstreams=101
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=712
 
-#EXTINF:-1 tvg-id="" tvg-name="[10:30] Iraq - Iraqi Premier League : Gharraf vs Diala Iraqia Syriac" tvg-logo="" group-title="Live Events",[10:30] Iraq - Iraqi Premier League : Gharraf vs Diala Iraqia Syriac
-http://74.208.207.247/proxy.php?dlstreams=55
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)" tvg-logo="" group-title="Live Events",[20:00] Tennis | Australian Open Round 3 | Day 7 (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=714
 
-#EXTINF:-1 tvg-id="" tvg-name="[10:30] Iraq - Iraqi Premier League : Al-Qasim vs Al Minaa Basra Iraqia Kurdish" tvg-logo="" group-title="Live Events",[10:30] Iraq - Iraqi Premier League : Al-Qasim vs Al Minaa Basra Iraqia Kurdish
-http://74.208.207.247/proxy.php?dlstreams=59
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Golf | PGA Tour Champions Golf Mitsubishi Electric Championship at Hualalai\  Second Round (00:00)" tvg-logo="" group-title="Live Events",[20:00] Golf | PGA Tour Champions Golf Mitsubishi Electric Championship at Hualalai\  Second Round (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=318
 
-#EXTINF:-1 tvg-id="" tvg-name="[10:30] Iraq - Iraqi Premier League : Erbil vs Al Kahrabaa Al Iraqiya Sports" tvg-logo="" group-title="Live Events",[10:30] Iraq - Iraqi Premier League : Erbil vs Al Kahrabaa Al Iraqiya Sports
-http://74.208.207.247/proxy.php?dlstreams=27
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Basketball | NBA G-League : Westchester vs Windy City Bulls (00:00)" tvg-logo="" group-title="Live Events",[20:00] Basketball | NBA G-League : Westchester vs Windy City Bulls (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=765
 
-#EXTINF:-1 tvg-id="" tvg-name="[11:00] Internazionali BNL d’Italia (Rome Masters Tennis)\  May 5–17\  2026 Sky Sport Tennis Italy" tvg-logo="" group-title="Live Events",[11:00] Internazionali BNL d’Italia (Rome Masters Tennis)\  May 5–17\  2026 Sky Sport Tennis Italy
-http://74.208.207.247/proxy.php?dlstreams=576
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Basketball | NBA G-League : Westchester vs Windy City Bulls (00:00)" tvg-logo="" group-title="Live Events",[20:00] Basketball | NBA G-League : Westchester vs Windy City Bulls (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=776
 
-#EXTINF:-1 tvg-id="" tvg-name="[11:00] Internazionali BNL d’Italia (Rome Masters Tennis)\  May 5–17\  2026 EuroSport 1 Italy" tvg-logo="" group-title="Live Events",[11:00] Internazionali BNL d’Italia (Rome Masters Tennis)\  May 5–17\  2026 EuroSport 1 Italy
-http://74.208.207.247/proxy.php?dlstreams=878
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NBA G-League | NBA G-League : Motor City Cruise vs Grand Rapids Drive (00:00)" tvg-logo="" group-title="Live Events",[20:00] NBA G-League | NBA G-League : Motor City Cruise vs Grand Rapids Drive (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=171
 
-#EXTINF:-1 tvg-id="" tvg-name="[11:00] French Open (Roland Garros Tennis Grand Slam)\  May 25 – June 8\  2026 Eurosport 1 France" tvg-logo="" group-title="Live Events",[11:00] French Open (Roland Garros Tennis Grand Slam)\  May 25 – June 8\  2026 Eurosport 1 France
-http://74.208.207.247/proxy.php?dlstreams=772
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NBA G-League | NBA G-League : Motor City Cruise vs Grand Rapids Drive (00:00)" tvg-logo="" group-title="Live Events",[20:00] NBA G-League | NBA G-League : Motor City Cruise vs Grand Rapids Drive (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=891
 
-#EXTINF:-1 tvg-id="" tvg-name="[11:00] France - Première Ligue : PSG vs Strasbourg Canal+ Live 1 France" tvg-logo="" group-title="Live Events",[11:00] France - Première Ligue : PSG vs Strasbourg Canal+ Live 1 France
-http://74.208.207.247/proxy.php?dlstreams=68
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NCAA/NCAAW Basketball | NCAA : Buffalo vs Massachusetts (00:00)" tvg-logo="" group-title="Live Events",[20:00] NCAA/NCAAW Basketball | NCAA : Buffalo vs Massachusetts (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=308
 
-#EXTINF:-1 tvg-id="" tvg-name="[11:00] France - Première Ligue : PSG vs Strasbourg Canal+ Sport 2 Afrique" tvg-logo="" group-title="Live Events",[11:00] France - Première Ligue : PSG vs Strasbourg Canal+ Sport 2 Afrique
-http://74.208.207.247/proxy.php?dlstreams=487
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NCAA/NCAAW Basketball | NCAAW : Valparaiso vs Bradley (00:00)" tvg-logo="" group-title="Live Events",[20:00] NCAA/NCAAW Basketball | NCAAW : Valparaiso vs Bradley (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=105
 
-#EXTINF:-1 tvg-id="" tvg-name="[11:00] France - Première Ligue : Paris FC vs Lens Canal+ France" tvg-logo="" group-title="Live Events",[11:00] France - Première Ligue : Paris FC vs Lens Canal+ France
-http://74.208.207.247/proxy.php?dlstreams=121
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NCAA/NCAAW Basketball | NCAAW : Murray State vs Northern Iowa (00:00)" tvg-logo="" group-title="Live Events",[20:00] NCAA/NCAAW Basketball | NCAAW : Murray State vs Northern Iowa (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=106
 
-#EXTINF:-1 tvg-id="" tvg-name="[11:00] France - Première Ligue : Paris FC vs Lens Canal+ Sport 1 Afrique" tvg-logo="" group-title="Live Events",[11:00] France - Première Ligue : Paris FC vs Lens Canal+ Sport 1 Afrique
-http://74.208.207.247/proxy.php?dlstreams=486
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NCAA/NCAAW Basketball | NCAAW : Evansville vs Drake (00:00)" tvg-logo="" group-title="Live Events",[20:00] NCAA/NCAAW Basketball | NCAAW : Evansville vs Drake (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=107
 
-#EXTINF:-1 tvg-id="" tvg-name="[11:00] Latvia - Virsliga : FS Jelgava vs Super Nova TV4 Latvia" tvg-logo="" group-title="Live Events",[11:00] Latvia - Virsliga : FS Jelgava vs Super Nova TV4 Latvia
-http://74.208.207.247/proxy.php?dlstreams=1
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NBA | NBA : Detroit Pistons vs Houston Rockets (00:00)" tvg-logo="" group-title="Live Events",[20:00] NBA | NBA : Detroit Pistons vs Houston Rockets (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=2
 
-#EXTINF:-1 tvg-id="" tvg-name="[11:00] College Softball : Notre Dame vs Georgia Tech ACC Network USA" tvg-logo="" group-title="Live Events",[11:00] College Softball : Notre Dame vs Georgia Tech ACC Network USA
-http://74.208.207.247/proxy.php?dlstreams=664
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NBA | NBA : Detroit Pistons vs Houston Rockets (00:00)" tvg-logo="" group-title="Live Events",[20:00] NBA | NBA : Detroit Pistons vs Houston Rockets (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=921
 
-#EXTINF:-1 tvg-id="" tvg-name="[11:00] College Softball : UMass Lowell vs UAlbany ESPN+ USA" tvg-logo="" group-title="Live Events",[11:00] College Softball : UMass Lowell vs UAlbany ESPN+ USA
-http://74.208.207.247/proxy.php?dlstreams=86
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] QMWHL | QMWHL : Moncton Wildcats vs Baie-Comeau Drakkar (00:00)" tvg-logo="" group-title="Live Events",[20:00] QMWHL | QMWHL : Moncton Wildcats vs Baie-Comeau Drakkar (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=182
 
-#EXTINF:-1 tvg-id="" tvg-name="[11:00] College Softball : Southern Indiana vs Tennessee Tech ESPN+ USA" tvg-logo="" group-title="Live Events",[11:00] College Softball : Southern Indiana vs Tennessee Tech ESPN+ USA
-http://74.208.207.247/proxy.php?dlstreams=105
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] QMWHL | QMWHL : Rouyn-Noranda Huskies vs Blainville-Boisbriand Armada (00:00)" tvg-logo="" group-title="Live Events",[20:00] QMWHL | QMWHL : Rouyn-Noranda Huskies vs Blainville-Boisbriand Armada (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=183
 
-#EXTINF:-1 tvg-id="" tvg-name="[11:00] College Softball : Texas A&amp;amp;M vs TBD SEC Network USA" tvg-logo="" group-title="Live Events",[11:00] College Softball : Texas A&amp;amp;M vs TBD SEC Network USA
-http://74.208.207.247/proxy.php?dlstreams=385
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)" tvg-logo="" group-title="Live Events",[20:00] NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=10
 
-#EXTINF:-1 tvg-id="" tvg-name="[11:00] College Softball : Washington vs Minnesota BTN USA" tvg-logo="" group-title="Live Events",[11:00] College Softball : Washington vs Minnesota BTN USA
-http://74.208.207.247/proxy.php?dlstreams=397
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)" tvg-logo="" group-title="Live Events",[20:00] NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=451
 
-#EXTINF:-1 tvg-id="" tvg-name="[11:15] PlusLiga : Rzeszow vs ONICO Warszawa Polsat Sport Extra 2 Poland" tvg-logo="" group-title="Live Events",[11:15] PlusLiga : Rzeszow vs ONICO Warszawa Polsat Sport Extra 2 Poland
-http://74.208.207.247/proxy.php?dlstreams=994
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)" tvg-logo="" group-title="Live Events",[20:00] NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=833
 
-#EXTINF:-1 tvg-id="" tvg-name="[11:30] Romania - Liga II : Corvinul Hunedoara vs Voluntari Digi Sport 1 Romania" tvg-logo="" group-title="Live Events",[11:30] Romania - Liga II : Corvinul Hunedoara vs Voluntari Digi Sport 1 Romania
-http://74.208.207.247/proxy.php?dlstreams=400
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)" tvg-logo="" group-title="Live Events",[20:00] NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=408
 
-#EXTINF:-1 tvg-id="" tvg-name="[11:30] Romania - Liga II : Corvinul Hunedoara vs Voluntari Prima Sport 1 Romania" tvg-logo="" group-title="Live Events",[11:30] Romania - Liga II : Corvinul Hunedoara vs Voluntari Prima Sport 1 Romania
-http://74.208.207.247/proxy.php?dlstreams=583
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)" tvg-logo="" group-title="Live Events",[20:00] NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=406
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:00] ATP / WTA Tour Finals Build-up Events (Tennis Season Matches)\  May–June 2026 EuroSport 1 Poland" tvg-logo="" group-title="Live Events",[12:00] ATP / WTA Tour Finals Build-up Events (Tennis Season Matches)\  May–June 2026 EuroSport 1 Poland
-http://74.208.207.247/proxy.php?dlstreams=57
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)" tvg-logo="" group-title="Live Events",[20:00] NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=407
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:00] Cyprus - First Division : AEK Larnaca vs Apollon Cytavision Sports 1 Cyprus" tvg-logo="" group-title="Live Events",[12:00] Cyprus - First Division : AEK Larnaca vs Apollon Cytavision Sports 1 Cyprus
-http://74.208.207.247/proxy.php?dlstreams=911
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)" tvg-logo="" group-title="Live Events",[20:00] NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=18
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:00] Cyprus - First Division : Aris vs APOEL Cytavision Sports 2 Cyprus" tvg-logo="" group-title="Live Events",[12:00] Cyprus - First Division : Aris vs APOEL Cytavision Sports 2 Cyprus
-http://74.208.207.247/proxy.php?dlstreams=912
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)" tvg-logo="" group-title="Live Events",[20:00] NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=494
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:00] Cyprus - First Division : Paphos vs Omonia Nicosia Cablenet Sports 1 Cyprus" tvg-logo="" group-title="Live Events",[12:00] Cyprus - First Division : Paphos vs Omonia Nicosia Cablenet Sports 1 Cyprus
-http://74.208.207.247/proxy.php?dlstreams=2
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)" tvg-logo="" group-title="Live Events",[20:00] NHL | NHL : Vegas Golden Knights vs Toronto Maple Leafs (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=146
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:00] Cyprus - First Division : Paphos vs Omonia Nicosia Cosmote Sport 3 Greece" tvg-logo="" group-title="Live Events",[12:00] Cyprus - First Division : Paphos vs Omonia Nicosia Cosmote Sport 3 Greece
-http://74.208.207.247/proxy.php?dlstreams=624
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NHL | NHL : Tampa Bay Lightning vs Chicago Blackhawks (00:00)" tvg-logo="" group-title="Live Events",[20:00] NHL | NHL : Tampa Bay Lightning vs Chicago Blackhawks (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=11
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:00] Slovenia - Druga Liga : Brinje Grosuplje vs Tabor Sežana SportKlub 1 Slovenia" tvg-logo="" group-title="Live Events",[12:00] Slovenia - Druga Liga : Brinje Grosuplje vs Tabor Sežana SportKlub 1 Slovenia
-http://74.208.207.247/proxy.php?dlstreams=3
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NHL | NHL : Tampa Bay Lightning vs Chicago Blackhawks (00:00)" tvg-logo="" group-title="Live Events",[20:00] NHL | NHL : Tampa Bay Lightning vs Chicago Blackhawks (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=44
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:00] Slovenia - Druga Liga : Brinje Grosuplje vs Tabor Sežana Sportklub 7 Croatia" tvg-logo="" group-title="Live Events",[12:00] Slovenia - Druga Liga : Brinje Grosuplje vs Tabor Sežana Sportklub 7 Croatia
-http://74.208.207.247/proxy.php?dlstreams=25
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NHL | NHL : Tampa Bay Lightning vs Chicago Blackhawks (00:00)" tvg-logo="" group-title="Live Events",[20:00] NHL | NHL : Tampa Bay Lightning vs Chicago Blackhawks (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=809
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:00] Bosnia and Herzegovina - Kup Bosne i Hercegovine : Zrinjski vs Velež Arena Sport 4 Serbia" tvg-logo="" group-title="Live Events",[12:00] Bosnia and Herzegovina - Kup Bosne i Hercegovine : Zrinjski vs Velež Arena Sport 4 Serbia
-http://74.208.207.247/proxy.php?dlstreams=581
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NHL | NHL : Tampa Bay Lightning vs Chicago Blackhawks (00:00)" tvg-logo="" group-title="Live Events",[20:00] NHL | NHL : Tampa Bay Lightning vs Chicago Blackhawks (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=19
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:00] Bosnia and Herzegovina - Kup Bosne i Hercegovine : Zrinjski vs Velež Arena Sport 2 Croatia" tvg-logo="" group-title="Live Events",[12:00] Bosnia and Herzegovina - Kup Bosne i Hercegovine : Zrinjski vs Velež Arena Sport 2 Croatia
-http://74.208.207.247/proxy.php?dlstreams=433
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Volleyball | Men's College Volleyball : Pepperdine vs. Loyola-Chicago (00:00)" tvg-logo="" group-title="Live Events",[20:00] Volleyball | Men's College Volleyball : Pepperdine vs. Loyola-Chicago (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=770
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:00] Germany - Frauen-Bundesliga : Bayern vs Hoffenheim Magenta Sport 301" tvg-logo="" group-title="Live Events",[12:00] Germany - Frauen-Bundesliga : Bayern vs Hoffenheim Magenta Sport 301
-http://74.208.207.247/proxy.php?dlstreams=4
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Volleyball | Brazil Copa Brasil\  Women : Osasco São Cristóvão Saúde vs Fluminense (00:00)" tvg-logo="" group-title="Live Events",[20:00] Volleyball | Brazil Copa Brasil\  Women : Osasco São Cristóvão Saúde vs Fluminense (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=79
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:00] Germany - Frauen-Bundesliga : Bayern vs Hoffenheim DAZN2 DE" tvg-logo="" group-title="Live Events",[12:00] Germany - Frauen-Bundesliga : Bayern vs Hoffenheim DAZN2 DE
-http://74.208.207.247/proxy.php?dlstreams=427
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NCAA Volleyball | College Volleyball : Lincoln Memorial vs Ohio State (00:00)" tvg-logo="" group-title="Live Events",[20:00] NCAA Volleyball | College Volleyball : Lincoln Memorial vs Ohio State (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=224
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:00] Germany - Frauen-Bundesliga : Bayern vs Hoffenheim Canal+ Extra 1 Poland" tvg-logo="" group-title="Live Events",[12:00] Germany - Frauen-Bundesliga : Bayern vs Hoffenheim Canal+ Extra 1 Poland
-http://74.208.207.247/proxy.php?dlstreams=983
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NCAA Volleyball | College Volleyball : Charleston (WV) vs Ball State (00:00)" tvg-logo="" group-title="Live Events",[20:00] NCAA Volleyball | College Volleyball : Charleston (WV) vs Ball State (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=225
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:00] College Softball : New Mexico State vs Sam Houston ESPN+ USA" tvg-logo="" group-title="Live Events",[12:00] College Softball : New Mexico State vs Sam Houston ESPN+ USA
-http://74.208.207.247/proxy.php?dlstreams=106
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NCAA Volleyball | College Volleyball : Roosevelt vs Sacred Heart (00:00)" tvg-logo="" group-title="Live Events",[20:00] NCAA Volleyball | College Volleyball : Roosevelt vs Sacred Heart (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=226
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:00] College Softball : Oakland vs Green Bay ESPN+ USA" tvg-logo="" group-title="Live Events",[12:00] College Softball : Oakland vs Green Bay ESPN+ USA
-http://74.208.207.247/proxy.php?dlstreams=107
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Boxing | Boxing : Jose Tito Sanchez vs Jesus Ramirez Rubio (00:00)" tvg-logo="" group-title="Live Events",[20:00] Boxing | Boxing : Jose Tito Sanchez vs Jesus Ramirez Rubio (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=55
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:00] College Softball : Central Michigan vs Ohio ESPN+ USA" tvg-logo="" group-title="Live Events",[12:00] College Softball : Central Michigan vs Ohio ESPN+ USA
-http://74.208.207.247/proxy.php?dlstreams=108
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] College Wrestling | Men's College Wrestling : Ohio State vs. Minnesota (00:00)" tvg-logo="" group-title="Live Events",[20:00] College Wrestling | Men's College Wrestling : Ohio State vs. Minnesota (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=397
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:00] College Softball : Saint Joseph&#039;s vs Fordham ESPN+ USA" tvg-logo="" group-title="Live Events",[12:00] College Softball : Saint Joseph&#039;s vs Fordham ESPN+ USA
-http://74.208.207.247/proxy.php?dlstreams=109
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] College Wrestling | College Wrestling : Ohio vs Northern Illinois (00:00)" tvg-logo="" group-title="Live Events",[20:00] College Wrestling | College Wrestling : Ohio vs Northern Illinois (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=69
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:00] Handball - Slovenian League: 1/2 Finals (G1): Celje vs Slovenj Gradec Sportklub 6 Croatia" tvg-logo="" group-title="Live Events",[12:00] Handball - Slovenian League: 1/2 Finals (G1): Celje vs Slovenj Gradec Sportklub 6 Croatia
-http://74.208.207.247/proxy.php?dlstreams=28
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] College Wrestling | College Wrestling : Davidson vs Chattanooga (00:00)" tvg-logo="" group-title="Live Events",[20:00] College Wrestling | College Wrestling : Davidson vs Chattanooga (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=76
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:10] Basketball Premier League : Maccabi Rishon LeZion vs Hapoel HaEmek Sport 5 Stars Israel" tvg-logo="" group-title="Live Events",[12:10] Basketball Premier League : Maccabi Rishon LeZion vs Hapoel HaEmek Sport 5 Stars Israel
-http://74.208.207.247/proxy.php?dlstreams=147
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] College Wrestling | College Wrestling : Edinboro vs George Mason (00:00)" tvg-logo="" group-title="Live Events",[20:00] College Wrestling | College Wrestling : Edinboro vs George Mason (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=77
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:30] Argentina - Reserve League : Vélez Sársfield Res. vs Sarmiento Res. ESPN3 Argentina" tvg-logo="" group-title="Live Events",[12:30] Argentina - Reserve League : Vélez Sársfield Res. vs Sarmiento Res. ESPN3 Argentina
-http://74.208.207.247/proxy.php?dlstreams=798
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] College Wrestling | College Wrestling : Columbia vs Princeton (00:00)" tvg-logo="" group-title="Live Events",[20:00] College Wrestling | College Wrestling : Columbia vs Princeton (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=86
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:30] Israel - Ligat Ha&#039;Al : Hapoel Tel Aviv vs Beitar Jerusalem 5Sport Israel" tvg-logo="" group-title="Live Events",[12:30] Israel - Ligat Ha&#039;Al : Hapoel Tel Aviv vs Beitar Jerusalem 5Sport Israel
-http://74.208.207.247/proxy.php?dlstreams=144
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Gymnastics | Women's College Gymnastics : Georgia vs Oklahoma (00:00)" tvg-logo="" group-title="Live Events",[20:00] Gymnastics | Women's College Gymnastics : Georgia vs Oklahoma (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=151
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:30] PGA On the Range: Truist Champs Truist Championship SuperSport Golf" tvg-logo="" group-title="Live Events",[12:30] PGA On the Range: Truist Champs Truist Championship SuperSport Golf
-http://74.208.207.247/proxy.php?dlstreams=422
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Gymnastics | Women's College Gymnastics : Pittsburgh vs North Carolina (00:00)" tvg-logo="" group-title="Live Events",[20:00] Gymnastics | Women's College Gymnastics : Pittsburgh vs North Carolina (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=152
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:30] PGA On the Range: Truist Champs Truist Championship Ziggo Sport 6 NL" tvg-logo="" group-title="Live Events",[12:30] PGA On the Range: Truist Champs Truist Championship Ziggo Sport 6 NL
-http://74.208.207.247/proxy.php?dlstreams=901
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Lacross (NLL) | NLL Lacrosse : San Diego Seals vs Philadelphia Wings (00:00)" tvg-logo="" group-title="Live Events",[20:00] Lacross (NLL) | NLL Lacrosse : San Diego Seals vs Philadelphia Wings (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=159
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:30] College Softball : Sacred Heart vs Quinnipiac ESPN+ USA" tvg-logo="" group-title="Live Events",[12:30] College Softball : Sacred Heart vs Quinnipiac ESPN+ USA
-http://74.208.207.247/proxy.php?dlstreams=110
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] AHL | AHL : Wilkes-Barre/Scranton vs Hershey Bears (00:00)" tvg-logo="" group-title="Live Events",[20:00] AHL | AHL : Wilkes-Barre/Scranton vs Hershey Bears (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=161
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:35] Champions League : Fuchse Berlin vs Veszprem Arena Sport 3 Croatia" tvg-logo="" group-title="Live Events",[12:35] Champions League : Fuchse Berlin vs Veszprem Arena Sport 3 Croatia
-http://74.208.207.247/proxy.php?dlstreams=434
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NCAA Ice Hockey | College Ice Hockey : St. Lawrence vs Clarkson (00:00)" tvg-logo="" group-title="Live Events",[20:00] NCAA Ice Hockey | College Ice Hockey : St. Lawrence vs Clarkson (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=174
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:35] Champions League : Fuchse Berlin vs Veszprem Digi Sport 3 Romania" tvg-logo="" group-title="Live Events",[12:35] Champions League : Fuchse Berlin vs Veszprem Digi Sport 3 Romania
-http://74.208.207.247/proxy.php?dlstreams=402
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NCAA Ice Hockey | College Ice Hockey : Harvard vs Colgate (00:00)" tvg-logo="" group-title="Live Events",[20:00] NCAA Ice Hockey | College Ice Hockey : Harvard vs Colgate (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=175
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:35] Champions League : Fuchse Berlin vs Veszprem Prima Sport 2 Romania" tvg-logo="" group-title="Live Events",[12:35] Champions League : Fuchse Berlin vs Veszprem Prima Sport 2 Romania
-http://74.208.207.247/proxy.php?dlstreams=584
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NCAA Ice Hockey | College Ice Hockey : Dartmouth vs Cornell (00:00)" tvg-logo="" group-title="Live Events",[20:00] NCAA Ice Hockey | College Ice Hockey : Dartmouth vs Cornell (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=176
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:45] Netherlands - Eredivisie : Almere City vs De Graafschap ESPN 1 NL" tvg-logo="" group-title="Live Events",[12:45] Netherlands - Eredivisie : Almere City vs De Graafschap ESPN 1 NL
-http://74.208.207.247/proxy.php?dlstreams=379
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NCAA Ice Hockey | College Ice Hockey : Northeastern vs Merrimack (00:00)" tvg-logo="" group-title="Live Events",[20:00] NCAA Ice Hockey | College Ice Hockey : Northeastern vs Merrimack (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=177
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:45] Spain - Primera División Femenina : Barcelona vs Levante DAZN1 Spain" tvg-logo="" group-title="Live Events",[12:45] Spain - Primera División Femenina : Barcelona vs Levante DAZN1 Spain
-http://74.208.207.247/proxy.php?dlstreams=445
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NCAA Ice Hockey | College Ice Hockey : Maine vs UMass Lowell (00:00)" tvg-logo="" group-title="Live Events",[20:00] NCAA Ice Hockey | College Ice Hockey : Maine vs UMass Lowell (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=178
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:45] Spain - Primera División Femenina : Barcelona vs Levante Teledeporte Spain (TDP)" tvg-logo="" group-title="Live Events",[12:45] Spain - Primera División Femenina : Barcelona vs Levante Teledeporte Spain (TDP)
-http://74.208.207.247/proxy.php?dlstreams=529
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NCAA Ice Hockey | College Ice Hockey : Maine vs UMass Lowell (00:00)" tvg-logo="" group-title="Live Events",[20:00] NCAA Ice Hockey | College Ice Hockey : Maine vs UMass Lowell (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=762
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:45] United Arab Emirates - UAE Pro League : Al Sharjah vs Al Ain Abu Dhabi Sports 2" tvg-logo="" group-title="Live Events",[12:45] United Arab Emirates - UAE Pro League : Al Sharjah vs Al Ain Abu Dhabi Sports 2
-http://74.208.207.247/proxy.php?dlstreams=601
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] NCAA Ice Hockey | College Hockey : Holy Cross vs Robert Morris (00:00)" tvg-logo="" group-title="Live Events",[20:00] NCAA Ice Hockey | College Hockey : Holy Cross vs Robert Morris (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=922
 
-#EXTINF:-1 tvg-id="" tvg-name="[12:55] Polska Liga Koszykówki : Anwil Wloclawek vs Trefl Polsat Sport Extra 4 Poland" tvg-logo="" group-title="Live Events",[12:55] Polska Liga Koszykówki : Anwil Wloclawek vs Trefl Polsat Sport Extra 4 Poland
-http://74.208.207.247/proxy.php?dlstreams=996
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] ECHL | ECHL : Adirondack Thunder vs Greensboro Gargoyles (00:00)" tvg-logo="" group-title="Live Events",[20:00] ECHL | ECHL : Adirondack Thunder vs Greensboro Gargoyles (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=180
 
-#EXTINF:-1 tvg-id="" tvg-name="[13:00] US Open Golf Championship (Golf Major)\  June 11–14\  2026 NBC USA" tvg-logo="" group-title="Live Events",[13:00] US Open Golf Championship (Golf Major)\  June 11–14\  2026 NBC USA
-http://74.208.207.247/proxy.php?dlstreams=53
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] ECHL | ECHL : Fort Wayne Komets vs Indy Fuel (00:00)" tvg-logo="" group-title="Live Events",[20:00] ECHL | ECHL : Fort Wayne Komets vs Indy Fuel (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=181
 
-#EXTINF:-1 tvg-id="" tvg-name="[13:00] US Open Golf Championship (Golf Major)\  June 11–14\  2026 Sky Sports Golf" tvg-logo="" group-title="Live Events",[13:00] US Open Golf Championship (Golf Major)\  June 11–14\  2026 Sky Sports Golf
-http://74.208.207.247/proxy.php?dlstreams=70
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] OHL | OHL : Owen Sound Attack vs Kitchener Rangers (00:00)" tvg-logo="" group-title="Live Events",[20:00] OHL | OHL : Owen Sound Attack vs Kitchener Rangers (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=194
 
-#EXTINF:-1 tvg-id="" tvg-name="[13:00] US Open Golf Championship (Golf Major)\  June 11–14\  2026 Golf Channel USA" tvg-logo="" group-title="Live Events",[13:00] US Open Golf Championship (Golf Major)\  June 11–14\  2026 Golf Channel USA
-http://74.208.207.247/proxy.php?dlstreams=318
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] OHL | OHL : Sarnia Sting vs London Knights (00:00)" tvg-logo="" group-title="Live Events",[20:00] OHL | OHL : Sarnia Sting vs London Knights (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=195
 
-#EXTINF:-1 tvg-id="" tvg-name="[13:00] PGA Championship (Golf Major Tournament)\  May 14–17\  2026 CBS Sports Network" tvg-logo="" group-title="Live Events",[13:00] PGA Championship (Golf Major Tournament)\  May 14–17\  2026 CBS Sports Network
-http://74.208.207.247/proxy.php?dlstreams=308
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] QMJHL | QMJHL : Blainville-Boisbriand Armada vs Quebec Remparts (00:00)" tvg-logo="" group-title="Live Events",[20:00] QMJHL | QMJHL : Blainville-Boisbriand Armada vs Quebec Remparts (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=202
 
-#EXTINF:-1 tvg-id="" tvg-name="[13:00] Israel - Ligat Ha&#039;Al : Maccabi Haifa vs Hapoel Be&#039;er Sheva Sport 4 Israel" tvg-logo="" group-title="Live Events",[13:00] Israel - Ligat Ha&#039;Al : Maccabi Haifa vs Hapoel Be&#039;er Sheva Sport 4 Israel
-http://74.208.207.247/proxy.php?dlstreams=143
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] QMJHL | QMJHL : Val-D'Or Foreurs vs Chicoutimi Sagueneens (00:00)" tvg-logo="" group-title="Live Events",[20:00] QMJHL | QMJHL : Val-D'Or Foreurs vs Chicoutimi Sagueneens (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=203
 
-#EXTINF:-1 tvg-id="" tvg-name="[13:00] Bulgaria - Parva Liga : Spartak Varna vs Dobrudzha 1919 Sportklub 10 Croatia" tvg-logo="" group-title="Live Events",[13:00] Bulgaria - Parva Liga : Spartak Varna vs Dobrudzha 1919 Sportklub 10 Croatia
-http://74.208.207.247/proxy.php?dlstreams=26
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] QMJHL | QMJHL : Rouyn-Noranda Huskies vs Gatineau Olympiques (00:00)" tvg-logo="" group-title="Live Events",[20:00] QMJHL | QMJHL : Rouyn-Noranda Huskies vs Gatineau Olympiques (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=204
 
-#EXTINF:-1 tvg-id="" tvg-name="[13:00] College Softball : UTSA vs Memphis ESPN+ USA" tvg-logo="" group-title="Live Events",[13:00] College Softball : UTSA vs Memphis ESPN+ USA
-http://74.208.207.247/proxy.php?dlstreams=151
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] QMJHL | QMJHL : Shawinigan Cataractes vs Victoriaville Tigres (00:00)" tvg-logo="" group-title="Live Events",[20:00] QMJHL | QMJHL : Shawinigan Cataractes vs Victoriaville Tigres (00:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=205
 
-#EXTINF:-1 tvg-id="" tvg-name="[13:00] College Softball : Illinois State vs Northern Iowa ESPN+ USA" tvg-logo="" group-title="Live Events",[13:00] College Softball : Illinois State vs Northern Iowa ESPN+ USA
-http://74.208.207.247/proxy.php?dlstreams=152
+#EXTINF:-1 tvg-id="" tvg-name="[20:05] AHL | AHL : Charlotte Checkers vs Lehigh Valley Phantoms (00:05)" tvg-logo="" group-title="Live Events",[20:05] AHL | AHL : Charlotte Checkers vs Lehigh Valley Phantoms (00:05)
+http://74.208.207.247/iptv/proxy.php?dlstreams=162
 
-#EXTINF:-1 tvg-id="" tvg-name="[13:00] College Softball : East Tennessee State vs Mercer ESPN+ USA" tvg-logo="" group-title="Live Events",[13:00] College Softball : East Tennessee State vs Mercer ESPN+ USA
-http://74.208.207.247/proxy.php?dlstreams=153
+#EXTINF:-1 tvg-id="" tvg-name="[20:05] AHL | AHL : Belleville Senators vs Providence Bruins (00:05)" tvg-logo="" group-title="Live Events",[20:05] AHL | AHL : Belleville Senators vs Providence Bruins (00:05)
+http://74.208.207.247/iptv/proxy.php?dlstreams=163
 
-#EXTINF:-1 tvg-id="" tvg-name="[13:00] College Softball : Fordham vs Saint Joseph&#039;s ESPN+ USA" tvg-logo="" group-title="Live Events",[13:00] College Softball : Fordham vs Saint Joseph&#039;s ESPN+ USA
-http://74.208.207.247/proxy.php?dlstreams=154
+#EXTINF:-1 tvg-id="" tvg-name="[20:05] AHL | AHL : Utica Comets vs Rochester Americans (00:05)" tvg-logo="" group-title="Live Events",[20:05] AHL | AHL : Utica Comets vs Rochester Americans (00:05)
+http://74.208.207.247/iptv/proxy.php?dlstreams=164
 
-#EXTINF:-1 tvg-id="" tvg-name="[13:00] Euroleague : Zalgiris Kaunas vs Fenerbahce Nova Sports 5 Greece" tvg-logo="" group-title="Live Events",[13:00] Euroleague : Zalgiris Kaunas vs Fenerbahce Nova Sports 5 Greece
-http://74.208.207.247/proxy.php?dlstreams=635
+#EXTINF:-1 tvg-id="" tvg-name="[20:05] AHL | AHL : Toronto Marlies vs Springfield Thunderbirds (00:05)" tvg-logo="" group-title="Live Events",[20:05] AHL | AHL : Toronto Marlies vs Springfield Thunderbirds (00:05)
+http://74.208.207.247/iptv/proxy.php?dlstreams=165
 
-#EXTINF:-1 tvg-id="" tvg-name="[13:10] MLB : Tampa Bay Rays vs Toronto Blue Jays MLB league pass" tvg-logo="" group-title="Live Events",[13:10] MLB : Tampa Bay Rays vs Toronto Blue Jays MLB league pass
-http://74.208.207.247/proxy.php?dlstreams=17
+#EXTINF:-1 tvg-id="" tvg-name="[20:05] ECHL | ECHL : Florida Everblades vs Greenville Swamp Rabbits (00:05)" tvg-logo="" group-title="Live Events",[20:05] ECHL | ECHL : Florida Everblades vs Greenville Swamp Rabbits (00:05)
+http://74.208.207.247/iptv/proxy.php?dlstreams=184
 
-#EXTINF:-1 tvg-id="" tvg-name="[13:10] MLB : Tampa Bay Rays vs Toronto Blue Jays Sportsnet West" tvg-logo="" group-title="Live Events",[13:10] MLB : Tampa Bay Rays vs Toronto Blue Jays Sportsnet West
-http://74.208.207.247/proxy.php?dlstreams=407
+#EXTINF:-1 tvg-id="" tvg-name="[20:05] ECHL | ECHL : Worcester Railers vs Norfolk Admirals (00:05)" tvg-logo="" group-title="Live Events",[20:05] ECHL | ECHL : Worcester Railers vs Norfolk Admirals (00:05)
+http://74.208.207.247/iptv/proxy.php?dlstreams=185
 
-#EXTINF:-1 tvg-id="" tvg-name="[13:10] MLB : Tampa Bay Rays vs Toronto Blue Jays Sportsnet East" tvg-logo="" group-title="Live Events",[13:10] MLB : Tampa Bay Rays vs Toronto Blue Jays Sportsnet East
-http://74.208.207.247/proxy.php?dlstreams=408
+#EXTINF:-1 tvg-id="" tvg-name="[20:05] ECHL | ECHL : Atlanta Gladiators vs South Carolina Stingrays (00:05)" tvg-logo="" group-title="Live Events",[20:05] ECHL | ECHL : Atlanta Gladiators vs South Carolina Stingrays (00:05)
+http://74.208.207.247/iptv/proxy.php?dlstreams=186
 
-#EXTINF:-1 tvg-id="" tvg-name="[13:15] MLB : St. Louis Cardinals vs Milwaukee Brewers MLB league pass" tvg-logo="" group-title="Live Events",[13:15] MLB : St. Louis Cardinals vs Milwaukee Brewers MLB league pass
-http://74.208.207.247/proxy.php?dlstreams=18
+#EXTINF:-1 tvg-id="" tvg-name="[20:05] OHL | OHL : Saginaw Spirit vs Kingston Frontenacs (00:05)" tvg-logo="" group-title="Live Events",[20:05] OHL | OHL : Saginaw Spirit vs Kingston Frontenacs (00:05)
+http://74.208.207.247/iptv/proxy.php?dlstreams=196
 
-#EXTINF:-1 tvg-id="" tvg-name="[13:15] MLB : St. Louis Cardinals vs Milwaukee Brewers Arena Sport 3 Serbia" tvg-logo="" group-title="Live Events",[13:15] MLB : St. Louis Cardinals vs Milwaukee Brewers Arena Sport 3 Serbia
-http://74.208.207.247/proxy.php?dlstreams=431
+#EXTINF:-1 tvg-id="" tvg-name="[20:05] OHL | OHL : Brantford Bulldogs vs Sudbury Wolves (00:05)" tvg-logo="" group-title="Live Events",[20:05] OHL | OHL : Brantford Bulldogs vs Sudbury Wolves (00:05)
+http://74.208.207.247/iptv/proxy.php?dlstreams=197
 
-#EXTINF:-1 tvg-id="" tvg-name="[13:30] South Africa - DStv Premiership : Mamelodi Sundowns vs Kaizer Chiefs SuperSport PSL" tvg-logo="" group-title="Live Events",[13:30] South Africa - DStv Premiership : Mamelodi Sundowns vs Kaizer Chiefs SuperSport PSL
-http://74.208.207.247/proxy.php?dlstreams=413
+#EXTINF:-1 tvg-id="" tvg-name="[20:05] OHL | OHL : Flint Firebirds vs Windsor Spitfires (00:05)" tvg-logo="" group-title="Live Events",[20:05] OHL | OHL : Flint Firebirds vs Windsor Spitfires (00:05)
+http://74.208.207.247/iptv/proxy.php?dlstreams=198
 
-#EXTINF:-1 tvg-id="" tvg-name="[13:30] College Softball : Maine vs Binghamton ESPN+ USA" tvg-logo="" group-title="Live Events",[13:30] College Softball : Maine vs Binghamton ESPN+ USA
-http://74.208.207.247/proxy.php?dlstreams=155
+#EXTINF:-1 tvg-id="" tvg-name="[20:05] USHL | USHL : USA U18 vs Youngstown Phantoms (00:05)" tvg-logo="" group-title="Live Events",[20:05] USHL | USHL : USA U18 vs Youngstown Phantoms (00:05)
+http://74.208.207.247/iptv/proxy.php?dlstreams=206
 
-#EXTINF:-1 tvg-id="" tvg-name="[13:30] College Softball : Southeast Missouri State vs Western Illinois ESPN+ USA" tvg-logo="" group-title="Live Events",[13:30] College Softball : Southeast Missouri State vs Western Illinois ESPN+ USA
-http://74.208.207.247/proxy.php?dlstreams=156
+#EXTINF:-1 tvg-id="" tvg-name="[20:07] OHL | OHL : Erie Otters vs Guelph Storm (00:07)" tvg-logo="" group-title="Live Events",[20:07] OHL | OHL : Erie Otters vs Guelph Storm (00:07)
+http://74.208.207.247/iptv/proxy.php?dlstreams=199
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:00] Premier League / La Liga / Bundesliga League Matches (Football Season)\  May–June 2026 TNT Sports 1 UK" tvg-logo="" group-title="Live Events",[14:00] Premier League / La Liga / Bundesliga League Matches (Football Season)\  May–June 2026 TNT Sports 1 UK
-http://74.208.207.247/proxy.php?dlstreams=32
+#EXTINF:-1 tvg-id="" tvg-name="[20:10] ECHL | ECHL : Reading Royals vs Wheeling Nailers (00:10)" tvg-logo="" group-title="Live Events",[20:10] ECHL | ECHL : Reading Royals vs Wheeling Nailers (00:10)
+http://74.208.207.247/iptv/proxy.php?dlstreams=187
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:00] Saudi Arabia - Pro League : Al-Ahli vs Al Fateh Thmanyah" tvg-logo="" group-title="Live Events",[14:00] Saudi Arabia - Pro League : Al-Ahli vs Al Fateh Thmanyah
-http://74.208.207.247/proxy.php?dlstreams=5
+#EXTINF:-1 tvg-id="" tvg-name="[20:15] ECHL | ECHL : Trois-Rivieres Lions vs Maine Mariners (00:15)" tvg-logo="" group-title="Live Events",[20:15] ECHL | ECHL : Trois-Rivieres Lions vs Maine Mariners (00:15)
+http://74.208.207.247/iptv/proxy.php?dlstreams=188
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:00] Soccer : Al Hilal vs Damac Extra Stream" tvg-logo="" group-title="Live Events",[14:00] Soccer : Al Hilal vs Damac Extra Stream
-http://74.208.207.247/proxy.php?dlstreams=9
+#EXTINF:-1 tvg-id="" tvg-name="[20:15] ECHL | ECHL : Kalamazoo Wings vs Toledo Walleye (00:15)" tvg-logo="" group-title="Live Events",[20:15] ECHL | ECHL : Kalamazoo Wings vs Toledo Walleye (00:15)
+http://74.208.207.247/iptv/proxy.php?dlstreams=189
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:00] Soccer : Al Khaleej vs Al Najma Extra Stream" tvg-logo="" group-title="Live Events",[14:00] Soccer : Al Khaleej vs Al Najma Extra Stream
-http://74.208.207.247/proxy.php?dlstreams=10
+#EXTINF:-1 tvg-id="" tvg-name="[20:30] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Musetti L. vs Sonego L. (00:30)" tvg-logo="" group-title="Live Events",[20:30] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Musetti L. vs Sonego L. (00:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1502
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:00] Snooker World Seniors Championship 5 Action UK" tvg-logo="" group-title="Live Events",[14:00] Snooker World Seniors Championship 5 Action UK
-http://74.208.207.247/proxy.php?dlstreams=23
+#EXTINF:-1 tvg-id="" tvg-name="[20:30] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Musetti L. vs Sonego L. (00:30)" tvg-logo="" group-title="Live Events",[20:30] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Musetti L. vs Sonego L. (00:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1522
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:00] WSE Men&#039;s Champions League : FC Porto vs. Liceo Corunha RTP 2 Portugal" tvg-logo="" group-title="Live Events",[14:00] WSE Men&#039;s Champions League : FC Porto vs. Liceo Corunha RTP 2 Portugal
-http://74.208.207.247/proxy.php?dlstreams=720
+#EXTINF:-1 tvg-id="" tvg-name="[20:30] Basketball | Unrivaled Basketball Mist Basketball Club vs Rose Basketball Club (00:30)" tvg-logo="" group-title="Live Events",[20:30] Basketball | Unrivaled Basketball Mist Basketball Club vs Rose Basketball Club (00:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=338
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:10] MLB : Houston Astros vs Los Angeles Dodgers MLB league pass" tvg-logo="" group-title="Live Events",[14:10] MLB : Houston Astros vs Los Angeles Dodgers MLB league pass
-http://74.208.207.247/proxy.php?dlstreams=19
+#EXTINF:-1 tvg-id="" tvg-name="[20:30] Basketball | Unrivaled Basketball Mist Basketball Club vs Rose Basketball Club (00:30)" tvg-logo="" group-title="Live Events",[20:30] Basketball | Unrivaled Basketball Mist Basketball Club vs Rose Basketball Club (00:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=341
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:10] MLB : Houston Astros vs Los Angeles Dodgers MLB Network USA" tvg-logo="" group-title="Live Events",[14:10] MLB : Houston Astros vs Los Angeles Dodgers MLB Network USA
-http://74.208.207.247/proxy.php?dlstreams=399
+#EXTINF:-1 tvg-id="" tvg-name="[20:30] NCAA/NCAAW Basketball | NCAAW : Liberty vs Middle Tennessee (00:30)" tvg-logo="" group-title="Live Events",[20:30] NCAA/NCAAW Basketball | NCAAW : Liberty vs Middle Tennessee (00:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=108
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:10] MLB : Houston Astros vs Los Angeles Dodgers Space City Home Network" tvg-logo="" group-title="Live Events",[14:10] MLB : Houston Astros vs Los Angeles Dodgers Space City Home Network
-http://74.208.207.247/proxy.php?dlstreams=921
+#EXTINF:-1 tvg-id="" tvg-name="[20:30] NBA | NBA : Atlanta Hawks vs Phoenix Suns (00:30)" tvg-logo="" group-title="Live Events",[20:30] NBA | NBA : Atlanta Hawks vs Phoenix Suns (00:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=3
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:10] MLB : Houston Astros vs Los Angeles Dodgers Spectrum Sportsnet LA" tvg-logo="" group-title="Live Events",[14:10] MLB : Houston Astros vs Los Angeles Dodgers Spectrum Sportsnet LA
-http://74.208.207.247/proxy.php?dlstreams=764
+#EXTINF:-1 tvg-id="" tvg-name="[20:30] NBA | NBA : Atlanta Hawks vs Phoenix Suns (00:30)" tvg-logo="" group-title="Live Events",[20:30] NBA | NBA : Atlanta Hawks vs Phoenix Suns (00:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=899
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:15] Euroleague : Panathinaikos vs Valencia M+ Vamos Spain" tvg-logo="" group-title="Live Events",[14:15] Euroleague : Panathinaikos vs Valencia M+ Vamos Spain
-http://74.208.207.247/proxy.php?dlstreams=521
+#EXTINF:-1 tvg-id="" tvg-name="[20:30] NBA | NBA : Brooklyn Nets vs Boston Celtics (00:30)" tvg-logo="" group-title="Live Events",[20:30] NBA | NBA : Brooklyn Nets vs Boston Celtics (00:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=4
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:15] Euroleague : Panathinaikos vs Valencia Arena 3 Premium Serbia" tvg-logo="" group-title="Live Events",[14:15] Euroleague : Panathinaikos vs Valencia Arena 3 Premium Serbia
-http://74.208.207.247/proxy.php?dlstreams=139
+#EXTINF:-1 tvg-id="" tvg-name="[20:30] NBA | NBA : Brooklyn Nets vs Boston Celtics (00:30)" tvg-logo="" group-title="Live Events",[20:30] NBA | NBA : Brooklyn Nets vs Boston Celtics (00:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=754
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:15] Euroleague : Panathinaikos vs Valencia Nova Sports Prime Greece" tvg-logo="" group-title="Live Events",[14:15] Euroleague : Panathinaikos vs Valencia Nova Sports Prime Greece
-http://74.208.207.247/proxy.php?dlstreams=638
+#EXTINF:-1 tvg-id="" tvg-name="[20:30] NBA | NBA : Brooklyn Nets vs Boston Celtics (00:30)" tvg-logo="" group-title="Live Events",[20:30] NBA | NBA : Brooklyn Nets vs Boston Celtics (00:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=763
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:30] Serie A1 : Perugia vs Lube Civitanova Rai Sport Italy" tvg-logo="" group-title="Live Events",[14:30] Serie A1 : Perugia vs Lube Civitanova Rai Sport Italy
-http://74.208.207.247/proxy.php?dlstreams=882
+#EXTINF:-1 tvg-id="" tvg-name="[20:30] NBA | NBA : Brooklyn Nets vs Boston Celtics (00:30)" tvg-logo="" group-title="Live Events",[20:30] NBA | NBA : Brooklyn Nets vs Boston Celtics (00:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=147
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:30] Serie A1 : Perugia vs Lube Civitanova Polsat Sport 3 Poland" tvg-logo="" group-title="Live Events",[14:30] Serie A1 : Perugia vs Lube Civitanova Polsat Sport 3 Poland
-http://74.208.207.247/proxy.php?dlstreams=129
+#EXTINF:-1 tvg-id="" tvg-name="[20:30] NBA | NBA : Cleveland Cavaliers vs Sacramento Kings (00:30)" tvg-logo="" group-title="Live Events",[20:30] NBA | NBA : Cleveland Cavaliers vs Sacramento Kings (00:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=5
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:30] Serie A1 : Perugia vs Lube Civitanova Arena Sport 2 Serbia" tvg-logo="" group-title="Live Events",[14:30] Serie A1 : Perugia vs Lube Civitanova Arena Sport 2 Serbia
-http://74.208.207.247/proxy.php?dlstreams=430
+#EXTINF:-1 tvg-id="" tvg-name="[20:30] NBA | NBA : Cleveland Cavaliers vs Sacramento Kings (00:30)" tvg-logo="" group-title="Live Events",[20:30] NBA | NBA : Cleveland Cavaliers vs Sacramento Kings (00:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=755
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:30] Serie A1 : Perugia vs Lube Civitanova MAX Sport 3 Bulgaria" tvg-logo="" group-title="Live Events",[14:30] Serie A1 : Perugia vs Lube Civitanova MAX Sport 3 Bulgaria
-http://74.208.207.247/proxy.php?dlstreams=474
+#EXTINF:-1 tvg-id="" tvg-name="[20:30] Cycling | Tour Down Under | Stage 4 Men | Brighton – Willunga Hill (176km) (00:30)" tvg-logo="" group-title="Live Events",[20:30] Cycling | Tour Down Under | Stage 4 Men | Brighton – Willunga Hill (176km) (00:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=418
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:45] England - Women&#039;s Super League : Brighton &amp;amp; Hove Albion vs Arsenal BBC Three UK" tvg-logo="" group-title="Live Events",[14:45] England - Women&#039;s Super League : Brighton &amp;amp; Hove Albion vs Arsenal BBC Three UK
-http://74.208.207.247/proxy.php?dlstreams=358
+#EXTINF:-1 tvg-id="" tvg-name="[20:30] Gymnastics | Women's College Gymnastics : Missouri vs Alabama (00:30)" tvg-logo="" group-title="Live Events",[20:30] Gymnastics | Women's College Gymnastics : Missouri vs Alabama (00:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=153
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:45] England - Women&#039;s Super League : Brighton &amp;amp; Hove Albion vs Arsenal Sky Sports MIX UK" tvg-logo="" group-title="Live Events",[14:45] England - Women&#039;s Super League : Brighton &amp;amp; Hove Albion vs Arsenal Sky Sports MIX UK
-http://74.208.207.247/proxy.php?dlstreams=449
+#EXTINF:-1 tvg-id="" tvg-name="[20:30] Lacross (NLL) | NLL Lacrosse : Vancouver Warriors vs. Ottawa Rebel (00:30)" tvg-logo="" group-title="Live Events",[20:30] Lacross (NLL) | NLL Lacrosse : Vancouver Warriors vs. Ottawa Rebel (00:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=115
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:45] England - Women&#039;s Super League : Brighton &amp;amp; Hove Albion vs Arsenal Sky Sports Football UK" tvg-logo="" group-title="Live Events",[14:45] England - Women&#039;s Super League : Brighton &amp;amp; Hove Albion vs Arsenal Sky Sports Football UK
-http://74.208.207.247/proxy.php?dlstreams=35
+#EXTINF:-1 tvg-id="" tvg-name="[20:30] NCAA Ice Hockey | College Hockey : Connecticut at Yale (00:30)" tvg-logo="" group-title="Live Events",[20:30] NCAA Ice Hockey | College Hockey : Connecticut at Yale (00:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=759
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:45] England - Women&#039;s Super League : Brighton &amp;amp; Hove Albion vs Arsenal Sky Sports Main Event UK" tvg-logo="" group-title="Live Events",[14:45] England - Women&#039;s Super League : Brighton &amp;amp; Hove Albion vs Arsenal Sky Sports Main Event UK
-http://74.208.207.247/proxy.php?dlstreams=38
+#EXTINF:-1 tvg-id="" tvg-name="[20:35] USHL | USHL : Tri-City Storm vs Waterloo Black Hawks (00:35)" tvg-logo="" group-title="Live Events",[20:35] USHL | USHL : Tri-City Storm vs Waterloo Black Hawks (00:35)
+http://74.208.207.247/iptv/proxy.php?dlstreams=207
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:45] England - Women&#039;s Super League : Brighton &amp;amp; Hove Albion vs Arsenal Sportsnet World" tvg-logo="" group-title="Live Events",[14:45] England - Women&#039;s Super League : Brighton &amp;amp; Hove Albion vs Arsenal Sportsnet World
-http://74.208.207.247/proxy.php?dlstreams=410
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] MMA | ONE Friday Fights 139 : Bokang Masunyane vs Ryohei Kurosawa (01:00)" tvg-logo="" group-title="Live Events",[21:00] MMA | ONE Friday Fights 139 : Bokang Masunyane vs Ryohei Kurosawa (01:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=449
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:45] England - Women&#039;s Super League : Brighton &amp;amp; Hove Albion vs Arsenal beIN Sports 3 Malaysia" tvg-logo="" group-title="Live Events",[14:45] England - Women&#039;s Super League : Brighton &amp;amp; Hove Albion vs Arsenal beIN Sports 3 Malaysia
-http://74.208.207.247/proxy.php?dlstreams=714
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] MMA | ONE Friday Fights 139 : Bokang Masunyane vs Ryohei Kurosawa (01:00)" tvg-logo="" group-title="Live Events",[21:00] MMA | ONE Friday Fights 139 : Bokang Masunyane vs Ryohei Kurosawa (01:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=395
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:45] England - Women&#039;s Super League : Brighton &amp;amp; Hove Albion vs Arsenal Polsat Sport Extra 3 Poland" tvg-logo="" group-title="Live Events",[14:45] England - Women&#039;s Super League : Brighton &amp;amp; Hove Albion vs Arsenal Polsat Sport Extra 3 Poland
-http://74.208.207.247/proxy.php?dlstreams=995
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] MMA | ONE Friday Fights 139 : Bokang Masunyane vs Ryohei Kurosawa (01:00)" tvg-logo="" group-title="Live Events",[21:00] MMA | ONE Friday Fights 139 : Bokang Masunyane vs Ryohei Kurosawa (01:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=127
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:45] England - Women&#039;s Super League : Brighton &amp;amp; Hove Albion vs Arsenal Polsat Sport Extra 1 Poland" tvg-logo="" group-title="Live Events",[14:45] England - Women&#039;s Super League : Brighton &amp;amp; Hove Albion vs Arsenal Polsat Sport Extra 1 Poland
-http://74.208.207.247/proxy.php?dlstreams=993
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] MMA | ONE Friday Fights 139 : Bokang Masunyane vs Ryohei Kurosawa (01:00)" tvg-logo="" group-title="Live Events",[21:00] MMA | ONE Friday Fights 139 : Bokang Masunyane vs Ryohei Kurosawa (01:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=119
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:45] England - Women&#039;s Super League : Brighton &amp;amp; Hove Albion vs Arsenal ESPN4 Brazil" tvg-logo="" group-title="Live Events",[14:45] England - Women&#039;s Super League : Brighton &amp;amp; Hove Albion vs Arsenal ESPN4 Brazil
-http://74.208.207.247/proxy.php?dlstreams=85
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] MMA | ONE Friday Fights 139 : Bokang Masunyane vs Ryohei Kurosawa (01:00)" tvg-logo="" group-title="Live Events",[21:00] MMA | ONE Friday Fights 139 : Bokang Masunyane vs Ryohei Kurosawa (01:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=74
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:45] England - Women&#039;s Super League : Brighton &amp;amp; Hove Albion vs Arsenal Dubai Sports 1" tvg-logo="" group-title="Live Events",[14:45] England - Women&#039;s Super League : Brighton &amp;amp; Hove Albion vs Arsenal Dubai Sports 1
-http://74.208.207.247/proxy.php?dlstreams=604
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] MMA | ONE Friday Fights 139 : Bokang Masunyane vs Ryohei Kurosawa (01:00)" tvg-logo="" group-title="Live Events",[21:00] MMA | ONE Friday Fights 139 : Bokang Masunyane vs Ryohei Kurosawa (01:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=635
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:45] England - Women&#039;s Super League : Brighton &amp;amp; Hove Albion vs Arsenal TV4 Sportkanalen" tvg-logo="" group-title="Live Events",[14:45] England - Women&#039;s Super League : Brighton &amp;amp; Hove Albion vs Arsenal TV4 Sportkanalen
-http://74.208.207.247/proxy.php?dlstreams=707
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] Am. Football | College Football All-Star Game : The American Bowl (01:00)" tvg-logo="" group-title="Live Events",[21:00] Am. Football | College Football All-Star Game : The American Bowl (01:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=405
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:45] Soccer : Southampton vs Ipswich Town Extra Stream" tvg-logo="" group-title="Live Events",[14:45] Soccer : Southampton vs Ipswich Town Extra Stream
-http://74.208.207.247/proxy.php?dlstreams=11
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] NBA G-League | NBA G-League : Capital City Go-Go vs Austin Spurs (01:00)" tvg-logo="" group-title="Live Events",[21:00] NBA G-League | NBA G-League : Capital City Go-Go vs Austin Spurs (01:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=172
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:45] Soccer : Northampton Town vs Barnsley Extra Stream" tvg-logo="" group-title="Live Events",[14:45] Soccer : Northampton Town vs Barnsley Extra Stream
-http://74.208.207.247/proxy.php?dlstreams=12
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] NCAA/NCAAW Basketball | NCAA : Ohio vs Akron (01:00)" tvg-logo="" group-title="Live Events",[21:00] NCAA/NCAAW Basketball | NCAA : Ohio vs Akron (01:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=316
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:45] Soccer : Peterborough United vs Mansfield Town Extra Stream" tvg-logo="" group-title="Live Events",[14:45] Soccer : Peterborough United vs Mansfield Town Extra Stream
-http://74.208.207.247/proxy.php?dlstreams=13
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] NCAA/NCAAW Basketball | NCAA : Butler vs Marquette (01:00)" tvg-logo="" group-title="Live Events",[21:00] NCAA/NCAAW Basketball | NCAA : Butler vs Marquette (01:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=39
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:45] Soccer : Stockport County vs Port Vale Extra Stream" tvg-logo="" group-title="Live Events",[14:45] Soccer : Stockport County vs Port Vale Extra Stream
-http://74.208.207.247/proxy.php?dlstreams=14
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] NCAA/NCAAW Basketball | NCAA : Michigan vs Ohio State (01:00)" tvg-logo="" group-title="Live Events",[21:00] NCAA/NCAAW Basketball | NCAA : Michigan vs Ohio State (01:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=54
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:45] Soccer : USM Alger vs Paradou Extra Stream" tvg-logo="" group-title="Live Events",[14:45] Soccer : USM Alger vs Paradou Extra Stream
-http://74.208.207.247/proxy.php?dlstreams=15
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] NCAA/NCAAW Basketball | NCAA : Michigan vs Ohio State (01:00)" tvg-logo="" group-title="Live Events",[21:00] NCAA/NCAAW Basketball | NCAA : Michigan vs Ohio State (01:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=768
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:45] Champions League : Barcelona vs Nantes DAZN 2 Spain" tvg-logo="" group-title="Live Events",[14:45] Champions League : Barcelona vs Nantes DAZN 2 Spain
-http://74.208.207.247/proxy.php?dlstreams=446
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] NBA | NBA : Memphis Grizzlies vs New Orleans Pelicans (01:00)" tvg-logo="" group-title="Live Events",[21:00] NBA | NBA : Memphis Grizzlies vs New Orleans Pelicans (01:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=6
 
-#EXTINF:-1 tvg-id="" tvg-name="[14:45] Champions League : Aalborg vs Sporting Arena Sport 1 Serbia" tvg-logo="" group-title="Live Events",[14:45] Champions League : Aalborg vs Sporting Arena Sport 1 Serbia
-http://74.208.207.247/proxy.php?dlstreams=429
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] NBA | NBA : Oklahoma City Thunder vs Indiana Pacers (01:00)" tvg-logo="" group-title="Live Events",[21:00] NBA | NBA : Oklahoma City Thunder vs Indiana Pacers (01:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=7
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG TNT Sports 1 UK" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG TNT Sports 1 UK
-http://74.208.207.247/proxy.php?dlstreams=31
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] NBA | NBA : Oklahoma City Thunder vs Indiana Pacers (01:00)" tvg-logo="" group-title="Live Events",[21:00] NBA | NBA : Oklahoma City Thunder vs Indiana Pacers (01:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=894
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG RTE 2 Ireland" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG RTE 2 Ireland
-http://74.208.207.247/proxy.php?dlstreams=365
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] NBA | NBA : Oklahoma City Thunder vs Indiana Pacers (01:00)" tvg-logo="" group-title="Live Events",[21:00] NBA | NBA : Oklahoma City Thunder vs Indiana Pacers (01:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=900
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG Movistar Liga de Campeones" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG Movistar Liga de Campeones
-http://74.208.207.247/proxy.php?dlstreams=435
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] NHL | NHL : St. Louis Blues vs Dallas Stars (01:00)" tvg-logo="" group-title="Live Events",[21:00] NHL | NHL : St. Louis Blues vs Dallas Stars (01:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=12
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG DAZN1 DE" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG DAZN1 DE
-http://74.208.207.247/proxy.php?dlstreams=426
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] NHL | NHL : St. Louis Blues vs Dallas Stars (01:00)" tvg-logo="" group-title="Live Events",[21:00] NHL | NHL : St. Louis Blues vs Dallas Stars (01:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=895
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG TVP Sport Poland" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG TVP Sport Poland
-http://74.208.207.247/proxy.php?dlstreams=128
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] NHL | NHL : St. Louis Blues vs Dallas Stars (01:00)" tvg-logo="" group-title="Live Events",[21:00] NHL | NHL : St. Louis Blues vs Dallas Stars (01:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=896
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG TVP1 Poland" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG TVP1 Poland
-http://74.208.207.247/proxy.php?dlstreams=560
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] NCAA Volleyball | College Volleyball : Simpson University vs UC Merced (01:00)" tvg-logo="" group-title="Live Events",[21:00] NCAA Volleyball | College Volleyball : Simpson University vs UC Merced (01:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=227
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG TUDN USA" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG TUDN USA
-http://74.208.207.247/proxy.php?dlstreams=66
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] WWE (SmackDown) | WWE Friday Night SmackDown (01:00)" tvg-logo="" group-title="Live Events",[21:00] WWE (SmackDown) | WWE Friday Night SmackDown (01:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=343
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG Univision" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG Univision
-http://74.208.207.247/proxy.php?dlstreams=132
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] WWE (SmackDown) | WWE Friday Night SmackDown (01:00)" tvg-logo="" group-title="Live Events",[21:00] WWE (SmackDown) | WWE Friday Night SmackDown (01:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=145
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG Sport TV5 Portugal" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG Sport TV5 Portugal
-http://74.208.207.247/proxy.php?dlstreams=290
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] Gymnastics | Women's College Gymnastics : Towson vs Arizona (01:00)" tvg-logo="" group-title="Live Events",[21:00] Gymnastics | Women's College Gymnastics : Towson vs Arizona (01:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=154
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG Canal+ Foot France" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG Canal+ Foot France
-http://74.208.207.247/proxy.php?dlstreams=463
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] AHL | AHL : Grand Rapids Griffins vs Manitoba Moose (01:00)" tvg-logo="" group-title="Live Events",[21:00] AHL | AHL : Grand Rapids Griffins vs Manitoba Moose (01:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=166
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG Arena 1 Premium Serbia" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG Arena 1 Premium Serbia
-http://74.208.207.247/proxy.php?dlstreams=134
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] AHL | AHL : Texas Stars vs Rockford IceHogs (01:00)" tvg-logo="" group-title="Live Events",[21:00] AHL | AHL : Texas Stars vs Rockford IceHogs (01:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=167
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG SONY TEN 3 HD" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG SONY TEN 3 HD
-http://74.208.207.247/proxy.php?dlstreams=887
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] ECHL | ECHL : Cincinnati Cyclones vs Bloomington Bison (01:00)" tvg-logo="" group-title="Live Events",[21:00] ECHL | ECHL : Cincinnati Cyclones vs Bloomington Bison (01:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=190
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG TV2 Sport Norway" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG TV2 Sport Norway
-http://74.208.207.247/proxy.php?dlstreams=6
+#EXTINF:-1 tvg-id="" tvg-name="[21:05] Cricket | Super Smash Women : Central Hinds W vs Otago Sparks W (01:05)" tvg-logo="" group-title="Live Events",[21:05] Cricket | Super Smash Women : Central Hinds W vs Otago Sparks W (01:05)
+http://74.208.207.247/iptv/proxy.php?dlstreams=368
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG Ziggo Sport 1 NL" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG Ziggo Sport 1 NL
-http://74.208.207.247/proxy.php?dlstreams=393
+#EXTINF:-1 tvg-id="" tvg-name="[21:05] ECHL | ECHL : Tahoe Knight Monsters vs Kansas City (01:05)" tvg-logo="" group-title="Live Events",[21:05] ECHL | ECHL : Tahoe Knight Monsters vs Kansas City (01:05)
+http://74.208.207.247/iptv/proxy.php?dlstreams=191
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG beIN Sports Malaysia" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG beIN Sports Malaysia
-http://74.208.207.247/proxy.php?dlstreams=712
+#EXTINF:-1 tvg-id="" tvg-name="[21:05] USHL | USHL : USA U18 vs Cedar Rapids (01:05)" tvg-logo="" group-title="Live Events",[21:05] USHL | USHL : USA U18 vs Cedar Rapids (01:05)
+http://74.208.207.247/iptv/proxy.php?dlstreams=208
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG Tring Sport 1 Albania" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG Tring Sport 1 Albania
-http://74.208.207.247/proxy.php?dlstreams=165
+#EXTINF:-1 tvg-id="" tvg-name="[21:05] USHL | USHL : Sioux Falls Stampede vs Dubuque Fighting Saints (01:05)" tvg-logo="" group-title="Live Events",[21:05] USHL | USHL : Sioux Falls Stampede vs Dubuque Fighting Saints (01:05)
+http://74.208.207.247/iptv/proxy.php?dlstreams=209
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG Ictimai Azerbaijan" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG Ictimai Azerbaijan
-http://74.208.207.247/proxy.php?dlstreams=166
+#EXTINF:-1 tvg-id="" tvg-name="[21:05] USHL | USHL : Muskegon Lumberjacks vs Green Bay Gamblers (01:05)" tvg-logo="" group-title="Live Events",[21:05] USHL | USHL : Muskegon Lumberjacks vs Green Bay Gamblers (01:05)
+http://74.208.207.247/iptv/proxy.php?dlstreams=210
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG HRT 2 Croatia" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG HRT 2 Croatia
-http://74.208.207.247/proxy.php?dlstreams=29
+#EXTINF:-1 tvg-id="" tvg-name="[21:05] USHL | USHL : Chicago Steel vs Madison Capitols (01:05)" tvg-logo="" group-title="Live Events",[21:05] USHL | USHL : Chicago Steel vs Madison Capitols (01:05)
+http://74.208.207.247/iptv/proxy.php?dlstreams=211
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG Amazon Prime Video Italy" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG Amazon Prime Video Italy
-http://74.208.207.247/proxy.php?dlstreams=167
+#EXTINF:-1 tvg-id="" tvg-name="[21:05] USHL | USHL : Lincoln Stars vs Sioux City (01:05)" tvg-logo="" group-title="Live Events",[21:05] USHL | USHL : Lincoln Stars vs Sioux City (01:05)
+http://74.208.207.247/iptv/proxy.php?dlstreams=212
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG Blue Sport D 2" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG Blue Sport D 2
-http://74.208.207.247/proxy.php?dlstreams=168
+#EXTINF:-1 tvg-id="" tvg-name="[21:15] Soccer | Argentina - Primera División : Talleres Córdoba vs Newell's Old Boys (01:15)" tvg-logo="" group-title="Live Events",[21:15] Soccer | Argentina - Primera División : Talleres Córdoba vs Newell's Old Boys (01:15)
+http://74.208.207.247/iptv/proxy.php?dlstreams=149
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG Cytavision Sports 3 Cyprus" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG Cytavision Sports 3 Cyprus
-http://74.208.207.247/proxy.php?dlstreams=913
+#EXTINF:-1 tvg-id="" tvg-name="[21:15] Soccer | Argentina - Primera División : Talleres Córdoba vs Newell's Old Boys (01:15)" tvg-logo="" group-title="Live Events",[21:15] Soccer | Argentina - Primera División : Talleres Córdoba vs Newell's Old Boys (01:15)
+http://74.208.207.247/iptv/proxy.php?dlstreams=387
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG Club RTL Belgium" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG Club RTL Belgium
-http://74.208.207.247/proxy.php?dlstreams=7
+#EXTINF:-1 tvg-id="" tvg-name="[21:15] Soccer | Argentina - Primera División : Independiente Rivadavia vs Atlético Tucumán (01:15)" tvg-logo="" group-title="Live Events",[21:15] Soccer | Argentina - Primera División : Independiente Rivadavia vs Atlético Tucumán (01:15)
+http://74.208.207.247/iptv/proxy.php?dlstreams=388
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG Cosmote Sport 1 Greece" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG Cosmote Sport 1 Greece
-http://74.208.207.247/proxy.php?dlstreams=622
+#EXTINF:-1 tvg-id="" tvg-name="[21:30] Soccer | Colombia - Primera A : Deportes Tolima vs Alianza (01:30)" tvg-logo="" group-title="Live Events",[21:30] Soccer | Colombia - Primera A : Deportes Tolima vs Alianza (01:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=392
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG TV3+ HD Denmark" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG TV3+ HD Denmark
-http://74.208.207.247/proxy.php?dlstreams=819
+#EXTINF:-1 tvg-id="" tvg-name="[21:30] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Hurkacz H. vs Quinn E. (01:30)" tvg-logo="" group-title="Live Events",[21:30] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Hurkacz H. vs Quinn E. (01:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1518
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG Arena Sport 1 Croatia" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG Arena Sport 1 Croatia
-http://74.208.207.247/proxy.php?dlstreams=432
+#EXTINF:-1 tvg-id="" tvg-name="[21:30] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Hurkacz H. vs Quinn E. (01:30)" tvg-logo="" group-title="Live Events",[21:30] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Hurkacz H. vs Quinn E. (01:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1538
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG V Sport Premium" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG V Sport Premium
-http://74.208.207.247/proxy.php?dlstreams=8
+#EXTINF:-1 tvg-id="" tvg-name="[21:30] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Shelton B. vs Sweeny D. (01:30)" tvg-logo="" group-title="Live Events",[21:30] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Shelton B. vs Sweeny D. (01:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1503
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG bTV Action Bulgaria" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG bTV Action Bulgaria
-http://74.208.207.247/proxy.php?dlstreams=481
+#EXTINF:-1 tvg-id="" tvg-name="[21:30] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Shelton B. vs Sweeny D. (01:30)" tvg-logo="" group-title="Live Events",[21:30] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Shelton B. vs Sweeny D. (01:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1523
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG TNT Brasil" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG TNT Brasil
-http://74.208.207.247/proxy.php?dlstreams=87
+#EXTINF:-1 tvg-id="" tvg-name="[21:30] Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Arevalo M./Pavic M. vs Brkic T./Dzumhur D. (01:30)" tvg-logo="" group-title="Live Events",[21:30] Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Arevalo M./Pavic M. vs Brkic T./Dzumhur D. (01:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1511
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG ESPN Argentina" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG ESPN Argentina
-http://74.208.207.247/proxy.php?dlstreams=149
+#EXTINF:-1 tvg-id="" tvg-name="[21:30] Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Arevalo M./Pavic M. vs Brkic T./Dzumhur D. (01:30)" tvg-logo="" group-title="Live Events",[21:30] Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Arevalo M./Pavic M. vs Brkic T./Dzumhur D. (01:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1531
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG Fox Sports Argentina" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG Fox Sports Argentina
-http://74.208.207.247/proxy.php?dlstreams=787
+#EXTINF:-1 tvg-id="" tvg-name="[21:30] Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Doumbia S./Reboul F. vs Arends S./Arneodo R. (01:30)" tvg-logo="" group-title="Live Events",[21:30] Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Doumbia S./Reboul F. vs Arends S./Arneodo R. (01:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1512
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG SuperSport MaXimo 1" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG SuperSport MaXimo 1
-http://74.208.207.247/proxy.php?dlstreams=572
+#EXTINF:-1 tvg-id="" tvg-name="[21:30] Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Doumbia S./Reboul F. vs Arends S./Arneodo R. (01:30)" tvg-logo="" group-title="Live Events",[21:30] Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Doumbia S./Reboul F. vs Arends S./Arneodo R. (01:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1532
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG SuperSport Premier League" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG SuperSport Premier League
-http://74.208.207.247/proxy.php?dlstreams=414
+#EXTINF:-1 tvg-id="" tvg-name="[21:30] Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Hidalgo D./Trhac P. vs Heliovaara H./Patten H. (01:30)" tvg-logo="" group-title="Live Events",[21:30] Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Hidalgo D./Trhac P. vs Heliovaara H./Patten H. (01:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1508
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG beIN Sports MENA 1" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG beIN Sports MENA 1
-http://74.208.207.247/proxy.php?dlstreams=91
+#EXTINF:-1 tvg-id="" tvg-name="[21:30] Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Hidalgo D./Trhac P. vs Heliovaara H./Patten H. (01:30)" tvg-logo="" group-title="Live Events",[21:30] Tennis ATP DOUBLES - AUSTRALIAN OPEN | ATP DOUBLES AO : Hidalgo D./Trhac P. vs Heliovaara H./Patten H. (01:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1528
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG beIN Sports MENA English 1" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG beIN Sports MENA English 1
-http://74.208.207.247/proxy.php?dlstreams=61
+#EXTINF:-1 tvg-id="" tvg-name="[21:30] Gymnastics | Women's College Gymnastics : Southeast Missouri State vs Arkansas (01:30)" tvg-logo="" group-title="Live Events",[21:30] Gymnastics | Women's College Gymnastics : Southeast Missouri State vs Arkansas (01:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=155
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG 5Plus Israel" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG 5Plus Israel
-http://74.208.207.247/proxy.php?dlstreams=145
+#EXTINF:-1 tvg-id="" tvg-name="[21:45] Gymnastics | Women's College Gymnastics : Florida vs Auburn (01:45)" tvg-logo="" group-title="Live Events",[21:45] Gymnastics | Women's College Gymnastics : Florida vs Auburn (01:45)
+http://74.208.207.247/iptv/proxy.php?dlstreams=156
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Europe - UEFA Champions League : Bayern München vs PSG 5 Live Israel" tvg-logo="" group-title="Live Events",[15:00] Europe - UEFA Champions League : Bayern München vs PSG 5 Live Israel
-http://74.208.207.247/proxy.php?dlstreams=146
+#EXTINF:-1 tvg-id="" tvg-name="[22:00] WWE (TNA) | TNA iMPACT! (02:00)" tvg-logo="" group-title="Live Events",[22:00] WWE (TNA) | TNA iMPACT! (02:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=303
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] College Baseball : UMass Lowell vs UMass Amherst ESPN+ USA" tvg-logo="" group-title="Live Events",[15:00] College Baseball : UMass Lowell vs UMass Amherst ESPN+ USA
-http://74.208.207.247/proxy.php?dlstreams=157
+#EXTINF:-1 tvg-id="" tvg-name="[22:00] WWE (TNA) | TNA iMPACT! (02:00)" tvg-logo="" group-title="Live Events",[22:00] WWE (TNA) | TNA iMPACT! (02:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=409
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:10] MLB : Colorado Rockies vs New York Mets SportsNet New York" tvg-logo="" group-title="Live Events",[15:10] MLB : Colorado Rockies vs New York Mets SportsNet New York
-http://74.208.207.247/proxy.php?dlstreams=759
+#EXTINF:-1 tvg-id="" tvg-name="[22:00] NHL | NHL : Philadelphia Flyers vs Colorado Avalanche (02:00)" tvg-logo="" group-title="Live Events",[22:00] NHL | NHL : Philadelphia Flyers vs Colorado Avalanche (02:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=13
 
-#EXTINF:-1 tvg-id="" tvg-name="[15:45] MLB : San Francisco Giants vs San Diego Padres NBC Sports Bay Area" tvg-logo="" group-title="Live Events",[15:45] MLB : San Francisco Giants vs San Diego Padres NBC Sports Bay Area
-http://74.208.207.247/proxy.php?dlstreams=753
+#EXTINF:-1 tvg-id="" tvg-name="[22:00] NHL | NHL : Philadelphia Flyers vs Colorado Avalanche (02:00)" tvg-logo="" group-title="Live Events",[22:00] NHL | NHL : Philadelphia Flyers vs Colorado Avalanche (02:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=923
 
-#EXTINF:-1 tvg-id="" tvg-name="[16:00] WWE Backlash 2026 (Wrestling PPV)\  9 May 2026 WWE Network" tvg-logo="" group-title="Live Events",[16:00] WWE Backlash 2026 (Wrestling PPV)\  9 May 2026 WWE Network
-http://74.208.207.247/proxy.php?dlstreams=376
+#EXTINF:-1 tvg-id="" tvg-name="[22:00] NHL | NHL : Philadelphia Flyers vs Colorado Avalanche (02:00)" tvg-logo="" group-title="Live Events",[22:00] NHL | NHL : Philadelphia Flyers vs Colorado Avalanche (02:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=777
 
-#EXTINF:-1 tvg-id="" tvg-name="[16:00] College Baseball : Morehead State vs Ohio ESPN+ USA" tvg-logo="" group-title="Live Events",[16:00] College Baseball : Morehead State vs Ohio ESPN+ USA
-http://74.208.207.247/proxy.php?dlstreams=158
+#EXTINF:-1 tvg-id="" tvg-name="[22:00] NHL | NHL : Philadelphia Flyers vs Colorado Avalanche (02:00)" tvg-logo="" group-title="Live Events",[22:00] NHL | NHL : Philadelphia Flyers vs Colorado Avalanche (02:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=454
 
-#EXTINF:-1 tvg-id="" tvg-name="[16:07] MLB : Los Angeles Angels vs Chicago White Sox Chicago Sports Network" tvg-logo="" group-title="Live Events",[16:07] MLB : Los Angeles Angels vs Chicago White Sox Chicago Sports Network
-http://74.208.207.247/proxy.php?dlstreams=776
+#EXTINF:-1 tvg-id="" tvg-name="[22:00] NHL | NHL : Washington Capitals vs Calgary Flames (02:00)" tvg-logo="" group-title="Live Events",[22:00] NHL | NHL : Washington Capitals vs Calgary Flames (02:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=14
 
-#EXTINF:-1 tvg-id="" tvg-name="[16:10] MLB : Seattle Mariners - Atlanta Braves MLB league pass" tvg-logo="" group-title="Live Events",[16:10] MLB : Seattle Mariners - Atlanta Braves MLB league pass
-http://74.208.207.247/proxy.php?dlstreams=22
+#EXTINF:-1 tvg-id="" tvg-name="[22:00] NHL | NHL : Washington Capitals vs Calgary Flames (02:00)" tvg-logo="" group-title="Live Events",[22:00] NHL | NHL : Washington Capitals vs Calgary Flames (02:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=778
 
-#EXTINF:-1 tvg-id="" tvg-name="[17:00] UFC Fight Night: Della Maddalena vs. Prates (May 3\  2026) UFC Fight Pass" tvg-logo="" group-title="Live Events",[17:00] UFC Fight Night: Della Maddalena vs. Prates (May 3\  2026) UFC Fight Pass
-http://74.208.207.247/proxy.php?dlstreams=00
+#EXTINF:-1 tvg-id="" tvg-name="[22:00] NHL | NHL : Washington Capitals vs Calgary Flames (02:00)" tvg-logo="" group-title="Live Events",[22:00] NHL | NHL : Washington Capitals vs Calgary Flames (02:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=411
 
-#EXTINF:-1 tvg-id="" tvg-name="[17:00] High School Basketball : John Marshall vs Steubenville BigRed FOX USA" tvg-logo="" group-title="Live Events",[17:00] High School Basketball : John Marshall vs Steubenville BigRed FOX USA
-http://74.208.207.247/proxy.php?dlstreams=54
+#EXTINF:-1 tvg-id="" tvg-name="[22:00] NCAA Volleyball | College Volleyball : UC Irvine vs BYU (02:00)" tvg-logo="" group-title="Live Events",[22:00] NCAA Volleyball | College Volleyball : UC Irvine vs BYU (02:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=228
 
-#EXTINF:-1 tvg-id="" tvg-name="[17:30] WSL Tour World Surf League: 2026 WSL Championship Tour: Bonsoy Gold Coast Pro Sport TV6 Portugal" tvg-logo="" group-title="Live Events",[17:30] WSL Tour World Surf League: 2026 WSL Championship Tour: Bonsoy Gold Coast Pro Sport TV6 Portugal
-http://74.208.207.247/proxy.php?dlstreams=291
+#EXTINF:-1 tvg-id="" tvg-name="[22:00] NCAA Volleyball | College Volleyball : UC Santa Barbara vs Stanford (02:00)" tvg-logo="" group-title="Live Events",[22:00] NCAA Volleyball | College Volleyball : UC Santa Barbara vs Stanford (02:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=229
 
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] Tony Awards 2026 (TV Awards Show)\  June 7\  2026 CBS" tvg-logo="" group-title="Live Events",[18:00] Tony Awards 2026 (TV Awards Show)\  June 7\  2026 CBS
-http://74.208.207.247/proxy.php?dlstreams=52
+#EXTINF:-1 tvg-id="" tvg-name="[22:00] NCAA Volleyball | College Volleyball : Bay Area Dimes vs Menlo (02:00)" tvg-logo="" group-title="Live Events",[22:00] NCAA Volleyball | College Volleyball : Bay Area Dimes vs Menlo (02:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=230
 
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] Copa Libertadores : Cusco vs Estudiantes beIN SPORTS USA" tvg-logo="" group-title="Live Events",[18:00] Copa Libertadores : Cusco vs Estudiantes beIN SPORTS USA
-http://74.208.207.247/proxy.php?dlstreams=425
+#EXTINF:-1 tvg-id="" tvg-name="[22:00] Gymnastics | Women's College Gymnastics : BYU vs Arizona State (02:00)" tvg-logo="" group-title="Live Events",[22:00] Gymnastics | Women's College Gymnastics : BYU vs Arizona State (02:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=157
 
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] Copa Libertadores : Cusco vs Estudiantes beIN SPORTS en Español" tvg-logo="" group-title="Live Events",[18:00] Copa Libertadores : Cusco vs Estudiantes beIN SPORTS en Español
-http://74.208.207.247/proxy.php?dlstreams=372
+#EXTINF:-1 tvg-id="" tvg-name="[22:05] ECHL | ECHL : Utah Grizzlies vs Rapid City Rush (02:05)" tvg-logo="" group-title="Live Events",[22:05] ECHL | ECHL : Utah Grizzlies vs Rapid City Rush (02:05)
+http://74.208.207.247/iptv/proxy.php?dlstreams=192
 
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] Copa Libertadores : Cusco vs Estudiantes SPORT1+ DE" tvg-logo="" group-title="Live Events",[18:00] Copa Libertadores : Cusco vs Estudiantes SPORT1+ DE
-http://74.208.207.247/proxy.php?dlstreams=640
+#EXTINF:-1 tvg-id="" tvg-name="[22:10] ECHL | ECHL : Allen Americans vs Idaho Steelheads (02:10)" tvg-logo="" group-title="Live Events",[22:10] ECHL | ECHL : Allen Americans vs Idaho Steelheads (02:10)
+http://74.208.207.247/iptv/proxy.php?dlstreams=193
 
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] Copa Libertadores : Cusco vs Estudiantes ESPN2 Mexico" tvg-logo="" group-title="Live Events",[18:00] Copa Libertadores : Cusco vs Estudiantes ESPN2 Mexico
-http://74.208.207.247/proxy.php?dlstreams=926
+#EXTINF:-1 tvg-id="" tvg-name="[22:30] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Maestrelli F. vs Djokovic N. (02:30)" tvg-logo="" group-title="Live Events",[22:30] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Maestrelli F. vs Djokovic N. (02:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1501
 
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] Copa Libertadores : Cusco vs Estudiantes Arena 2 Premium Serbia" tvg-logo="" group-title="Live Events",[18:00] Copa Libertadores : Cusco vs Estudiantes Arena 2 Premium Serbia
-http://74.208.207.247/proxy.php?dlstreams=135
+#EXTINF:-1 tvg-id="" tvg-name="[22:30] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Maestrelli F. vs Djokovic N. (02:30)" tvg-logo="" group-title="Live Events",[22:30] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Maestrelli F. vs Djokovic N. (02:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1521
 
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] Copa Libertadores : Cusco vs Estudiantes ESPN Brazil" tvg-logo="" group-title="Live Events",[18:00] Copa Libertadores : Cusco vs Estudiantes ESPN Brazil
-http://74.208.207.247/proxy.php?dlstreams=81
+#EXTINF:-1 tvg-id="" tvg-name="[22:30] NBA | NBA : Milwaukee Bucks vs Denver Nuggets (02:30)" tvg-logo="" group-title="Live Events",[22:30] NBA | NBA : Milwaukee Bucks vs Denver Nuggets (02:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=8
 
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] Copa Libertadores : Deportivo La Guaira vs Bolívar FOX Sports 3 Argentina" tvg-logo="" group-title="Live Events",[18:00] Copa Libertadores : Deportivo La Guaira vs Bolívar FOX Sports 3 Argentina
-http://74.208.207.247/proxy.php?dlstreams=789
+#EXTINF:-1 tvg-id="" tvg-name="[22:30] NBA | NBA : Milwaukee Bucks vs Denver Nuggets (02:30)" tvg-logo="" group-title="Live Events",[22:30] NBA | NBA : Milwaukee Bucks vs Denver Nuggets (02:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=907
 
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] Copa Libertadores : Deportivo La Guaira vs Bolívar beIN Sports MENA 2" tvg-logo="" group-title="Live Events",[18:00] Copa Libertadores : Deportivo La Guaira vs Bolívar beIN Sports MENA 2
-http://74.208.207.247/proxy.php?dlstreams=92
+#EXTINF:-1 tvg-id="" tvg-name="[22:30] Gymnastics | Women's College Gymnastics : Washington vs Rutgers (02:30)" tvg-logo="" group-title="Live Events",[22:30] Gymnastics | Women's College Gymnastics : Washington vs Rutgers (02:30)
+http://74.208.207.247/iptv/proxy.php?dlstreams=158
 
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] Copa Libertadores : Deportivo La Guaira vs Bolívar Sport 2 Israel" tvg-logo="" group-title="Live Events",[18:00] Copa Libertadores : Deportivo La Guaira vs Bolívar Sport 2 Israel
-http://74.208.207.247/proxy.php?dlstreams=141
+#EXTINF:-1 tvg-id="" tvg-name="[23:00] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Van De Zandschulp B. vs Shang J. (03:00)" tvg-logo="" group-title="Live Events",[23:00] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Van De Zandschulp B. vs Shang J. (03:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1507
 
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] Argentina - Reserve League : Talleres de Córdoba Res. vs Atlético Tucumán Res. TNT Sports Argentina" tvg-logo="" group-title="Live Events",[18:00] Argentina - Reserve League : Talleres de Córdoba Res. vs Atlético Tucumán Res. TNT Sports Argentina
-http://74.208.207.247/proxy.php?dlstreams=388
+#EXTINF:-1 tvg-id="" tvg-name="[23:00] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Van De Zandschulp B. vs Shang J. (03:00)" tvg-logo="" group-title="Live Events",[23:00] Tennis ATP - AUSTRALIAN OPEN | ATP - AO : Van De Zandschulp B. vs Shang J. (03:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=1527
 
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] South America - Copa Sudamericana : Torque vs Palestino ESPN3 Brazil" tvg-logo="" group-title="Live Events",[18:00] South America - Copa Sudamericana : Torque vs Palestino ESPN3 Brazil
-http://74.208.207.247/proxy.php?dlstreams=83
+#EXTINF:-1 tvg-id="" tvg-name="[23:00] Basketball | NBA G-League : Santa Cruz Warriors vs Sioux Falls Skyforce (03:00)" tvg-logo="" group-title="Live Events",[23:00] Basketball | NBA G-League : Santa Cruz Warriors vs Sioux Falls Skyforce (03:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=753
 
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] South America - Copa Sudamericana : Torque vs Palestino ESPN2 Argentina" tvg-logo="" group-title="Live Events",[18:00] South America - Copa Sudamericana : Torque vs Palestino ESPN2 Argentina
-http://74.208.207.247/proxy.php?dlstreams=150
+#EXTINF:-1 tvg-id="" tvg-name="[23:00] NBA G-League | NBA G-League : South Bay Lakers vs Mexico City Capitanes (03:00)" tvg-logo="" group-title="Live Events",[23:00] NBA G-League | NBA G-League : South Bay Lakers vs Mexico City Capitanes (03:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=173
 
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] South America - Copa Sudamericana : Torque vs Palestino beIN Sports MENA 3" tvg-logo="" group-title="Live Events",[18:00] South America - Copa Sudamericana : Torque vs Palestino beIN Sports MENA 3
-http://74.208.207.247/proxy.php?dlstreams=93
+#EXTINF:-1 tvg-id="" tvg-name="[23:00] NBA | NBA : Portland Trail Blazers vs Toronto Raptors (03:00)" tvg-logo="" group-title="Live Events",[23:00] NBA | NBA : Portland Trail Blazers vs Toronto Raptors (03:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=9
 
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] South America - Copa Sudamericana : Audax Italiano vs Vasco da Gama Sport TV1 Portugal" tvg-logo="" group-title="Live Events",[18:00] South America - Copa Sudamericana : Audax Italiano vs Vasco da Gama Sport TV1 Portugal
-http://74.208.207.247/proxy.php?dlstreams=49
+#EXTINF:-1 tvg-id="" tvg-name="[23:00] NBA | NBA : Portland Trail Blazers vs Toronto Raptors (03:00)" tvg-logo="" group-title="Live Events",[23:00] NBA | NBA : Portland Trail Blazers vs Toronto Raptors (03:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=111
 
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] South America - Copa Sudamericana : Audax Italiano vs Vasco da Gama beIN Sports MENA English 2" tvg-logo="" group-title="Live Events",[18:00] South America - Copa Sudamericana : Audax Italiano vs Vasco da Gama beIN Sports MENA English 2
-http://74.208.207.247/proxy.php?dlstreams=90
+#EXTINF:-1 tvg-id="" tvg-name="[23:00] NBA | NBA : Portland Trail Blazers vs Toronto Raptors (03:00)" tvg-logo="" group-title="Live Events",[23:00] NBA | NBA : Portland Trail Blazers vs Toronto Raptors (03:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=114
 
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] South America - Copa Sudamericana : Audax Italiano vs Vasco da Gama Sport 3 Israel" tvg-logo="" group-title="Live Events",[18:00] South America - Copa Sudamericana : Audax Italiano vs Vasco da Gama Sport 3 Israel
-http://74.208.207.247/proxy.php?dlstreams=142
+#EXTINF:-1 tvg-id="" tvg-name="[23:00] NBA | NBA : Portland Trail Blazers vs Toronto Raptors (03:00)" tvg-logo="" group-title="Live Events",[23:00] NBA | NBA : Portland Trail Blazers vs Toronto Raptors (03:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=840
 
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] College Baseball : Western Michigan vs Michigan State BTN+ USA" tvg-logo="" group-title="Live Events",[18:00] College Baseball : Western Michigan vs Michigan State BTN+ USA
-http://74.208.207.247/proxy.php?dlstreams=159
+#EXTINF:-1 tvg-id="" tvg-name="[23:00] NBA | NBA : Portland Trail Blazers vs Toronto Raptors (03:00)" tvg-logo="" group-title="Live Events",[23:00] NBA | NBA : Portland Trail Blazers vs Toronto Raptors (03:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=144
 
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] College Baseball : Rider vs Rutgers BTN+ USA" tvg-logo="" group-title="Live Events",[18:00] College Baseball : Rider vs Rutgers BTN+ USA
-http://74.208.207.247/proxy.php?dlstreams=160
+#EXTINF:-1 tvg-id="" tvg-name="[23:00] NHL | NHL : New Jersey Devils vs Vancouver Canucks (03:00)" tvg-logo="" group-title="Live Events",[23:00] NHL | NHL : New Jersey Devils vs Vancouver Canucks (03:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=15
 
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] College Baseball : Florida Gulf Coast vs Florida International ESPN+ USA" tvg-logo="" group-title="Live Events",[18:00] College Baseball : Florida Gulf Coast vs Florida International ESPN+ USA
-http://74.208.207.247/proxy.php?dlstreams=161
+#EXTINF:-1 tvg-id="" tvg-name="[23:00] NHL | NHL : New Jersey Devils vs Vancouver Canucks (03:00)" tvg-logo="" group-title="Live Events",[23:00] NHL | NHL : New Jersey Devils vs Vancouver Canucks (03:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=556
 
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] College Baseball : Mercer vs Georgia Southern ESPN+ USA" tvg-logo="" group-title="Live Events",[18:00] College Baseball : Mercer vs Georgia Southern ESPN+ USA
-http://74.208.207.247/proxy.php?dlstreams=162
+#EXTINF:-1 tvg-id="" tvg-name="[23:00] NHL | NHL : New Jersey Devils vs Vancouver Canucks (03:00)" tvg-logo="" group-title="Live Events",[23:00] NHL | NHL : New Jersey Devils vs Vancouver Canucks (03:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=557
 
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] College Baseball : Virginia Tech vs Liberty ESPN+ USA" tvg-logo="" group-title="Live Events",[18:00] College Baseball : Virginia Tech vs Liberty ESPN+ USA
-http://74.208.207.247/proxy.php?dlstreams=163
+#EXTINF:-1 tvg-id="" tvg-name="[23:00] NHL | NHL : New York Rangers vs San Jose Sharks (03:00)" tvg-logo="" group-title="Live Events",[23:00] NHL | NHL : New York Rangers vs San Jose Sharks (03:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=16
 
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] College Baseball : Iona vs Yale ESPN+ USA" tvg-logo="" group-title="Live Events",[18:00] College Baseball : Iona vs Yale ESPN+ USA
-http://74.208.207.247/proxy.php?dlstreams=164
+#EXTINF:-1 tvg-id="" tvg-name="[23:00] NHL | NHL : Anaheim Ducks vs Seattle Kraken (03:00)" tvg-logo="" group-title="Live Events",[23:00] NHL | NHL : Anaheim Ducks vs Seattle Kraken (03:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=17
 
-#EXTINF:-1 tvg-id="" tvg-name="[18:40] MLB : Philadelphia Phillies vs Oakland Athletics NBC Sports California" tvg-logo="" group-title="Live Events",[18:40] MLB : Philadelphia Phillies vs Oakland Athletics NBC Sports California
-http://74.208.207.247/proxy.php?dlstreams=755
+#EXTINF:-1 tvg-id="" tvg-name="[23:00] NCAA Volleyball | College Volleyball : UCLA vs UC San Diego (03:00)" tvg-logo="" group-title="Live Events",[23:00] NCAA Volleyball | College Volleyball : UCLA vs UC San Diego (03:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=232
 
-#EXTINF:-1 tvg-id="" tvg-name="[18:40] MLB : Philadelphia Phillies vs Oakland Athletics NBC Sports Philadelphia" tvg-logo="" group-title="Live Events",[18:40] MLB : Philadelphia Phillies vs Oakland Athletics NBC Sports Philadelphia
-http://74.208.207.247/proxy.php?dlstreams=777
+#EXTINF:-1 tvg-id="" tvg-name="[23:00] NCAA Volleyball | College Volleyball : St. Xavier vs Vanguard (03:00)" tvg-logo="" group-title="Live Events",[23:00] NCAA Volleyball | College Volleyball : St. Xavier vs Vanguard (03:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=233
 
-#EXTINF:-1 tvg-id="" tvg-name="[18:40] MLB : Miami Marlins vs Baltimore Orioles MASN USA" tvg-logo="" group-title="Live Events",[18:40] MLB : Miami Marlins vs Baltimore Orioles MASN USA
-http://74.208.207.247/proxy.php?dlstreams=829
+#EXTINF:-1 tvg-id="" tvg-name="[23:00] AHL | AHL : Colorado Eagles vs Bakersfield Condors (03:00)" tvg-logo="" group-title="Live Events",[23:00] AHL | AHL : Colorado Eagles vs Bakersfield Condors (03:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=168
 
-#EXTINF:-1 tvg-id="" tvg-name="[18:40] MLB : Detroit Tigers vs Boston Red Sox NESN USA" tvg-logo="" group-title="Live Events",[18:40] MLB : Detroit Tigers vs Boston Red Sox NESN USA
-http://74.208.207.247/proxy.php?dlstreams=762
+#EXTINF:-1 tvg-id="" tvg-name="[23:00] AHL | AHL : Ontario Reign vs Coachella Valley Firebirds (03:00)" tvg-logo="" group-title="Live Events",[23:00] AHL | AHL : Ontario Reign vs Coachella Valley Firebirds (03:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=169
 
-#EXTINF:-1 tvg-id="" tvg-name="[19:00] Canada - Northern Super League : Ottawa Rapid vs Vancouver Rise TSN1" tvg-logo="" group-title="Live Events",[19:00] Canada - Northern Super League : Ottawa Rapid vs Vancouver Rise TSN1
-http://74.208.207.247/proxy.php?dlstreams=111
-
-#EXTINF:-1 tvg-id="" tvg-name="[19:00] Canada - Northern Super League : Ottawa Rapid vs Vancouver Rise TSN5" tvg-logo="" group-title="Live Events",[19:00] Canada - Northern Super League : Ottawa Rapid vs Vancouver Rise TSN5
-http://74.208.207.247/proxy.php?dlstreams=115
-
-#EXTINF:-1 tvg-id="" tvg-name="[19:00] MLB : New York Yankees vs Texas Rangers beIN Sports 4 Max France" tvg-logo="" group-title="Live Events",[19:00] MLB : New York Yankees vs Texas Rangers beIN Sports 4 Max France
-http://74.208.207.247/proxy.php?dlstreams=494
-
-#EXTINF:-1 tvg-id="" tvg-name="[19:00] NBA : Philadelphia 76ers vs New York Knicks ESPN USA" tvg-logo="" group-title="Live Events",[19:00] NBA : Philadelphia 76ers vs New York Knicks ESPN USA
-http://74.208.207.247/proxy.php?dlstreams=44
-
-#EXTINF:-1 tvg-id="" tvg-name="[19:00] NBA : Philadelphia 76ers vs New York Knicks beIN Sports 1 France" tvg-logo="" group-title="Live Events",[19:00] NBA : Philadelphia 76ers vs New York Knicks beIN Sports 1 France
-http://74.208.207.247/proxy.php?dlstreams=116
-
-#EXTINF:-1 tvg-id="" tvg-name="[19:00] NBA : Philadelphia 76ers vs New York Knicks ESPN Deportes" tvg-logo="" group-title="Live Events",[19:00] NBA : Philadelphia 76ers vs New York Knicks ESPN Deportes
-http://74.208.207.247/proxy.php?dlstreams=375
-
-#EXTINF:-1 tvg-id="" tvg-name="[19:00] NBA : Philadelphia 76ers vs New York Knicks beIN SPORTS 8" tvg-logo="" group-title="Live Events",[19:00] NBA : Philadelphia 76ers vs New York Knicks beIN SPORTS 8
-http://74.208.207.247/proxy.php?dlstreams=98
-
-#EXTINF:-1 tvg-id="" tvg-name="[19:00] NBA : Philadelphia 76ers vs New York Knicks Cosmote Sport 4 Greece" tvg-logo="" group-title="Live Events",[19:00] NBA : Philadelphia 76ers vs New York Knicks Cosmote Sport 4 Greece
-http://74.208.207.247/proxy.php?dlstreams=625
-
-#EXTINF:-1 tvg-id="" tvg-name="[19:00] NBA : Philadelphia 76ers vs New York Knicks ESPN2 Brazil" tvg-logo="" group-title="Live Events",[19:00] NBA : Philadelphia 76ers vs New York Knicks ESPN2 Brazil
-http://74.208.207.247/proxy.php?dlstreams=82
-
-#EXTINF:-1 tvg-id="" tvg-name="[19:00] NHL : Buffalo Sabres vs Montreal Canadiens Viaplay Sports 1 UK" tvg-logo="" group-title="Live Events",[19:00] NHL : Buffalo Sabres vs Montreal Canadiens Viaplay Sports 1 UK
-http://74.208.207.247/proxy.php?dlstreams=451
-
-#EXTINF:-1 tvg-id="" tvg-name="[19:00] NHL : Buffalo Sabres vs Montreal Canadiens TNT USA" tvg-logo="" group-title="Live Events",[19:00] NHL : Buffalo Sabres vs Montreal Canadiens TNT USA
-http://74.208.207.247/proxy.php?dlstreams=338
-
-#EXTINF:-1 tvg-id="" tvg-name="[19:00] NHL : Buffalo Sabres vs Montreal Canadiens truTV USA" tvg-logo="" group-title="Live Events",[19:00] NHL : Buffalo Sabres vs Montreal Canadiens truTV USA
-http://74.208.207.247/proxy.php?dlstreams=341
-
-#EXTINF:-1 tvg-id="" tvg-name="[19:00] NHL : Buffalo Sabres vs Montreal Canadiens CBC CA" tvg-logo="" group-title="Live Events",[19:00] NHL : Buffalo Sabres vs Montreal Canadiens CBC CA
-http://74.208.207.247/proxy.php?dlstreams=832
-
-#EXTINF:-1 tvg-id="" tvg-name="[19:00] NHL : Buffalo Sabres vs Montreal Canadiens Sportsnet 360" tvg-logo="" group-title="Live Events",[19:00] NHL : Buffalo Sabres vs Montreal Canadiens Sportsnet 360
-http://74.208.207.247/proxy.php?dlstreams=409
-
-#EXTINF:-1 tvg-id="" tvg-name="[19:00] NHL : Buffalo Sabres vs Montreal Canadiens Sky Sport Mix DE" tvg-logo="" group-title="Live Events",[19:00] NHL : Buffalo Sabres vs Montreal Canadiens Sky Sport Mix DE
-http://74.208.207.247/proxy.php?dlstreams=557
-
-#EXTINF:-1 tvg-id="" tvg-name="[19:00] NHL : Buffalo Sabres vs Montreal Canadiens Sky Sport Top Event DE" tvg-logo="" group-title="Live Events",[19:00] NHL : Buffalo Sabres vs Montreal Canadiens Sky Sport Top Event DE
-http://74.208.207.247/proxy.php?dlstreams=556
-
-#EXTINF:-1 tvg-id="" tvg-name="[19:00] NHL : Buffalo Sabres vs Montreal Canadiens beIN Sports 2 France" tvg-logo="" group-title="Live Events",[19:00] NHL : Buffalo Sabres vs Montreal Canadiens beIN Sports 2 France
-http://74.208.207.247/proxy.php?dlstreams=117
-
-#EXTINF:-1 tvg-id="" tvg-name="[19:30] Canada - Canadian Championship : Montreal vs Calgary Blizzard Fox Sports 2 USA" tvg-logo="" group-title="Live Events",[19:30] Canada - Canadian Championship : Montreal vs Calgary Blizzard Fox Sports 2 USA
-http://74.208.207.247/proxy.php?dlstreams=758
-
-#EXTINF:-1 tvg-id="" tvg-name="[19:40] MLB : Chicago Cubs vs Cincinnati Reds Marquee Sports Network" tvg-logo="" group-title="Live Events",[19:40] MLB : Chicago Cubs vs Cincinnati Reds Marquee Sports Network
-http://74.208.207.247/proxy.php?dlstreams=770
-
-#EXTINF:-1 tvg-id="" tvg-name="[20:00] Life on Earth: Attenborough&#039;s Greatest Adventure PBS USA" tvg-logo="" group-title="Live Events",[20:00] Life on Earth: Attenborough&#039;s Greatest Adventure PBS USA
-http://74.208.207.247/proxy.php?dlstreams=210
-
-#EXTINF:-1 tvg-id="" tvg-name="[20:00] Police 24/7 (S2E47) CW USA" tvg-logo="" group-title="Live Events",[20:00] Police 24/7 (S2E47) CW USA
-http://74.208.207.247/proxy.php?dlstreams=300
-
-#EXTINF:-1 tvg-id="" tvg-name="[20:00] Police 24/7 (S2E47) CW PIX 11 USA" tvg-logo="" group-title="Live Events",[20:00] Police 24/7 (S2E47) CW PIX 11 USA
-http://74.208.207.247/proxy.php?dlstreams=280
-
-#EXTINF:-1 tvg-id="" tvg-name="[20:00] MasterChef (S25E4) FOXNY USA" tvg-logo="" group-title="Live Events",[20:00] MasterChef (S25E4) FOXNY USA
-http://74.208.207.247/proxy.php?dlstreams=768
-
-#EXTINF:-1 tvg-id="" tvg-name="[20:00] Survivor (S50E11) CBSNY USA" tvg-logo="" group-title="Live Events",[20:00] Survivor (S50E11) CBSNY USA
-http://74.208.207.247/proxy.php?dlstreams=767
-
-#EXTINF:-1 tvg-id="" tvg-name="[20:00] The Valley (S3E6) Bravo USA" tvg-logo="" group-title="Live Events",[20:00] The Valley (S3E6) Bravo USA
-http://74.208.207.247/proxy.php?dlstreams=307
-
-#EXTINF:-1 tvg-id="" tvg-name="[20:00] Love &amp;amp; Hip Hop Miami (S7E17) BET USA" tvg-logo="" group-title="Live Events",[20:00] Love &amp;amp; Hip Hop Miami (S7E17) BET USA
-http://74.208.207.247/proxy.php?dlstreams=306
-
-#EXTINF:-1 tvg-id="" tvg-name="[20:00] South America - Copa Sudamericana : Macará vs Tigre beIN Sports MENA Xtra 1" tvg-logo="" group-title="Live Events",[20:00] South America - Copa Sudamericana : Macará vs Tigre beIN Sports MENA Xtra 1
-http://74.208.207.247/proxy.php?dlstreams=100
-
-#EXTINF:-1 tvg-id="" tvg-name="[20:00] All Elite Wrestling AEW : Dynamite TBS USA" tvg-logo="" group-title="Live Events",[20:00] All Elite Wrestling AEW : Dynamite TBS USA
-http://74.208.207.247/proxy.php?dlstreams=336
-
-#EXTINF:-1 tvg-id="" tvg-name="[20:00] All Elite Wrestling AEW : Dynamite Fox Sports Premium MX" tvg-logo="" group-title="Live Events",[20:00] All Elite Wrestling AEW : Dynamite Fox Sports Premium MX
-http://74.208.207.247/proxy.php?dlstreams=830
-
-#EXTINF:-1 tvg-id="" tvg-name="[20:30] Copa Libertadores : Santa Fe vs Corinthians Sport TV3 Portugal" tvg-logo="" group-title="Live Events",[20:30] Copa Libertadores : Santa Fe vs Corinthians Sport TV3 Portugal
-http://74.208.207.247/proxy.php?dlstreams=454
-
-#EXTINF:-1 tvg-id="" tvg-name="[20:30] Copa Libertadores : Santa Fe vs Corinthians Fox Sports 2 Argentina" tvg-logo="" group-title="Live Events",[20:30] Copa Libertadores : Santa Fe vs Corinthians Fox Sports 2 Argentina
-http://74.208.207.247/proxy.php?dlstreams=788
-
-#EXTINF:-1 tvg-id="" tvg-name="[20:30] Copa Libertadores : Santa Fe vs Corinthians MAX Sport 4 Bulgaria" tvg-logo="" group-title="Live Events",[20:30] Copa Libertadores : Santa Fe vs Corinthians MAX Sport 4 Bulgaria
-http://74.208.207.247/proxy.php?dlstreams=475
-
-#EXTINF:-1 tvg-id="" tvg-name="[20:30] Copa Libertadores : Santa Fe vs Corinthians Sport 1 Israel" tvg-logo="" group-title="Live Events",[20:30] Copa Libertadores : Santa Fe vs Corinthians Sport 1 Israel
-http://74.208.207.247/proxy.php?dlstreams=140
-
-#EXTINF:-1 tvg-id="" tvg-name="[20:30] Copa Libertadores : Independiente Rivadavia vs Fluminense beIN Sports MENA 4" tvg-logo="" group-title="Live Events",[20:30] Copa Libertadores : Independiente Rivadavia vs Fluminense beIN Sports MENA 4
-http://74.208.207.247/proxy.php?dlstreams=94
-
-#EXTINF:-1 tvg-id="" tvg-name="[20:30] South America - Copa Sudamericana : Botafogo vs Racing Club Sportdigital FUSSBALL DE" tvg-logo="" group-title="Live Events",[20:30] South America - Copa Sudamericana : Botafogo vs Racing Club Sportdigital FUSSBALL DE
-http://74.208.207.247/proxy.php?dlstreams=571
-
-#EXTINF:-1 tvg-id="" tvg-name="[20:30] South America - Copa Sudamericana : Botafogo vs Racing Club Polsat Sport 1 Poland" tvg-logo="" group-title="Live Events",[20:30] South America - Copa Sudamericana : Botafogo vs Racing Club Polsat Sport 1 Poland
-http://74.208.207.247/proxy.php?dlstreams=47
-
-#EXTINF:-1 tvg-id="" tvg-name="[21:00] Flavortown Food Fight (S1E10) The Food Network" tvg-logo="" group-title="Live Events",[21:00] Flavortown Food Fight (S1E10) The Food Network
-http://74.208.207.247/proxy.php?dlstreams=384
-
-#EXTINF:-1 tvg-id="" tvg-name="[21:00] K9 PD With Jim Belushi (S1E12) A&amp;amp;E" tvg-logo="" group-title="Live Events",[21:00] K9 PD With Jim Belushi (S1E12) A&amp;amp;E
-http://74.208.207.247/proxy.php?dlstreams=302
-
-#EXTINF:-1 tvg-id="" tvg-name="[21:00] To Catch a Smuggler: Contraband Capture (S1E2) National Geographic" tvg-logo="" group-title="Live Events",[21:00] To Catch a Smuggler: Contraband Capture (S1E2) National Geographic
-http://74.208.207.247/proxy.php?dlstreams=328
-
-#EXTINF:-1 tvg-id="" tvg-name="[21:00] Expedition Files (S4E6) Discovery Channel" tvg-logo="" group-title="Live Events",[21:00] Expedition Files (S4E6) Discovery Channel
-http://74.208.207.247/proxy.php?dlstreams=313
-
-#EXTINF:-1 tvg-id="" tvg-name="[21:00] Wheeler Dealers World Tour (S1E6) Discovery Velocity" tvg-logo="" group-title="Live Events",[21:00] Wheeler Dealers World Tour (S1E6) Discovery Velocity
-http://74.208.207.247/proxy.php?dlstreams=285
-
-#EXTINF:-1 tvg-id="" tvg-name="[21:00] Homicide Hunter: American Detective (S6E4) Investigation Discovery" tvg-logo="" group-title="Live Events",[21:00] Homicide Hunter: American Detective (S6E4) Investigation Discovery
-http://74.208.207.247/proxy.php?dlstreams=324
-
-#EXTINF:-1 tvg-id="" tvg-name="[21:00] USL Championship : El Paso Locomotive - New Mexico United CBS Sports Golazo Network" tvg-logo="" group-title="Live Events",[21:00] USL Championship : El Paso Locomotive - New Mexico United CBS Sports Golazo Network
-http://74.208.207.247/proxy.php?dlstreams=910
-
-#EXTINF:-1 tvg-id="" tvg-name="[21:00] College Baseball : New Mexico State vs Arizona ESPN+ USA" tvg-logo="" group-title="Live Events",[21:00] College Baseball : New Mexico State vs Arizona ESPN+ USA
-http://74.208.207.247/proxy.php?dlstreams=169
-
-#EXTINF:-1 tvg-id="" tvg-name="[21:30] CONCACAF Champions Cup : Toluca vs Los Angeles FC Fox Sports 1 USA" tvg-logo="" group-title="Live Events",[21:30] CONCACAF Champions Cup : Toluca vs Los Angeles FC Fox Sports 1 USA
-http://74.208.207.247/proxy.php?dlstreams=39
-
-#EXTINF:-1 tvg-id="" tvg-name="[21:30] CONCACAF Champions Cup : Toluca vs Los Angeles FC Sport TV4 Portugal" tvg-logo="" group-title="Live Events",[21:30] CONCACAF Champions Cup : Toluca vs Los Angeles FC Sport TV4 Portugal
-http://74.208.207.247/proxy.php?dlstreams=289
-
-#EXTINF:-1 tvg-id="" tvg-name="[21:30] CONCACAF Champions Cup : Toluca vs Los Angeles FC Polsat Sport 2 Poland" tvg-logo="" group-title="Live Events",[21:30] CONCACAF Champions Cup : Toluca vs Los Angeles FC Polsat Sport 2 Poland
-http://74.208.207.247/proxy.php?dlstreams=50
-
-#EXTINF:-1 tvg-id="" tvg-name="[21:30] CONCACAF Champions Cup : Toluca vs Los Angeles FC UniMás" tvg-logo="" group-title="Live Events",[21:30] CONCACAF Champions Cup : Toluca vs Los Angeles FC UniMás
-http://74.208.207.247/proxy.php?dlstreams=133
-
-#EXTINF:-1 tvg-id="" tvg-name="[21:30] CONCACAF Champions Cup : Toluca vs Los Angeles FC ESPN 3 NL" tvg-logo="" group-title="Live Events",[21:30] CONCACAF Champions Cup : Toluca vs Los Angeles FC ESPN 3 NL
-http://74.208.207.247/proxy.php?dlstreams=888
-
-#EXTINF:-1 tvg-id="" tvg-name="[21:30] CONCACAF Champions Cup : Toluca vs Los Angeles FC Sportklub 3 Croatia" tvg-logo="" group-title="Live Events",[21:30] CONCACAF Champions Cup : Toluca vs Los Angeles FC Sportklub 3 Croatia
-http://74.208.207.247/proxy.php?dlstreams=103
-
-#EXTINF:-1 tvg-id="" tvg-name="[21:40] MLB : Arizona Diamondbacks vs Pittsburgh Pirates SportsNet Pittsburgh" tvg-logo="" group-title="Live Events",[21:40] MLB : Arizona Diamondbacks vs Pittsburgh Pirates SportsNet Pittsburgh
-http://74.208.207.247/proxy.php?dlstreams=922
-
-#EXTINF:-1 tvg-id="" tvg-name="[22:00] The Bad Foot Clinic (S1E2) TLC" tvg-logo="" group-title="Live Events",[22:00] The Bad Foot Clinic (S1E2) TLC
-http://74.208.207.247/proxy.php?dlstreams=337
-
-#EXTINF:-1 tvg-id="" tvg-name="[22:00] NHL : Vegas Golden Knights vs Anaheim Ducks Viaplay Sports 2 UK" tvg-logo="" group-title="Live Events",[22:00] NHL : Vegas Golden Knights vs Anaheim Ducks Viaplay Sports 2 UK
-http://74.208.207.247/proxy.php?dlstreams=550
-
-#EXTINF:-1 tvg-id="" tvg-name="[22:15] Honduras - Liga Nacional : Olimpia vs Marathón FOX Deportes" tvg-logo="" group-title="Live Events",[22:15] Honduras - Liga Nacional : Olimpia vs Marathón FOX Deportes
-http://74.208.207.247/proxy.php?dlstreams=643
-
-#EXTINF:-1 tvg-id="" tvg-name="[23:30] Saturday Night Live (SNL) Sky One USA" tvg-logo="" group-title="Live Events",[23:30] Saturday Night Live (SNL) Sky One USA
-http://74.208.207.247/proxy.php?dlstreams=708
-
-#EXTINF:-1 tvg-id="" tvg-name="[23:30] Saturday Night Live (SNL) NBCNY USA" tvg-logo="" group-title="Live Events",[23:30] Saturday Night Live (SNL) NBCNY USA
-http://74.208.207.247/proxy.php?dlstreams=769
+#EXTINF:-1 tvg-id="" tvg-name="[23:00] Swimming | College Swimming : Indiana vs Purdue (03:00)" tvg-logo="" group-title="Live Events",[23:00] Swimming | College Swimming : Indiana vs Purdue (03:00)
+http://74.208.207.247/iptv/proxy.php?dlstreams=234
 

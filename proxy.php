@@ -8,6 +8,74 @@ error_reporting(E_ALL ^ E_DEPRECATED);
 
 $ua = "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0";
 
+// ===== DLSTREAMS SOURCE (via EasyProxy extractor) =====
+$dlstreamsId = $_GET["dlstreams"] ?? "";
+if (!empty($dlstreamsId)) {
+    // Llamar al extractor de EasyProxy en el VPS
+    $extractorUrl = "http://127.0.0.1:8080/extractor?url=https://dlstreams.com/watch.php?id=" . intval($dlstreamsId) . "&extractor=daddylivehd";
+    
+    $ch = curl_init();
+    curl_setopt_array($ch, [
+        CURLOPT_URL            => $extractorUrl,
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_TIMEOUT        => 15,
+    ]);
+    $extractJson = curl_exec($ch);
+    $extractData = json_decode($extractJson, true);
+    
+    if (!$extractData || empty($extractData["destination_url"])) {
+        http_response_code(502);
+        die("ERROR: extractor failed");
+    }
+    
+    $destUrl = $extractData["destination_url"];
+    $headers = $extractData["request_headers"] ?? [];
+    
+    // Fetch M3U8 con los headers requeridos
+    $httpHeaders = [];
+    foreach ($headers as $k => $v) {
+        if (!in_array(strtolower($k), ["cookie", "host", "content-length"])) {
+            $httpHeaders[] = "$k: $v";
+        }
+    }
+    
+    curl_setopt_array($ch, [
+        CURLOPT_URL            => $destUrl,
+        CURLOPT_USERAGENT      => $headers["User-Agent"] ?? $ua,
+        CURLOPT_REFERER        => $headers["Referer"] ?? "",
+        CURLOPT_HTTPHEADER     => $httpHeaders,
+        CURLOPT_FOLLOWLOCATION => true,
+    ]);
+    $m3u8Body = curl_exec($ch);
+    $m3u8Code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+    $finalUrl = curl_getinfo($ch, CURLINFO_EFFECTIVE_URL);
+    
+    if ($m3u8Code >= 400 || !$m3u8Body) {
+        http_response_code(502);
+        die("ERROR: stream no accesible (HTTP $m3u8Code)");
+    }
+    
+    // Rewrite segments to absolute CDN URLs
+    $basePath = dirname($finalUrl) . "/";
+    $query = parse_url($finalUrl, PHP_URL_QUERY);
+    $queryAppend = $query ? "?" . $query : "";
+    
+    $lines = explode("\n", $m3u8Body);
+    foreach ($lines as &$line) {
+        $line = rtrim($line);
+        if (!empty($line) && $line[0] !== "#" && !str_starts_with($line, "http")) {
+            $line = $basePath . $line . $queryAppend;
+        }
+    }
+    $m3u8Body = implode("\n", $lines);
+    
+    header("Content-Type: application/vnd.apple.mpegurl");
+    header("Access-Control-Allow-Origin: *");
+    header("Cache-Control: no-store, no-cache, must-revalidate");
+    echo $m3u8Body;
+    exit;
+}
+
 // ===== TS SEGMENT PROXY =====
 $path = $_SERVER["REQUEST_URI"] ?? $_SERVER["PATH_INFO"] ?? "";
 if (preg_match('#/ts/([A-Za-z0-9_-]+)\.ts#', $path, $tm)) {

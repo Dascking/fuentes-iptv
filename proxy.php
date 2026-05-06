@@ -8,6 +8,36 @@ error_reporting(E_ALL ^ E_DEPRECATED);
 
 $ua = "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0";
 
+// ===== SEGMENT PROXY (para VLC macOS) =====
+$segB64 = $_GET["seg"] ?? "";
+if (!empty($segB64)) {
+    $segUrl = base64_decode(strtr($segB64, '-_', '+/'));
+    if (!$segUrl || !str_starts_with($segUrl, "https://")) {
+        http_response_code(400); die("invalid seg");
+    }
+    
+    $ch = curl_init();
+    curl_setopt_array($ch, [
+        CURLOPT_URL            => $segUrl,
+        CURLOPT_USERAGENT      => $ua,
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_TIMEOUT        => 10,
+        CURLOPT_SSL_VERIFYPEER => false,
+    ]);
+    $segData = curl_exec($ch);
+    $segCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+    
+    if ($segCode >= 400 || !$segData) {
+        http_response_code(502); die("seg error");
+    }
+    
+    header("Content-Type: video/mp2t");
+    header("Access-Control-Allow-Origin: *");
+    header("Cache-Control: public, max-age=30");
+    echo $segData;
+    exit;
+}
+
 // ===== DLSTREAMS SOURCE (via EasyProxy extractor) =====
 $dlstreamsId = $_GET["dlstreams"] ?? "";
 if (!empty($dlstreamsId)) {
@@ -55,13 +85,17 @@ if (!empty($dlstreamsId)) {
         die("ERROR: stream no accesible (HTTP $m3u8Code)");
     }
     
-    // Rewrite relative segments to absolute CDN URLs (direct, sin pasar por VPS)
+    // Rewrite segments through our proxy (VLC en macOS tiene bug TLS con R2)
     $basePath = dirname($finalUrl) . "/";
     $lines = explode("\n", $m3u8Body);
     foreach ($lines as &$line) {
         $line = rtrim($line);
         if (!empty($line) && $line[0] !== "#" && !str_starts_with($line, "http")) {
             $line = $basePath . $line;
+        }
+        if (!empty($line) && str_starts_with($line, "https://")) {
+            $segB64 = rtrim(strtr(base64_encode($line), '+/', '-_'), '=');
+            $line = "http://74.208.207.247/proxy.php?seg=" . $segB64;
         }
     }
     $m3u8Body = implode("\n", $lines);
